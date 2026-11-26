@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 import json
 from pathlib import Path
 import re
@@ -18,6 +18,10 @@ class TranslationCandidate:
     score: float | None
     source: str
     category: str | None = None
+    nll: float | None = None
+    confidence: float | None = None
+    token_count: int | None = field(default=None, repr=False, compare=False)
+    below_cutoff: bool = field(default=False, repr=False, compare=False)
 
 
 @dataclass
@@ -39,6 +43,7 @@ class NeuralTranslator:
         self.torch = torch
         self.tokenizer = load(tokenizer_path)
         state = torch.load(model_path, map_location="cpu", weights_only=True)
+        self.checkpoint_epoch = state.get("epoch")
         self.training_hash = state["dataset_hashes"]["train"]
         self.validation_hash = state["dataset_hashes"]["val"]
         if state["dataset_hashes"]["tokenizer"] != digest(tokenizer_path) or state["vocab_size"] != len(self.tokenizer):
@@ -60,6 +65,7 @@ class NeuralTranslator:
         threads(self.settings["threads"])
         self.model = TransformerNMT(len(self.tokenizer), **state["config"]["model"])
         self.model.load_state_dict(state["model_state_dict"])
+        self.parameter_count = sum(parameter.numel() for parameter in self.model.parameters())
         self.model.eval()
         if self.settings.get("quantize"):
             self.model = torch.ao.quantization.quantize_dynamic(self.model, {torch.nn.Linear}, dtype=torch.qint8)
@@ -84,7 +90,12 @@ class NeuralTranslator:
                 continue
             length = len(tokens) + 1  # EOS contributes to the beam score.
             nll = -score * length_normalizer(length, self.settings["length_penalty"]) / length
-            results.setdefault(lookup_key(text), (TranslationCandidate(text, score, "nmt"), nll))
+            cutoff = self.max_token_nll
+            confidence = None if cutoff is None else max(0., min(1., 1. - nll / cutoff))
+            candidate = TranslationCandidate(text, score, "nmt", nll=nll, confidence=confidence,
+                                             token_count=len(tokens),
+                                             below_cutoff=cutoff is not None and nll > cutoff)
+            results.setdefault(lookup_key(text), (candidate, nll))
         return list(results.values())
 
     def translate(self, text, top_k, beam_size):
@@ -116,12 +127,13 @@ class Translator:
 
     def load_neural(self):
         if self.neural is None:
-            if not all(path and Path(path).is_file() for path in self.paths):
-                raise ValueError("Model or tokenizer file is missing")
+            for label, path in zip(("Model checkpoint", "Tokenizer"), self.paths):
+                if not path or not Path(path).is_file():
+                    raise FileNotFoundError(f"{label} file is missing: {path}")
             self.neural = NeuralTranslator(*self.paths, self.config)
         return self.neural
 
-    def translate(self, text, method="auto", top_k=3, beam_size=5):
+    def translate(self, text, method="auto", top_k=3, beam_size=5, *, strict_errors=False):
         if method not in {"auto", "dictionary", "nmt"} or not 1 <= top_k <= 50 or not 1 <= beam_size <= 50:
             raise ValueError("Invalid method, top-k or beam size")
         started = perf_counter()
@@ -161,6 +173,8 @@ class Translator:
                     if translations:
                         used = "nmt"
                 except (OSError, ValueError, RuntimeError, ImportError) as error:
+                    if strict_errors:
+                        raise
                     warnings.append(str(error))
             if not translations and not warnings:
                 warnings.append("No translation found.")

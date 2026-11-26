@@ -17,6 +17,50 @@ alternatives, method, and elapsed time. Use `:help` in interactive mode or
 `--json` for machine-readable one-shot results. Dictionary-only queries can
 run without importing the model dependencies.
 
+### Terminal and scripting options
+
+```text
+English    Good morning.
+Bikol      Marhay na aga po.
+Also       Marhay na aga
+Method     dictionary · Greeting
+Time       0.5 ms
+```
+
+- Use `--quiet` for just the primary translation or `--plain` for ASCII
+  `key=value` lines. Plain output escapes non-ASCII input and translation
+  characters so their values can be recovered.
+- Use `--details` (also `--verbose`) to see available model scores, token counts,
+  and the first-load time. NMT badges reflect the calibrated cutoff.
+- Use `--no-color`, `--ascii`, or `--width 40` to adjust the display.
+  Color defaults to automatic and respects `NO_COLOR`. `--color always`
+  requests color in redirected text.
+- Interactive commands include `:method dict`, `:beam 5`, `:topk 3`,
+  `:timing off`, `:low on`, `:color off`, and `:json on`. Use
+  `:config`, `:model`, `:stats`, and `:history` to inspect the session.
+  `:help beam` gives command-specific help. History stays in the session.
+- One-shot `--json` writes one object. `--json-pretty` indents it. The
+  existing keys are preserved, with optional numeric `nll` and `confidence`
+  fields on NMT candidates. Interactive JSON writes one object per line to
+  stdout and puts shell messages on stderr.
+
+Batch mode defaults to TSV on stdout or in the selected output file. Use
+`--format text` for readable blocks or `--format jsonl` for a stream of
+JSON objects. The TSV retains its original columns and candidate objects.
+Use `--skip-blank` to omit blank lines and `--fail-fast` to stop on the
+first runtime error. Progress and the final summary go to stderr. A declined
+translation is a successful request with method `no_match`.
+
+```powershell
+& $python scripts/translate.py --plain --text 'Good morning.'
+& $python scripts/translate.py --json-pretty --text 'Good morning.'
+& $python scripts/translate.py --input-file inputs.txt --format text --width 40
+& $python scripts/translate.py --input-file inputs.txt --format jsonl --output-file results.jsonl
+```
+
+Exit codes are `0` for success, `1` for a runtime error, `2` for an invalid
+option, and `130` for an interrupt. Use `--debug` to include tracebacks.
+
 ## Rebuild from the raw dataset
 
 The tested Windows environment uses Python 3.15 and the CPU-only PyTorch
