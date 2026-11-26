@@ -1,0 +1,69 @@
+{
+  "test_file": "data/splits/test.csv",
+  "test_rows": 111,
+  "test_sha256": "8bc5deaef604304d1f86efdf303113e2ef645940633a0dec9837ee2d83ef6d66",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "cpu": "12th Gen Intel(R) Core(TM) i5-1235U",
+  "versions": {
+    "torch": "2.15.0+cpu",
+    "transformers": "4.57.6",
+    "sacrebleu": "2.6.0"
+  },
+  "marian_model_id": "Helsinki-NLP/opus-mt-en-bcl",
+  "threads": 1,
+  "beam_size": 5,
+  "warmup_rows_per_engine": 1,
+  "method": "Unfiltered top NMT result, without dictionary or custom confidence rules",
+  "memory_note": "Peak working set from a fresh process for each engine, including model loading",
+  "pretraining_note": "The project's test split was held out from custom training. Overlap with the upstream MarianMT training corpus is unverified.",
+  "models": {
+    "custom": {
+      "test_sha256": "8bc5deaef604304d1f86efdf303113e2ef645940633a0dec9837ee2d83ef6d66",
+      "rows": 111,
+      "weights_bytes": 11407739,
+      "parameters": 2845440,
+      "max_new_tokens": 47,
+      "load_ms": 1716.1527999996906,
+      "latency": {
+        "median_ms": 37.47740000108024,
+        "p95_ms": 95.6832999981998
+      },
+      "peak_before_load_mib": 32.99609375,
+      "peak_after_load_mib": 241.32421875,
+      "peak_working_set_mib": 255.91796875,
+      "empty_outputs": 0,
+      "scores": {
+        "bleu": 35.57253238987033,
+        "chrf": 54.11195604786017,
+        "chrf++": 53.42423428530627,
+        "exact_match": 9.00900900900901,
+        "token_f1": 60.133473438426996
+      },
+      "weights_sha256": "835674b1fdef5d07854ef61d3ef33fa995f8f9bc01dda2ac4c3a799915427c2c"
+    },
+    "marian": {
+      "test_sha256": "8bc5deaef604304d1f86efdf303113e2ef645940633a0dec9837ee2d83ef6d66",
+      "rows": 111,
+      "weights_bytes": 298654617,
+      "parameters": 74591744,
+      "max_new_tokens": 47,
+      "load_ms": 9339.583799999673,
+      "latency": {
+        "median_ms": 369.6862000033434,
+        "p95_ms": 761.8000000002212
+      },
+      "peak_before_load_mib": 33.0546875,
+      "peak_after_load_mib": 737.69921875,
+      "peak_working_set_mib": 783.4140625,
+      "empty_outputs": 0,
+      "scores": {
+        "bleu": 18.17414977784578,
+        "chrf": 52.62096827730849,
+        "chrf++": 49.942585192635555,
+        "exact_match": 1.8018018018018018,
+        "token_f1": 52.84344183018298
+      },
+      "weights_sha256": "3ed444f32c2bf21d934377a78aadad9d8b7e545e31ffbfbb64bb249815b57c81"
+    }
+  }
+}

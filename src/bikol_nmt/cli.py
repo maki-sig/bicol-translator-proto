@@ -14,7 +14,7 @@ import sys
 from time import perf_counter
 
 from . import data, ui
-from .inference import TranslationResult, Translator
+from .inference import ENGINES, TranslationResult, Translator
 
 PROCESSED = Path("data/processed")
 REPO_ROOT = Path(__file__).resolve().parents[2]
@@ -22,6 +22,7 @@ SPLITS = Path("data/splits")
 ARTIFACTS = Path("artifacts")
 TOKENIZER = ARTIFACTS / "tokenizer/bikol_naga_bpe.model"
 MODEL = ARTIFACTS / "model/best.pt"
+MARIAN_DIR = ARTIFACTS / "marian/opus-mt-en-bcl"
 DICTIONARY = Path("data/dictionary/bikol_naga.sqlite")
 TRAIN_DICTIONARY = DICTIONARY.with_name("bikol_naga_train_only.sqlite")
 METHODS = ("auto", "dictionary", "nmt")
@@ -50,11 +51,14 @@ def translate_options(parser):
     path(parser, "dictionary", REPO_ROOT / DICTIONARY)
     path(parser, "model", REPO_ROOT / MODEL)
     path(parser, "tokenizer", REPO_ROOT / TOKENIZER)
+    path(parser, "marian-dir", REPO_ROOT / MARIAN_DIR)
+    parser.add_argument("--engine", choices=ENGINES, default="marian",
+                        help="NMT engine to use after the dictionary lookup (default: marian)")
     parser.add_argument("--method", choices=METHODS, default="auto")
     parser.add_argument("--beam-size", type=int, choices=range(1, 51), default=5, metavar="N")
     parser.add_argument("--top-k", type=int, choices=range(1, 51), default=3, metavar="N")
     parser.add_argument("--threads", type=positive_int)
-    parser.add_argument("--quantize", action="store_true", help="experiment with dynamic int8 linear layers")
+    parser.add_argument("--quantize", action="store_true", help="experiment with dynamic int8 layers in the custom engine")
     parser.add_argument("--allow-low-confidence", action="store_true",
                         help="include model outputs below the accuracy cutoff")
     parser.add_argument("--json", action="store_true", help="write JSON output")
@@ -195,7 +199,8 @@ class ConsoleTranslator(Translator):
         config = {"allow_low_confidence": args.allow_low_confidence, "quantize": args.quantize}
         if args.threads is not None:
             config["threads"] = args.threads
-        super().__init__(dictionary, args.model, args.tokenizer, config)
+        super().__init__(dictionary, args.model, args.tokenizer, config,
+                         engine=args.engine, marian_dir=args.marian_dir)
         self.args = args
         self.load_ms = None
         self.clear_status = None
@@ -352,6 +357,7 @@ def batch_rows(translator, sources, args, stream, format_name):
 HELP = {
     "Translation": {
         "method": ("auto|dictionary|nmt", "Set the translation method (dict and d also work)."),
+        "engine": ("custom|marian", "Select the NMT engine used after a dictionary miss."),
         "beam": ("1-50", "Set the beam size."),
         "topk": ("1-50", "Set the maximum number of translations."),
         "low": ("on|off", "Include or hide low-confidence guesses."),
@@ -408,10 +414,11 @@ def session_path(path):
 
 def session_config(view, args):
     for label, value in (
-        ("Method", args.method), ("Beam", args.beam_size), ("Top-k", args.top_k),
+        ("Method", args.method), ("Engine", args.engine), ("Beam", args.beam_size), ("Top-k", args.top_k),
         ("Timing", on_off(args.timing)), ("Low conf.", on_off(args.allow_low_confidence)),
         ("Color", on_off(view.color)), ("JSON", on_off(args.json_mode)), ("Dictionary", session_path(args.dictionary)),
         ("Model", session_path(args.model)), ("Tokenizer", session_path(args.tokenizer)),
+        ("MarianMT", session_path(args.marian_dir)),
         ("Threads", args.threads or "auto"),
     ):
         ui.wrapped(view, label, value)
@@ -419,6 +426,12 @@ def session_config(view, args):
 
 def session_model(view, translator):
     neural = translator.load_neural()
+    if translator.engine == "marian":
+        from .marian import MODEL_ID
+        ui.wrapped(view, "Engine", MODEL_ID)
+        ui.wrapped(view, "Snapshot", session_path(translator.args.marian_dir))
+        ui.wrapped(view, "Parameters", f"{neural.parameter_count:,}")
+        return
     for label, value in (
         ("Checkpoint", session_path(translator.args.model)), ("Epoch", neural.checkpoint_epoch or "unknown"),
         ("Parameters", f"{neural.parameter_count:,}"),
@@ -461,6 +474,13 @@ def session_command(text, view, translator, args, counts, elapsed_ms, history):
             print(f"Method set to {method}.", file=view.stream)
         else:
             print("Use :method auto, dictionary or nmt.", file=view.stream)
+    elif name == "engine":
+        if value in ENGINES:
+            translator.select_engine(value)
+            args.engine = value
+            print(f"NMT engine set to {value}.", file=view.stream)
+        else:
+            print("Use :engine custom or marian.", file=view.stream)
     elif name in ("beam", "topk"):
         if not re.fullmatch(r"[0-9]{1,2}", value) or not 1 <= int(value) <= 50:
             print(f"Use :{name} with a number from 1 to 50.", file=view.stream)
@@ -510,7 +530,8 @@ def interactive(translator, args):
         view = terminal_view(args, sys.stderr)
         sep = view.separator
         ui.wrapped(view, "", f"Bikol-Naga Translator{sep}offline", label_width=0, role="translation")
-        ui.wrapped(view, "", sep.join(("Dictionary + Transformer", args.model.name,
+        engine_name = "MarianMT" if args.engine == "marian" else args.model.name
+        ui.wrapped(view, "", sep.join(("Dictionary + Transformer", engine_name,
                                       f"beam {args.beam_size}", f"top-k {args.top_k}")), label_width=0)
         ui.wrapped(view, "", f"Type English. :help for commands{sep}:q to quit.", label_width=0)
     while True:

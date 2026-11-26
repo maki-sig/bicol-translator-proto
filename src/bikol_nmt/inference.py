@@ -7,6 +7,7 @@ from time import perf_counter
 from .dictionary import Dictionary
 from .text import display, fold, lookup_key
 
+ENGINES = ("custom", "marian")
 
 def english_words(text):
     return re.findall(r"[^\W\d_]+(?:[-'][^\W\d_]+)*|\d+", fold(text))
@@ -22,6 +23,7 @@ class TranslationCandidate:
     confidence: float | None = None
     token_count: int | None = field(default=None, repr=False, compare=False)
     below_cutoff: bool = field(default=False, repr=False, compare=False)
+    engine: str | None = field(default=None, compare=False)
 
 
 @dataclass
@@ -94,7 +96,7 @@ class NeuralTranslator:
             confidence = None if cutoff is None else max(0., min(1., 1. - nll / cutoff))
             candidate = TranslationCandidate(text, score, "nmt", nll=nll, confidence=confidence,
                                              token_count=len(tokens),
-                                             below_cutoff=cutoff is not None and nll > cutoff)
+                                             below_cutoff=cutoff is not None and nll > cutoff, engine="custom")
             results.setdefault(lookup_key(text), (candidate, nll))
         return list(results.values())
 
@@ -115,18 +117,37 @@ class NeuralTranslator:
 
 
 class Translator:
-    def __init__(self, dictionary_path, model_path, tokenizer_path, config=None):
+    def __init__(self, dictionary_path, model_path, tokenizer_path, config=None, *,
+                 engine="custom", marian_dir=None):
+        if engine not in ENGINES:
+            raise ValueError(f"Unknown NMT engine: {engine}")
         self.dictionary = Dictionary(Path(dictionary_path)) if dictionary_path else None
         self.paths = (model_path, tokenizer_path)
+        self.engine = engine
+        self.marian_dir = marian_dir
         self.config = config or {}
         self.neural = None
 
     def close(self):
         if self.dictionary:
             self.dictionary.close()
+        self.neural = None
+
+    def select_engine(self, engine):
+        if engine not in ENGINES:
+            raise ValueError(f"Unknown NMT engine: {engine}")
+        if engine != self.engine:
+            self.neural = None
+            self.engine = engine
 
     def load_neural(self):
-        if self.neural is None:
+        if self.neural is not None:
+            return self.neural
+        if self.engine == "marian":
+            from .marian import MarianTranslator
+
+            self.neural = MarianTranslator(self.marian_dir, self.config)
+        else:
             for label, path in zip(("Model checkpoint", "Tokenizer"), self.paths):
                 if not path or not Path(path).is_file():
                     raise FileNotFoundError(f"{label} file is missing: {path}")

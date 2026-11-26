@@ -4,6 +4,7 @@ from importlib.metadata import version
 import os
 import random
 from statistics import mean, median, quantiles
+import sys
 from time import perf_counter
 
 from sacrebleu.metrics import BLEU, CHRF
@@ -49,7 +50,10 @@ def latency(values):
 
 def peak_working_set():
     if os.name != "nt":
-        return None
+        import resource
+
+        peak = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
+        return peak / (2**20 if sys.platform == "darwin" else 1024)
     import ctypes
     from ctypes import wintypes
 

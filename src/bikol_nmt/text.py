@@ -2,9 +2,13 @@ import re
 import unicodedata
 
 
-def fold(text):
+def clean_text(text):
     text = unicodedata.normalize("NFC", text).replace("’", "'").replace("‘", "'")
-    return " ".join(text.lower().split())
+    return " ".join(text.split())
+
+
+def fold(text):
+    return clean_text(text).lower()
 
 
 def lookup_key(text):

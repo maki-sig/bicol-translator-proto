@@ -234,7 +234,7 @@ class CliTests(unittest.TestCase):
         self.assertIn("hint:", invalid.stderr)
         for option, expected in (("--dictionary", "build_dictionary.py"), ("--model", "train_nmt.py"),
                                  ("--tokenizer", "train_tokenizer.py")):
-            extra = [] if option == "--dictionary" else ["--method", "nmt"]
+            extra = [] if option == "--dictionary" else ["--method", "nmt", "--engine", "custom"]
             if option == "--tokenizer":
                 checkpoint = self.root / "placeholder.pt"
                 checkpoint.touch()

@@ -11,11 +11,81 @@ $python = '.\.venv\Scripts\python.exe'
 & $python scripts/translate.py --input-file inputs.txt --output-file outputs.tsv
 ```
 
-The CLI normalizes the full input for an exact SQLite lookup. On a miss it
-uses a Transformer trained from scratch on this project's data. It displays
-alternatives, method, and elapsed time. Use `:help` in interactive mode or
-`--json` for machine-readable one-shot results. Dictionary-only queries can
-run without importing the model dependencies.
+Use `:help` in interactive mode or `--json` for machine-readable results.
+
+## How translation works
+
+The translator has two ways to answer. It looks for a translation in the
+project's dictionary first. If the sentence is unfamiliar, it asks the selected
+translation model to write a Bikol version.
+
+```text
+English input → Translation controller → Look up the full input in SQLite
+                                          ├─ Match found → Return saved translation
+                                          └─ No match    → Ask the selected model
+                                                              ↓
+                            Show the translation, alternatives, method, and time
+```
+
+1. **Read the English.** The terminal accepts a single line, repeated inputs
+   in an interactive session, or a file with one input per line.
+2. **Check the whole input.** For the lookup, the translator ignores
+   differences such as capitalization, extra spaces, and a final period.
+   For example, “Good morning.” can match the saved entry for “good morning”.
+   If the dictionary has several translations, the terminal can show them as
+   alternatives.
+3. **Generate a translation when needed.** MarianMT is the default model.
+   It breaks the English into smaller pieces so it can use the full sentence
+   as context while predicting the Bikol text. The custom
+   Transformer is also available with `--engine custom` or `:engine custom`.
+4. **Show the result.** The terminal reports whether the answer came from the
+   dictionary or a model. A dictionary answer uses the wording saved in the
+   dataset. A model answer is a prediction and can miss details or change
+   the meaning.
+
+## How the project is built
+
+| Part | What it does |
+|---|---|
+| [Data preparation](scripts/build_nmt_csv.py) | Turns the raw dataset into a clean table of English and Bikol pairs. The full table feeds the dictionary, and the sentence table is split for custom model training and evaluation. |
+| [SQLite dictionary](scripts/build_dictionary.py) | Stores known translations in a local database for fast, exact lookup. |
+| [Translation controller](src/bikol_nmt/inference.py) | Checks the dictionary and loads the selected model when it is first needed. Both models return results in the same format for the terminal. |
+| [Translation models](src/bikol_nmt/marian.py) | MarianMT was trained by Helsinki-NLP and downloaded to this computer. The [custom Transformer](src/bikol_nmt/model.py) was trained on this project's own sentence pairs. Both run locally on the CPU. |
+| [Terminal interface](src/bikol_nmt/cli.py) | Handles commands, engine switching, and output for interactive, one-shot, and batch use. |
+
+MarianMT needs an internet connection for initial setup. Once its files and
+dependencies are installed, translation runs offline. Dictionary matches can
+be returned before either model is loaded.
+
+## MarianMT engine
+
+The project also supports Helsinki-NLP's English-to-Central-Bikol OPUS-MT
+checkpoint. Setup needs internet access once. The downloader verifies each
+file against the pinned Hugging Face revision and stores the roughly 302 MB
+snapshot in `artifacts/marian/opus-mt-en-bcl`. [Upstream model card](https://huggingface.co/Helsinki-NLP/opus-mt-en-bcl)
+
+```powershell
+& $python -m pip install -r requirements-marian.txt
+& $python scripts/download_marian.py
+& $python scripts/translate.py --interactive
+& $python scripts/translate.py --text 'My friend is studying at home.'
+& $python scripts/translate.py --engine custom --interactive
+& $python scripts/benchmark_nmt.py
+```
+
+Once installed, MarianMT loads only from the local snapshot and runs in
+float32 on CPU. Use `:engine custom` or `:engine marian` to switch during a
+session, `:model` to inspect the active engine, and `--marian-dir` to use a
+snapshot stored elsewhere. Custom confidence cutoffs and experimental
+`--quantize` apply to the custom engine.
+
+The benchmark uses the same held-out CSV and scoring normalization for both
+engines. It measures raw NMT predictions with the dictionary bypassed, one
+CPU thread, and beam size five by default. Model loading time is recorded
+separately from warm median and p95 inference time. Peak memory is measured
+in a fresh process for each model. See `artifacts/benchmark/metrics.json`
+and `predictions.csv`. The split was held out from custom training. Its
+overlap with MarianMT's upstream training corpus is unknown.
 
 ### Terminal and scripting options
 
@@ -87,7 +157,7 @@ $python = '.\.venv\Scripts\python.exe'
 & $python -m unittest discover -s tests -v
 ```
 
-Pipeline execution is local and makes no network calls. Tokenizer training uses
+Custom pipeline execution, benchmarking, and translation run locally. Tokenizer training uses
 only the training texts. Byte fallback preserves characters outside the learned
 BPE vocabulary. The splitter groups normalized English alternatives and
 near-duplicate pairs before making the seed-42 assignment. The validation

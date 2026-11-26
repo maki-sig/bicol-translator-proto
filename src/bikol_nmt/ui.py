@@ -96,7 +96,7 @@ def theme(stream, color="auto", ascii_only=False, width=None, *, file_output=Fal
 def candidate_object(candidate, *, legacy=False):
     value = {key: getattr(candidate, key) for key in ("text", "score", "source", "category")}
     if not legacy:
-        for key in ("nll", "confidence"):
+        for key in ("nll", "confidence", "engine"):
             if (number := getattr(candidate, key)) is not None:
                 value[key] = number
     return value
@@ -217,6 +217,8 @@ def render(result, view, *, output="human", compact=False, timing=True,
     method = "dict" if compact and result.method == "dictionary" and not position else result.method
     badge = confidence_label(primary) if primary else ""
     metadata = [method]
+    if primary and primary.engine:
+        metadata.append("MarianMT" if primary.engine == "marian" else "custom Transformer")
     if primary and primary.category:
         metadata.append(primary.category)
     if badge:
@@ -249,14 +251,18 @@ def render(result, view, *, output="human", compact=False, timing=True,
 
 def error_hint(error):
     message = str(error).lower()
+    if "token limit" in message:
+        return "Split the English into shorter sentences and translate each one."
+    if "requirements-marian.txt" in message:
+        return "Install the optional dependencies from requirements-marian.txt."
+    if "marianmt files missing" in message or "marianmt model directory" in message:
+        return "Run scripts/download_marian.py or pass --marian-dir with the local snapshot."
     if "tokenizer" in message and "do not match" in message:
         return "Pass --model and --tokenizer for artifacts from the same training run."
     if "dictionary" in message or "database" in message or "no such table" in message:
         return "Run scripts/build_dictionary.py or pass --dictionary with a readable SQLite file."
     if "tokenizer" in message:
         return "Run scripts/train_tokenizer.py or pass --tokenizer with a readable tokenizer file."
-    if "token limit" in message:
-        return "Split the English into shorter sentences and translate each one."
     if "checkpoint" in message or "model" in message:
         return "Run scripts/train_nmt.py or pass --model with a readable checkpoint."
     if isinstance(error, OSError):
