@@ -1,0 +1,33 @@
+{
+  "alternative_keys": 35,
+  "built_at": "2026-11-26T09:34:47.271496+00:00",
+  "categories": {
+    "Apology": 1,
+    "Compliment": 1,
+    "Conversation": 30,
+    "Everyday": 151,
+    "Family": 1,
+    "Farewell": 1,
+    "Food": 10,
+    "Greeting": 102,
+    "Home": 7,
+    "Introduction": 3,
+    "Market": 6,
+    "Phrase": 210,
+    "Politeness": 17,
+    "Question": 50,
+    "Request": 23,
+    "Response": 16,
+    "School": 24,
+    "Sentence": 218,
+    "Shopping": 4
+  },
+  "duplicates": 8,
+  "entry_types": {
+    "phrase": 210,
+    "sentence": 665
+  },
+  "rows": 875,
+  "schema_version": 1,
+  "source_sha256": "1572161531147d7fdba9a419d76b593591332544ed738079990b33a5de125b1f"
+}

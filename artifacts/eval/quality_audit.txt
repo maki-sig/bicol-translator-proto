@@ -1,0 +1,29 @@
+Bikol-Naga translator accuracy audit
+Both models used the same 883 training, 112 validation and 111 test pairs.
+Training used the CPU-small Transformer. The trial changed the BPE vocabulary from 4,000 to 1,000.
+Dictionary lookups and word vocabulary checks use a normalized full input and train-split words respectively.
+The default remains the 4,000-piece checkpoint after the smaller model's held-out regression.
+
+Original
+  Checkpoint SHA-256: 835674b1fdef5d07854ef61d3ef33fa995f8f9bc01dda2ac4c3a799915427c2c
+  Validation BLEU 35.66, chrF 55.34
+  Full held-out BLEU 35.57, chrF 54.11, exact match 9.0%
+  Held-out chrF 95% bootstrap interval: [48.85189958934738, 59.10219667358315]
+  Excluding 4 references also seen on the Bikol side in training: BLEU 35.16, chrF 53.53
+  Validation-selected rules: mean token negative log probability <= 0.8, at most 2 distinct English words absent from training.
+  Test coverage 95/111; mean sentence chrF 53.47 across unfiltered outputs and 59.04 across returned outputs.
+
+Candidate
+  Checkpoint SHA-256: 2d243c16b6626d9eeaed8fa1aaad61cea8e49b14448549bb37c9ccb807e55a47
+  Validation BLEU 36.30, chrF 55.98
+  Full held-out BLEU 30.32, chrF 49.66, exact match 8.1%
+  Held-out chrF 95% bootstrap interval: [44.82875127886301, 54.661229434527584]
+  Excluding 4 references also seen on the Bikol side in training: BLEU 30.28, chrF 49.56
+  Validation-selected rules: mean token negative log probability <= 0.75, at most 2 distinct English words absent from training.
+  Test coverage 99/111; mean sentence chrF 48.74 across unfiltered outputs and 51.79 across returned outputs.
+
+The decoder now requires EOS and masks the unknown token. The CLI keeps the dictionary first.
+The same examples were used for regression comparison. They do not constitute a new unseen test set.
+The cutoff reduces coverage. Character overlap and beam scores cannot establish semantic correctness.
+The vocabulary check rejects the previously unrelated guesses for a dentist appointment and a Wi-Fi router update.
+The model can still change the meaning of familiar words in new combinations, including who is doing an action.

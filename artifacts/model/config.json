@@ -1,0 +1,49 @@
+{
+  "config": {
+    "seed": 42,
+    "model": {
+      "d_model": 192,
+      "nhead": 4,
+      "num_encoder_layers": 2,
+      "num_decoder_layers": 2,
+      "dim_feedforward": 768,
+      "dropout": 0.25,
+      "max_len": 128
+    },
+    "training": {
+      "threads": 8,
+      "batch_size": 32,
+      "epochs": 80,
+      "learning_rate": 0.0005,
+      "warmup_steps": 800,
+      "label_smoothing": 0.1,
+      "early_stopping_patience": 10
+    },
+    "inference": {
+      "beam_size": 5,
+      "top_k": 3,
+      "length_penalty": 0.6,
+      "max_len": 48,
+      "threads": 1
+    }
+  },
+  "package_versions": {
+    "torch": "2.15.0+cpu",
+    "numpy": "2.5.5",
+    "sentencepiece": "0.2.3",
+    "sacrebleu": "2.6.0"
+  },
+  "dataset_hashes": {
+    "train": "1572161531147d7fdba9a419d76b593591332544ed738079990b33a5de125b1f",
+    "val": "7cbab55f0b38f205975d998d824f3c8d26a771e9f48528fbbdeed2c1440902f1",
+    "tokenizer": "aee7c173f4c510138c8b806ae5e454e441122ab89d8bab17924a40f9f73a57e9"
+  },
+  "tokenizer_path": "artifacts\\tokenizer\\bikol_naga_bpe.model",
+  "vocab_size": 4000,
+  "command": [
+    "-"
+  ],
+  "hardware": "Windows-11-10.0.26300-SP0",
+  "processor": "Intel64 Family 6 Model 154 Stepping 4, GenuineIntel",
+  "git_commit": null
+}

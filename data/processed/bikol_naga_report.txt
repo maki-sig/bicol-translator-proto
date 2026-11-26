@@ -1,0 +1,285 @@
+Bikol-Naga NMT build report
+Input: data\raw_dataset.txt
+Input bytes: 142245
+Input SHA-256: 86fc192136608909269c760507dae04748350423dee0beb28c4318d19b953dc4
+Candidate records: 2700
+Accepted before deduplication: 2669
+Accepted automatically: 2656 (98.4%)
+Review rows: 31 (31 candidate records)
+Duplicates removed: 586
+Category conflicts: 35
+Manual overrides applied: 17
+Unique accepted pairs: 2083
+Final output row count: 2083
+Separate sentence output row count: 1106
+
+Categories in the full corpus
+  Adjective: 170
+  Apology: 1
+  Color: 9
+  Compliment: 1
+  Conversation: 36
+  Direction: 11
+  Everyday: 204
+  Expression: 6
+  Family: 2
+  Farewell: 3
+  Food: 16
+  Grammar: 18
+  Greeting: 134
+  Home: 7
+  Introduction: 3
+  Market: 7
+  Noun: 450
+  Number: 30
+  Phrase: 262
+  Politeness: 23
+  Pronoun: 29
+  Question: 65
+  Request: 28
+  Response: 22
+  School: 28
+  Sentence: 260
+  Shopping: 4
+  Time: 45
+  Verb: 209
+
+Review reasons and source lines
+  5 x identical sides
+  5 x length ratio exceeds 5:1
+  17 x possible Tagalog: ang
+  1 x possible Tagalog: ang, kapag
+  1 x possible Tagalog: pagkain
+  2 x possible Tagalog: tulong
+  Line 2: identical sides | BagBagNoun
+  Line 10: length ratio exceeds 5:1 | DawParticle(wonder)Grammar
+  Line 10: length ratio exceeds 5:1 | ManiParticle(reportative)Grammar
+  Line 10: length ratio exceeds 5:1 | PaStill /YetGrammar
+  Line 10: length ratio exceeds 5:1 | NaAlready/NowGrammar
+  Line 10: length ratio exceeds 5:1 | TaBecause/ForGrammar
+  Line 20: identical sides | Papaya Papaya Noun
+  Line 20: identical sides | Rambutan Rambutan Noun
+  Line 31: identical sides | Papaya Papaya Noun
+  Line 31: identical sides | Rambutan Rambutan Noun
+  Line 379: possible Tagalog: ang | Naglakaw ang mga aki paduman sa gilid kan salog.The children walked toward the riverbank. Everyday
+  Line 381: possible Tagalog: ang | Nag-aani ang mga paratanom nin gulay sa bukid. Nag-iipon si Juan nin kwarta para sa saiyang The farmers are harvesting vegetables in the mountain.Everyday pag-adal.Juan is saving m
+  Line 386: possible Tagalog: ang | Nag-iingat ang drayber sa madalandag na tinampo.The driver is careful on the slippery road. Everyday
+  Line 388: possible Tagalog: ang | Nagtatrabaho ang ama sa opicina sa banwaan nin Naga.Father works in an office in the town of Naga. Everyday
+  Line 389: possible Tagalog: ang, kapag | Nag-uuli ang mga estudyante kapag hapon na. Students go home when it is late afternoon. Everyday
+  Line 411: possible Tagalog: ang | Mabuot asin matinabangon ang sakong mga katrabaho.My coworkers are kind and helpful. Everyday
+  Line 413: possible Tagalog: ang | Masiram ang kakanon na inihanda sa kapiestahan.The food prepared for the festival is delicious. Everyday
+  Line 414: possible Tagalog: ang | Maliwanag ang mga ilaw sa palibot kan plaza. The lights around the plaza are bright. Everyday
+  Line 414: possible Tagalog: ang | Malipot ang hangin na nag-aabot hali sa bukid. The wind coming from the mountain is cold. Everyday
+  Line 415: possible Tagalog: ang | Mainit ang panahon sa laog kan bulan nin Mayo.The weather is hot during the month of May. Everyday
+  Line 417: possible Tagalog: ang | Mataas ang pundasyon kan bagong gedli sa banwaan. Matanos ang dalan paduman sa bagong The foundation of the new building in town is high.Everyday eskwelahan.The road heading to the
+  Line 417: possible Tagalog: ang | Mataas ang pundasyon kan bagong gedli sa banwaan. Matanos ang dalan paduman sa bagong The foundation of the new building in town is high.Everyday eskwelahan.The road heading to the
+  Line 422: possible Tagalog: ang | Malinig ang tubig na nag-aagos sa satong sapa.The water flowing in our creek is clean. Everyday
+  Line 423: possible Tagalog: ang | Mahamot ang mga burak na yaon sa bakuran. The flowers in the yard are fragrant. Everyday
+  Line 423: possible Tagalog: ang | Pusog ang harong na ginibo kan sakong ama. The house built by my father is sturdy. Everyday
+  Line 428: possible Tagalog: ang | Nuarin maabot ang satong mga bisita hali sa malayo?When will our guests from afar arrive? Conversation
+  Line 432: possible Tagalog: ang | Pano mo ginibo ang magayon na proyekto na ini?How did you make this beautiful project? Conversation
+  Line 440: possible Tagalog: ang | Aram mo daw kun sain ang daan paduman sa simbahan? Dios marhay na aga sa saimo asin sa saimong Do you happen to know where the road to the church is?Conversation pamilya.Good morni
+  Line 520: possible Tagalog: tulong | Salamat sa tulong Thank you for the help Greeting
+  Line 596: possible Tagalog: pagkain | Makarag an pagkain sa lamesa. The food on the table is wasted. Sentence
+  Line 610: possible Tagalog: tulong | Dios mabalos sa saimong tulong. God bless you for your help. Greeting
+
+Top duplicate pairs (347 groups)
+  6 copies | mahipus an mga estudyante sa laog nin aklatan. | the students inside the library are quiet.
+  5 copies | simbahan | church
+  5 copies | mag-ataman nin marhay | take good care
+  5 copies | mag-inom ka nin mainit na kape sa amay na aga. | drink hot coffee early in the morning.
+  5 copies | nag-aani nin masagana na paroy an mga paratanom. | the farmers harvest abundant rice.
+  5 copies | nag-iipon si tatay nin kwarta para sa pag-adal. | father is saving money for education.
+  5 copies | naghuhulat an estudyante sa paradahan nin dyip. | the student waits at the jeepney stop.
+  5 copies | duman sa harayo na bulod dakul an kahoy. | there on the distant hill are many trees.
+  4 copies | ibon | bird
+  4 copies | pusog | strong / sturdy
+  4 copies | luyah | weak
+  4 copies | matinabangon | helpful / generous
+  4 copies | tubig | water
+  4 copies | eskwelahan | school
+  4 copies | saod | market
+  4 copies | salog | river
+  4 copies | magtrabaho | to work
+  4 copies | magluto | to cook
+  4 copies | magdalagan | to run
+  4 copies | maglakaw | to walk
+
+Bikol with multiple English translations (118 groups)
+  sinda | they; them
+  magurang | parent; parents
+  harong | house; house / home
+  tinampo | road; road / pathway; road / path
+  dagat | sea; sea / ocean
+  bukid | mountain; farm / mountain; mountain / field
+  tukawan | chair; chair / seat
+  bado | clothes; clothing / dress
+  sapatos | shoes; footwear / shoes
+  bulan | moon; moon / month
+  magkarigos | to bathe; to take a bath
+  marhay | good; good / fine
+  maraot | bad; quite bad
+  dakula | big; big / large
+  magayon | beautiful; pretty
+  maogma | happy; cheerful; happy / joyful
+  mamundo | sad; somber / gloomy
+  pagal | tired; slightly tired
+  mainit | hot; warm
+  malipot | cold; cool / chilly
+
+English with multiple Bikol translations (54 groups)
+  friend | amigo; katood
+  meat | karne; karni
+  to eat | magkaon; magkakan
+  to sleep | magturog; maturog
+  delicious | masirom; masiram
+  yesterday | naponan; kasuudma
+  tomorrow | sa agap; bukas
+  cat | kuting; pusang
+  when (past) | kaidto; kasuarin
+  to go home | mag-uli; magpuli
+  to believe | magtubod; maniwala
+  roof | atop; bubong
+  goat | kambing; kanding
+  bird | ibon; pahag
+  travel / journey | paglakbay; pagbyahe
+  take care on your way back home. | ingat ka sa pag-uli sa harong nindo.; ingat ka sa saimong pag-uli sa saimong harong.; ingat ka sa saimong pag-uli sa harong nindo.
+  where are you going? | sain ka maduman?; sain ka makaduman?
+  when will you go home? | nuarin ka mauli sa harong?; nuarin ka mauli?
+  good evening to you all. | marhay na banggi sa saindo gabos.; dios marhay na banggi sa saindo gabos.
+  this new book from the teacher belongs to me. | sako an bag'ong librong ini na hali sa maestra.; sako an bag'ong librong ini hali sa paratukdo.
+
+Near-duplicate pairs at similarity >= 0.90 (133 pairs)
+  0.986 | Lines 587 and 703 | marhay na hapon sa saindo gabos dini. = good afternoon to all of you here. | marhay na hapon sa saindong gabos dini. = good afternoon to all of you here.
+  0.986 | Lines 32 and 1017 | nagluto si nanay nin masiram na kakanon = mother cooked delicious food | nagluto si nanay nin masiram na kakanon. = mother cooked delicious food.
+  0.986 | Lines 548 and 534 | nag-aadal kami nin bikol-naga ngunyan = we are studying bikol-naga now | nag-aadal kami nin bikol-naga ngunyan. = we are studying bikol-naga now.
+  0.981 | Lines 584 and 564 | dios mabalos sa saimong matanos na boot. = god bless you for your honest heart. | dios mabalos sa saindong matanos na boot. = god bless you for your honest heart.
+  0.979 | Lines 32 and 637 | magdalagan kita sa natad = let us run in the yard | magdalagan kita sa natad. = let us run in the yard.
+  0.979 | Lines 753 and 177 | nag-oomaw an mga tawo sa simbahan lambang domingo. = the people praise at church every sunday. | nag-oomaw an mga tawo sa simbahan lambang domingo. = the people praise at the church every sunday.
+  0.978 | Lines 548 and 493 | dae nin problema = no problem / you're welcome | dae nin problema. = no problem / you're welcome.
+  0.978 | Lines 548 and 534 | dios marhay na aga saimo = good morning to you | dios marhay na aga saimo. = good morning to you.
+  0.978 | Lines 624 and 555 | mag-uli na kita sa harong = let us go home now | mag-uli na kita sa harong. = let us go home now.
+  0.978 | Lines 681 and 771 | piggirumdom kan lola an storya kan kaidto. = grandmother recalled the stories of the past. | piggirumdom kan lola an mga storya kan kaidto. = grandmother recalled the stories of the past.
+  0.977 | Lines 571 and 615 | dios marhay na aga saimo, amigo. = good morning to you, my friend. | dios marhay na aga saimo, amigo ko. = good morning to you, my friend.
+  0.977 | Lines 727 and 960 | nagtatrabaho si ama sa bukid para sa pamilya. = father works on the farm for the family. | nagtatrabaho an ama sa bukid para sa pamilya. = father works on the farm for the family.
+  0.976 | Lines 626 and 1017 | nuarin ka mauli = when will you return home | nuarin ka mauli? = when will you return home?
+  0.976 | Lines 640 and 831 | nag-aadal kami nin bikol-naga sa eskwelahan. = we are studying bikol-naga at school. | nag-aadal kami nin bikol-naga sa eskwelahan. = we are studying bikol-naga in school.
+  0.974 | Lines 641 and 832 | nagtatrabaho an ama sa opicina sa banwaan. = father works at an office in town. | nagtatrabaho an ama sa opicina sa banwaan. = father works in an office in town.
+  0.974 | Lines 79 and 547 | sain ka maduman? = where are you going? | sain ka makaduman? = where are you going?
+  0.973 | Lines 609 and 620 | kabitoonan sa langit = stars in the sky | kabituonan sa langit = stars in the sky
+  0.971 | Lines 806 and 249 | ano an gibuhon ta nganing maging malinig an salog? = what shall we do so that the river becomes clean? | ano an gibuhon ta nganing maging malinig an salog? = what shall we do so that the river will become clean?
+  0.970 | Lines 634 and 2 | maturog = to sleep | magturog = to sleep
+  0.968 | Lines 1 and 632 | magurang = parent | magurang = parents
+  0.967 | Lines 702 and 520 | mag-ingat sa paglakaw = take care when walking | mag-ingat ka sa paglakaw = take care when walking
+  0.966 | Lines 540 and 572 | karamutan = greed / selfishness | kadamutan = greed / selfishness
+  0.966 | Lines 1017 and 368 | paaram na po = goodbye for now | paaram na po. = goodbye for now.
+  0.964 | Lines 640 and 567 | marhay na aldaw sa saindo gabos = good day to all of you | marhay na aldaw sa saindong gabos. = good day to all of you.
+  0.964 | Lines 640 and 831 | ingat ka sa pag-uli = take care going home | ingat ka sa pag-uli mo = take care going home
+  0.964 | Lines 857 and 668 | nag-oomaw an mga tawo sa laog nin simbahan. = the people praise inside the church. | nag-oomaw an mga tawo sa laog nin simbahan. = the people offer praise inside the church.
+  0.962 | Lines 831 and 640 | dios mabalos sa kabuotan = god bless you for kindness | dios mabalos sa kabuotan = god bless you for the kindness
+  0.962 | Lines 639 and 481 | mag-ipon nin kaalaman = gather knowledge | mag-ipon nin kaalaman = to gather knowledge
+  0.962 | Lines 615 and 1017 | mag-ingat sa paglakaw sa tinampo = be careful walking on the road | mag-ingat ka sa paglakaw sa tinampo. = be careful walking on the road.
+  0.961 | Lines 587 and 615 | marhay na aga saimo, amigo ko. = good morning to you, my friend. | dios marhay na aga saimo, amigo ko. = good morning to you, my friend.
+  0.961 | Lines 649 and 105 | magkanta kita nin maogmang kanta sa kapiestahan. = let us sing a joyful song at the fiesta. | magkanta kita nin maogmang kanta sa kapiestahan. = let's sing a joyful song at the festival.
+  0.961 | Lines 872 and 683 | matani-tanos an dalan paduman sa bagong eskwelahan. = the path to the new school is fairly straight. | matani-tanos an dalan paduman sa bagong eskwelahan. = the path heading to the new school is fairly straight.
+  0.960 | Lines 282 and 1015 | plaza = town square / plaza | plaza = to wnsquare / plaza
+  0.959 | Lines 85 and 610 | marhay na banggi sa saindo gabos. = good evening to you all. | dios marhay na banggi sa saindo gabos. = good evening to you all.
+  0.957 | Lines 847 and 657 | sinarado niya an bintana dahil sa makusog na uran. = she closed the window due to heavy rain. | sinarado niya an bintana dahil sa makusog na uran. = she closed the window because of heavy rain.
+  0.956 | Lines 859 and 670 | nagdaog an satong koponan sa hampang sa banwaan. = our team won the game in town. | nagdaog an satong koponan sa hampang sa banwaan. = our team won the match in town.
+  0.955 | Lines 679 and 769 | nagtutubod kami sa kakayahan nin lambang saro. = we believe in the capability of everyone. | nagtutubod kami sa kakayahan nin lambang saro. = we believe in the capability of each one.
+  0.954 | Lines 831 and 640 | marhay na banggi sa bisita = good evening to the guest | marhay na banggi sa mga bisita = good evening to the guests
+  0.954 | Lines 674 and 863 | nagkurahaw an mga tawo sa maogmang pa-ilaw. = the people cheered at the joyful fireworks. | nagkurahaw an mga tawo sa maogmang pa-ilaw. = the people shouted at the joyful fireworks.
+  0.952 | Lines 609 and 626 | matiyaga sa pag-adal = persevering in study | matiyaga sa pag-adal = persevering in studies
+  0.952 | Lines 874 and 686 | malisipon an mga aki sa laog nin klase. = the children in the class are attentive. | malisipon an mga aki sa laog nin klase. = the children inside the classroom are attentive.
+  0.950 | Lines 610 and 620 | kagayonan kan kalikasan = beauty of nature | kagayonan nin kalikasan = beauty of nature
+  0.950 | Lines 628 and 608 | pagkamoot sa magurang = love for parents | pagkamoot sa mga magurang = love for parents
+  0.948 | Lines 615 and 702 | dios marhay na aga saimo, amigo ko. = good morning to you, my friend. | dios marhay na aga saimo, katood ko. = good morning to you, my friend.
+  0.948 | Lines 747 and 164 | dios mabalos sa saindong gabos sa pag-adal nin bikol. = god bless you all for studying bikol. | dios mabalos sa saindong gabos sa pag-adal nin bikol-naga. = god bless you all for studying bikol-naga.
+  0.948 | Lines 797 and 241 | saiya an sapatos na ginamit sa pagdalagan kasuudma. = the shoes used for running yesterday belong to him. | saiya an sapatos na ginamit sa pagdalagan kasuudma. = the shoes used in running yesterday belong to him / her.
+  0.947 | Lines 574 and 830 | maogmang pagtiripon = joyful gathering | maogmang pagkakatiripon = joyful gathering
+  0.946 | Lines 966 and 48 | maliwanag an bulan asin mga bitoon sa gabi. = the moon and stars are bright at night. | maliwanag an bulan asin mga bitoon sa banggi. = the moon and stars are bright tonight.
+  0.945 | Lines 39 and 706 | ingat ka sa pag-uli sa harong nindo. = take care on your way back home. | ingat ka sa saimong pag-uli sa harong nindo. = take care on your way back home.
+  0.945 | Lines 1017 and 586 | nagtatrabaho si tatay sa opicina. = father works in the office. | nagtatrabaho si tatay sa opicina. = father is working in the office.
+  0.944 | Lines 11 and 595 | mag-uli = to go home | magpuli = to go home
+  0.944 | Lines 313 and 533 | pangaturogan = dream | pangaturugan = dream
+  0.944 | Lines 533 and 548 | katoninungan = peace | katuninungan = peace
+  0.944 | Lines 691 and 877 | kami an matabang sa pag-linig nin kalsada. = we will help clean the road. | kami an matabang sa pag-linig nin kalsada. = we will help clean the street.
+  0.942 | Lines 773 and 200 | matani-tanos an kalsada paduman sa eskwelahan. = the road heading to the school is fairly straight. | matani-tanos an kalsada paduman sa bag'ong eskwelahan. = the road heading to the new school is fairly straight.
+  0.941 | Lines 3 and 633 | masirom = delicious | masiram = delicious
+  0.941 | Lines 769 and 197 | nagtutubod kami sa kakayahan nin lambang saro. = we believe in the capability of each one. | nagtutubod kami sa kakayahan nin lambang saro sato. = we believe in the capability of each one of us.
+  0.940 | Lines 480 and 689 | salamat sa saimong pagiging pasensyoso sa amon. = thank you for being patient with us. | mabalos sa saimong pagiging pasensyoso sa amon. = thank you for being patient with us.
+  0.940 | Lines 524 and 548 | marhay na aga saimo = good morning to you | dios marhay na aga saimo = good morning to you
+  0.940 | Lines 683 and 200 | matani-tanos an dalan paduman sa bagong eskwelahan. = the path heading to the new school is fairly straight. | matani-tanos an kalsada paduman sa bag'ong eskwelahan. = the road heading to the new school is fairly straight.
+  0.939 | Lines 1017 and 548 | ingat ka pirmi = always take care | mag-ingat ka pirmi = always take care
+  0.938 | Lines 508 and 515 | katuninungan = peace / tranquility | katoninongan = peace / tranquility
+  0.937 | Lines 662 and 851 | nag-uuli an mga parasira hali sa dakula na dagat. = the fishermen return home from the vast sea. | nag-uuli an mga parasira hali sa dakula na dagat. = the fishermen are returning from the vast sea.
+  0.937 | Lines 587 and 571 | marhay na aga saimo, amigo ko. = good morning to you, my friend. | dios marhay na aga saimo, amigo. = good morning to you, my friend.
+  0.936 | Lines 585 and 622 | lumang harong = old house | luma na harong = old house
+  0.935 | Lines 336 and 613 | masiram an kape pag amay na aga. = coffee is delicious early in the morning. | masiramon an kape sa amay na aga. = coffee is very delicious early in the morning.
+  0.935 | Lines 1017 and 628 | salamat sa tabang = thanks for the help | salamat sa tabang = thank you for the help
+  0.935 | Lines 542 and 577 | marhay na aldaw saimo amigo = good day to you friend | marhay na aldaw saimo, amigo. = good day to you, my friend.
+  0.933 | Lines 713 and 89 | nuarin maabot an satong mga bisita hali sa naga? = when will our guests from naga arrive? | nuarin maabot an satong mga bisita hali sa manila? = when will our guests from manila arrive?
+  0.932 | Lines 80 and 831 | nag-aadal ako nin bikol-naga sa eskwelahan. = i am studying bikol-naga in school. | nag-aadal kami nin bikol-naga sa eskwelahan. = we are studying bikol-naga in school.
+  0.930 | Lines 626 and 627 | nag-iipon nin kaalaman = gathering knowledge | pag-ipon nin kaalaman = gathering of knowledge
+  0.930 | Lines 794 and 235 | sako an bag'ong librong ini hali sa paratukdo. = this new book from the teacher belongs to me. | sako an bag'ong librong ini na hali sa maestra. = this new book from the teacher belongs to me.
+  0.930 | Lines 622 and 525 | mag-alaga nin marhay = take good care | mag-ataman nin marhay = take good care
+  0.929 | Lines 694 and 791 | diyan sa saimong pwesto malipot an hangin. = there at your spot the wind is cool. | diyan sa saimong pwesto malipot an hangin ngunyan. = there at your spot the wind is cool now.
+  0.929 | Lines 508 and 515 | kapiestahan = fiesta / feast | kapiestahan = fiesta / feast day
+  0.928 | Lines 618 and 609 | bitoon sa langit = star in the sky | kabitoonan sa langit = stars in the sky
+  0.927 | Lines 1015 and 632 | tinampo = road / path | tinampo = road / pathway
+  0.926 | Lines 626 and 85 | marhay na banggi sa saindo = good evening to you all | marhay na banggi sa saindo gabos. = good evening to you all.
+  0.926 | Lines 700 and 272 | ini an librong ipinautang kan paratukdo. = this is the book lent by the teacher. | ini an librong ipinautang kan sakong paratukdo. = this is the book lent by my teacher.
+  0.925 | Lines 639 and 626 | mag-ipon nin kaalaman = gather knowledge | nag-iipon nin kaalaman = gathering knowledge
+  0.925 | Lines 548 and 639 | dios marhay na aga saimo = good morning to you | dios marhay na aga saindo = good morning to you all
+  0.924 | Lines 571 and 702 | dios marhay na aga saimo, amigo. = good morning to you, my friend. | dios marhay na aga saimo, katood ko. = good morning to you, my friend.
+  0.923 | Lines 635 and 364 | marhay na hapon = good afternoon | marhay na hapon po. = good afternoon.
+  0.923 | Lines 635 and 523 | marhay na hapon = good afternoon | dios marhay na hapon = good afternoon
+  0.923 | Lines 946 and 566 | pag-ataman = care / nurture | pag-ataman = care / nurturing
+  0.922 | Lines 843 and 652 | bukas na an pinto paduman sa laog nin kwarto. = the door leading into the room is open now. | bukas na an pinto paduman sa laog nin kwarto. = the door leading inside the room is now open.
+  0.922 | Lines 550 and 616 | mag-ingat ka pirmi sa paglakaw. = always take care when walking. | mag-ingat ka pirmi sa paglakaw mo. = always take care when you walk.
+  0.922 | Lines 637 and 531 | mabalos sa gabos nindong tabang. = thank you for all your help. | mabalos sa gabos na saimong pagtabang. = thank you for all your help.
+  0.921 | Lines 635 and 364 | marhay na banggi = good evening | marhay na banggi po. = good evening.
+  0.920 | Lines 637 and 32 | nagtatrabaho si ama sa bukid. = father works on the farm. | nagtatrabaho si ama sa bukid = father is working on the farm
+  0.920 | Lines 640 and 831 | ano an gibuhon ta ngunyan? = what shall we do now? | ano an gigibuhon ta ngunyan? = what shall we do today?
+  0.919 | Lines 610 and 552 | maogma an pag-iriba sa harong. = togetherness at home is joyful. | maogma an satong pag-iriba sa harong. = our togetherness at home is joyful.
+  0.918 | Lines 766 and 192 | naging maogma an gabos kan mag-abot an bisita. = everyone became happy when the guests arrived. | naging maogma an gabos kan mag-abot an dakul na bisita. = everyone became happy when many guests arrived.
+  0.918 | Lines 683 and 1002 | matani-tanos an dalan paduman sa bagong eskwelahan. = the path heading to the new school is fairly straight. | matani-tanos an dalan paduman sa bagong eskwelahan sa banwaan. = the path heading to the new school in town is fairly straight.
+  0.918 | Lines 524 and 534 | marhay na aga saimo = good morning to you | dios marhay na aga saimo. = good morning to you.
+  0.918 | Lines 830 and 568 | mag-ataman sa mga aki = care for children | mag-ataman sa mga aki = to care for the children
+  0.915 | Lines 694 and 235 | sako an bag'ong librong ini hali sa maestra. = this new book from the teacher is mine. | sako an bag'ong librong ini na hali sa maestra. = this new book from the teacher belongs to me.
+  0.915 | Lines 831 and 640 | pira an aki sa klase? = how many kids in class? | pira an aki sa klase? = how many children in class?
+  0.915 | Lines 703 and 450 | dios mabalos sa saimong dakulang tabang. = god bless you for your great help. | dios mabalos sa saimong dakulang tabang sa amon. = god bless you for your great help to us.
+  0.914 | Lines 400 and 115 | maglaba ka nin mga bado sa aga nin domingo. = wash clothes on sunday morning. | maglaba ka nin mga bado sa aga nin sabado. = wash clothes on saturday morning.
+  0.913 | Lines 24 and 946 | tultol = proper / right | tultol = proper / righteous
+  0.913 | Lines 160 and 314 | maogma an pamilya pag nagkakatiripon sa harong. = the family is happy when gathered together at home. | maogma an satong pamilya pag nagkakatiripon sa harong. = our family is happy when gathering together at home.
+  0.912 | Lines 577 and 599 | marhay na aldaw saimo, amigo. = good day to you, my friend. | marhay na aldaw saimo, kaibigan. = good day to you, friend.
+  0.912 | Lines 634 and 364 | marhay na aga = good morning | marhay na aga po. = good morning.
+  0.911 | Lines 779 and 210 | mahamot an mga burak na tinanom sa natad. = the flowers planted in the yard are fragrant. | mahamot an mga burak na tinanom sa natad nin harong. = the flowers planted in the house yard are fragrant.
+  0.911 | Lines 612 and 610 | dios marhay na aga sa saindo gabos. = good morning to you all. | dios marhay na banggi sa saindo gabos. = good evening to you all.
+  0.910 | Lines 706 and 454 | ingat ka sa saimong pag-uli sa harong nindo. = take care on your way back home. | ingat ka sa saimong pag-uli sa saimong harong. = take care on your way back home.
+  0.909 | Lines 618 and 947 | bango nin burak = fragrance of a flower | bango nin mga burak = fragrance of flowers
+  0.909 | Lines 630 and 615 | dios mabalos sa saindong gabos. = god bless you all. | dios mabalos sa saindong gabos dini. = god bless you all here.
+  0.909 | Lines 639 and 628 | pangarap sa buhay = dream in life | pangaturugan sa buhay = dream in life
+  0.909 | Lines 785 and 220 | kita an maduman sa saod nganing magbakal. = we are the ones going to the market to buy. | kita an maduman sa saod nganing magbakal nin kakanon. = we are the ones going to the market to buy food.
+  0.908 | Lines 872 and 200 | matani-tanos an dalan paduman sa bagong eskwelahan. = the path to the new school is fairly straight. | matani-tanos an kalsada paduman sa bag'ong eskwelahan. = the road heading to the new school is fairly straight.
+  0.908 | Lines 694 and 244 | sami an harong na yaon sa gilid nin tinampo. = the house by the road belongs to us. | sami an harong na yaon sa gilid nin tinampo. = the house on the side of the road belongs to us.
+  0.908 | Lines 609 and 616 | dios mabalos sa saimong pagpadaba. = god bless you for your affection. | dios mabalos sa saimong pagpahalaga. = god bless you for your appreciation.
+  0.908 | Lines 587 and 702 | marhay na aga saimo, amigo ko. = good morning to you, my friend. | dios marhay na aga saimo, katood ko. = good morning to you, my friend.
+  0.907 | Lines 80 and 640 | nag-aadal ako nin bikol-naga sa eskwelahan. = i am studying bikol-naga in school. | nag-aadal kami nin bikol-naga sa eskwelahan. = we are studying bikol-naga at school.
+  0.906 | Lines 692 and 223 | sinda an mga paratanom na nagtatrabaho sa bukid. = they are the farmers working on the farm. | sinda an mga paratanom na nagtatrabaho sa bukid. = they are the farmers who are working on the mountain.
+  0.906 | Lines 720 and 951 | pira an estudyante sa laog nin aklatan? = how many students are inside the library? | pira an estudyante sa laog nin aklatan ngunyan? = how many students are in the library now?
+  0.906 | Lines 635 and 364 | marhay na aldaw = good day | marhay na aldaw po. = good day.
+  0.905 | Lines 85 and 580 | mag-ingat ka pirmi sa saimong paglakbay. = take care always on your journey. | mag-ingat ka pirmi sa saimong paglakbay. = always take care on your journey.
+  0.905 | Lines 534 and 639 | dios marhay na aga saimo. = good morning to you. | dios marhay na aga saindo = good morning to you all
+  0.905 | Lines 695 and 248 | sinda an magkakautang sa taga-saod nin prutas. = they owe money to the fruit vendor. | sinda an magkakautang sa taga-saod nin prutas. = they are the ones owing money to the fruit vendor.
+  0.905 | Lines 796 and 237 | saimo an magayon na lapis sa ibabaw nin lamesa. = the beautiful pencil on top of the table is yours. | saimo an magayon na lapis na yaon sa ibabaw nin lamesa. = the beautiful pencil on top of the table belongs to you.
+  0.904 | Lines 702 and 615 | mag-ataman nin marhay sa aki = take good care of the child | mag-ataman nin marhay sa mga aki = take good care of children
+  0.904 | Lines 615 and 538 | mag-usipon kita tungkol sa pangarap = let us discuss our dreams | mag-usipon kita tungkol sa satong mga pangarap. = let us discuss our dreams.
+  0.903 | Lines 789 and 224 | dini sa satong lugar masagana an ani nin gulay. = here in our place the vegetable harvest is abundant. | dini sa satong lugar, masagana an ani nin gulay. = here in our place, the harvest of vegetables is abundant.
+  0.902 | Lines 615 and 458 | salamat sa saimong oras asin pagbisita. = thank you for your time and visit. | salamat sa saimong oras asin sa saimong pagbisita. = thank you for your time and your visit.
+  0.902 | Lines 637 and 1017 | nuarin ka mauli? = when will you go home? | nuarin ka mauli? = when will you return home?
+  0.902 | Lines 639 and 627 | mag-ipon nin kaalaman = gather knowledge | pag-ipon nin kaalaman = gathering of knowledge
+  0.902 | Lines 525 and 555 | maogmang pag-abot = welcome | maugma na pag-abot = welcome
+  0.900 | Lines 1 and 8 | sinda = they | sinda = them
+  0.900 | Lines 1 and 1014 | karne = meat | karni = meat
+  0.900 | Lines 368 and 368 | ano an ginibo mo ngunyan? = what did you do today? | ano an gigibuhon mo ngunyan? = what will you do today?

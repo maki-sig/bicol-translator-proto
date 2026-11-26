@@ -1,0 +1,251 @@
+data\processed\bikol_naga_nmt.csv  SHA-256 7f4424c3515f75b65676ac5d6953b1ec1d305d88a7c77362c1dddcf6c436b77b
+data\processed\bikol_naga_sentences.csv  SHA-256 fc8b6703f8d5fa7416aa0e715c85e05b785f99b0ca5a630499644a6b7c737b63
+data\processed\bikol_naga_review.csv  SHA-256 4251d125d1f095a6875eff41ad880d6907832886e14a8808a00a83f14a2074d3
+data\processed\bikol_naga_report.txt  SHA-256 666927b3c3a457abe5b65e515e39681642fd987351383c4c49df3101bddc753b
+Full rows: 2083
+Sentence rows: 1106
+Review pair overlaps: 0
+Categories: {'Apology': 1, 'Compliment': 1, 'Conversation': 36, 'Everyday': 204, 'Family': 2, 'Farewell': 3, 'Food': 16, 'Greeting': 134, 'Home': 7, 'Introduction': 3, 'Market': 7, 'Phrase': 262, 'Politeness': 23, 'Question': 65, 'Request': 28, 'Response': 22, 'School': 28, 'Sentence': 260, 'Shopping': 4}
+Bikol-Naga tokens: min=1 mean=5.49 max=12
+Bikol-Naga characters: min=7 mean=32.44 max=71
+English Translation tokens: min=1 mean=5.55 max=14
+English Translation characters: min=3 mean=29.20 max=68
+Warnings (shared markers such as mga and para can be valid Bikol)
+Full CSV line 599: mga | Nag-aadal an mga estudyante sa eskwelahan
+Full CSV line 602: mga | Mahipus an mga aki sa laog nin kwarto
+Full CSV line 618: mga | Maliwanag an bulan asin mga bitoon sa banggi.
+Full CSV line 620: mga, para | Mga Hikaw asin kwintas an pig preparar niya para saiyang tugang.
+Full CSV line 630: para | Magsulat ka nin mensahe para sa saimong magurang.
+Full CSV line 632: mga | Maogma an mga tawo sa saudan huli kan masagana na ani.
+Full CSV line 633: mga | Magsunod kita sa mga magurang ta nganing maging tultol an satong buhay.
+Full CSV line 648: mga | Nuarin maabot an satong mga bisita hali sa Manila?
+Full CSV line 656: mga | Mag-iwas kita sa mga maraot na gibo asin gawi.
+Full CSV line 657: para | Magsulat ka nin barita para sa satong pahayagan.
+Full CSV line 658: mga | Magsimbag ka nin matanos sa mga hapot nin paratukdo.
+Full CSV line 660: mga | Magsayaw an mga babaye sa entablado ngunyan na banggi.
+Full CSV line 664: mga | Maghugas ka nin mga kamot bago magkaon nin marhay.
+Full CSV line 665: mga | Maglaba ka nin mga bado sa aga nin Sabado.
+Full CSV line 674: mga | Magayon an mga burak sa satong natad.
+Full CSV line 675: mga | Dakula an harong kan sakong mga magurang sa Naga.
+Full CSV line 679: mga | Mahal an mga paninda sa saudan.
+Full CSV line 680: mga | Mura sana an mga prutas asin gulay sa Bangkerohan.
+Full CSV line 695: para | Mag-aram ka nin bag'ong kanta para sa satong pagtipon.
+Full CSV line 697: mga | Nag-uuli an mga parasira hali sa dagat pabalik sa saod.
+Full CSV line 698: mga | Nagtitiwala an mga tawo sa matanos na namumuno sa banwaan.
+Full CSV line 700: mga | Nag-oomaw an mga tawo sa simbahan lambang Domingo.
+Full CSV line 701: mga | Nag-aani nin dakul na paroy an mga paratanom sa bukid.
+Full CSV line 703: mga, para | Nag-iipon si tatay nin kwarta para sa pag-adal kan mga aki.
+Full CSV line 706: mga | Nagkurahaw an mga tawo kan mahiling an magayon na pa-ilaw.
+Full CSV line 709: mga | Piggirumdom kan lola an mga storya kan kaidto niyang kadakulaan.
+Full CSV line 711: mga | Malisipon an mga aki na nagmamasid sa kapalibotan.
+Full CSV line 713: mga | Mahipus an mga estudyante sa laog nin aklatan.
+Full CSV line 714: mga | Mahamot an mga burak na tinanom sa natad nin harong.
+Full CSV line 720: mga | Sinda an mga paratanom na nagtatrabaho sa bukid.
+Full CSV line 723: mga | Duman sa harayo na bulod, dakul an mga matao na kahoy.
+Full CSV line 728: mga | Sato an magayon na pamana nin satong mga kadakulaan.
+Full CSV line 733: mga | Sain nakatago an mga lumang libro asin papel?
+Full CSV line 768: mga | Mag-itanom kita nin mga burak sa taniman.
+Full CSV line 770: mga | Mag-usip kita tungkol sa satong mga plano sa buhay.
+Full CSV line 771: mga | Matinabangon an mga tawo sa banwaan nin Naga.
+Full CSV line 777: mga | Nag-aadal an mga estudyante sa laog nin aklatan.
+Full CSV line 789: mga, para | Nag-aadal nin husto an mga aki para sa saindong pangaturogan.
+Full CSV line 791: mga | Mabuot asin matinabangon an satong mga tiyo asin tiya.
+Full CSV line 819: para | Nag-iisip si Maria nin magayon na plano para sa pamilya.
+Full CSV line 826: mga | Mag-ingat kita sa satong mga gibo asin taram.
+Full CSV line 909: para | Nagluto si lola nin masiram na laing para sa udto.
+Full CSV line 910: para | Nag-iipon si Juan nin kwarta para sa saiyang pag-adal.
+Full CSV line 911: mga | Nagdadanon kita sa mga tawo na nangangailangan nin tabang.
+Full CSV line 913: para | Mag-adal ka nin husto para maabot mo an saimong pangarap.
+Full CSV line 915: para | Magwalis ka sa natad para maging malinig an harong.
+Full CSV line 916: mga | Maglaba ka nin mga bado sa aga nin Domingo.
+Full CSV line 917: mga, para | Magbasa ka nin mga libro para maging madunong ka.
+Full CSV line 935: para | Magbalik ka giraray para sa masunod na kapiestahan.
+Full CSV line 940: mga | Marhay na hapon sa sakong mga kapwa estudyante.
+Full CSV line 941: mga | Marhay na banggi sa satong mga bisita hali sa malayo.
+Full CSV line 955: para | Magbalik ka giraray para sa satong masunod na pagtipon.
+Full CSV line 970: para | Maghukad ka nin maluto para sa satong bisita.
+Full CSV line 974: para | Magtabang kita sa pag-andam kan lamesa para sa hapunan.
+Full CSV line 984: mga | Gamiton mo an sabon sa paghugas nin mga kamot.
+Full CSV line 995: mga, para | Palaen an kakanon na inihanda para sa mga bisita.
+Full CSV line 1008: mga | Mabuot asin matinabangon an satong mga katrabaho.
+Full CSV line 1035: mga | Maogma an mga aki habang nagmamag-adal.
+Full CSV line 1052: mga | Mag-usipon kita tungkol sa satong mga pangarap.
+Full CSV line 1069: para | Magluto kita nin masiram na kakanon para sa pamilya.
+Full CSV line 1094: para | Mag-adal kitang marhay para sa satong pangarap.
+Full CSV line 1136: mga | Mag-ataman sa mga aki
+Full CSV line 1138: para | Nagtatrabaho kami para sa pamilya.
+Full CSV line 1152: mga | Mag-ataman nin mga aki sa harong.
+Full CSV line 1161: para | Nag-aadal kami nin husto para sa satong pamilya.
+Full CSV line 1173: mga | Pagtukdo sa mga aki
+Full CSV line 1196: mga | Magbasa kita nin mga libro.
+Full CSV line 1202: mga | Nag-aani an mga tawo sa bukid.
+Full CSV line 1203: para | Nag-iipon kami nin kwarta para sa eskwelahan.
+Full CSV line 1205: mga | Maogma an mga aki sa laog nin eskwelahan.
+Full CSV line 1215: mga | Pira an mga estudyante sa laog nin klase?
+Full CSV line 1311: para | Nagtatrabaho si ama para sa pamilya.
+Full CSV line 1312: mga | Pag-ataman nin mga aki sa harong
+Full CSV line 1315: mga | Pagkamoot sa mga magurang
+Full CSV line 1316: mga | Pakarhayon an mga gamit sa kwarto
+Full CSV line 1331: mga | Mag-ataman sa mga hayop
+Full CSV line 1332: mga | Matipon an mga tawo sa simbahan.
+Full CSV line 1348: mga | Maogmang pag-iriba kan mga amigo
+Full CSV line 1353: mga | Maugma an mga aki sa eskwelahan.
+Full CSV line 1358: mga | Pakarhayon an mga gagamiton
+Full CSV line 1368: mga | Mabuot an sakong mga katrabaho.
+Full CSV line 1373: mga | Pakarhayon an mga libro sa aklatan
+Full CSV line 1391: mga | Sain nakatago an mga lumang gamit?
+Full CSV line 1393: mga | Matinabangon an sakong mga katrood.
+Full CSV line 1400: para | Mag-adal nin husto para sa kinaban
+Full CSV line 1410: mga | Mag-ataman nin marhay sa mga aki
+Full CSV line 1411: mga | Matinabangon an mga tawo sa Naga.
+Full CSV line 1588: mga | Mahal an mga paninda
+Full CSV line 1624: mga | Nagkanta an mga aki
+Full CSV line 1746: mga | Marhay na banggi sa mga bisita
+Full CSV line 1770: mga | Maliwanag an bulan asin mga bitoon sa kalangitan.
+Full CSV line 1773: mga | Mabuot asin masipag an sakong mga katrabaho.
+Full CSV line 1779: mga | Nag-uuli an mga parasira hali sa dakula na dagat.
+Full CSV line 1780: mga | Nagtitiwala an mga tawo sa matanos na paratukdo.
+Full CSV line 1782: mga | Nag-oomaw an mga tawo sa laog nin simbahan.
+Full CSV line 1783: mga | Nag-aani nin masagana na paroy an mga paratanom.
+Full CSV line 1785: para | Nag-iipon si tatay nin kwarta para sa pag-adal.
+Full CSV line 1788: mga | Nagkurahaw an mga tawo sa maogmang pa-ilaw.
+Full CSV line 1793: mga | Malisipon an mga aki sa laog nin klase.
+Full CSV line 1795: mga | Mahamot an mga burak sa natad nin harong.
+Full CSV line 1801: mga | Sinda an mga paratanom na nagtatrabaho sa bukid.
+Full CSV line 1814: mga | Sain nakatago an mga lumang libro?
+Full CSV line 1849: mga | Nuarin maabot an satong mga bisita hali sa Naga?
+Full CSV line 1857: para | Nagtatrabaho si ama sa bukid para sa pamilya.
+Full CSV line 1859: mga | Maogma an mga aki pag nagkakatiripon sa harong.
+Full CSV line 1861: mga | Maliwanag an mga bitoon asin bulan sa banggi.
+Full CSV line 1866: mga | Nag-uuli an mga parasira hali sa dagat pabalik.
+Full CSV line 1867: mga | Nagtitiwala an mga tawo sa matanos na lider.
+Full CSV line 1869: mga | Nag-oomaw an mga tawo sa simbahan lambang Domingo.
+Full CSV line 1871: mga | Nagkurahaw an mga tawo kan mahiling an pa-ilaw.
+Full CSV line 1874: mga | Piggirumdom kan lola an mga storya kan kaidto.
+Full CSV line 1876: mga | Malisipon an mga aki na nagmamasid sa klase.
+Full CSV line 1878: mga | Mahamot an mga burak na tinanom sa natad.
+Full CSV line 1884: mga | Sinda an mga paratanom na nagtatrabaho Dini.
+Full CSV line 1909: mga | Mag-ataman sa mga aki
+Full CSV line 1923: mga | Mabuot asin masipag an sakong mga katrabaho.
+Full CSV line 1926: mga | Nag-uuli an mga parasira hali sa dakula na dagat.
+Full CSV line 1927: mga | Nag-oomaw an mga tawo sa laog nin simbahan.
+Full CSV line 1929: mga | Nagkurahaw an mga tawo sa maogmang pa-ilaw.
+Full CSV line 1931: mga | Malisipon an mga aki sa laog nin klase.
+Full CSV line 1962: mga | Bango nin mga burak
+Full CSV line 1966: mga | Dalon sa mga bisita
+Full CSV line 1971: mga | Habilin kan mga magurang
+Full CSV line 1992: para | Ano an gibuhon ta para sa kapiestahan?
+Full CSV line 1993: mga | Sain nakatago an mga paninda sa saod?
+Full CSV line 2004: para | Nagtatrabaho an ama sa bukid para sa pamilya.
+Full CSV line 2006: mga | Maogma an mga aki habang nagmamag-ipon nin kaalaman.
+Full CSV line 2008: mga | Maliwanag an bulan asin mga bitoon sa gabi.
+Full CSV line 2011: mga | Mabuot asin masipag an sakong mga katutubo.
+Full CSV line 2017: mga | Nag-uuli an mga parasira hali sa baybayon sa hapon.
+Full CSV line 2018: mga | Nagtitiwala an mga tawo sa matanos na katood.
+Full CSV line 2020: mga | Nag-oomaw an mga tawo sa laog nin simbahan lambang amay na aga.
+Full CSV line 2021: mga | Nag-aani nin masagana na gulay an mga paratanom sa bukid.
+Full CSV line 2023: para | Nag-iipon si tatay nin kwarta para sa pangarap kan pamilya.
+Full CSV line 2026: mga | Nagkurahaw an mga tawo sa maogmang kapiestahan sa banwaan.
+Full CSV line 2027: mga | Naging maogma an gabos sa pagtiripon kan mga mag-iriba.
+Full CSV line 2029: mga | Piggirumdom kan lola an mga storya kan kaidto sa Naga.
+Full CSV line 2031: mga | Malisipon an mga aki sa laog nin klase kan paratukdo.
+Near-duplicate groups (sentence CSV lines)
+3, 807
+5, 1100
+6, 808
+11, 358, 812
+16, 287, 931
+23, 1070
+40, 377
+42, 857, 1007
+43, 762, 803, 1098
+46, 340, 359, 381, 544, 580, 741, 837
+48, 433
+53, 938
+64, 865
+70, 269
+97, 161
+99, 954
+105, 958
+112, 961
+113, 883, 962
+115, 885, 964, 1017, 1092
+119, 888, 967
+123, 971
+125, 894
+129, 898, 976
+130, 899, 977
+131, 900, 978
+132, 901
+135, 904
+136, 980
+139, 908
+142, 982
+144, 913
+145, 914
+169, 587
+181, 785
+182, 786
+183, 643
+184, 336, 787
+185, 788
+186, 793
+189, 790
+195, 1097
+202, 203
+223, 342
+285, 928, 1048
+289, 598
+309, 889
+311, 755, 767, 830
+312, 379
+333, 919
+344, 692
+345, 393
+362, 383
+364, 593
+369, 430, 500, 933
+380, 1096
+384, 610
+391, 569
+397, 704
+410, 436
+415, 845
+418, 996
+421, 473, 606, 926
+423, 986
+445, 681
+460, 720
+466, 1101
+474, 927
+517, 627
+531, 749
+533, 662, 810
+534, 611
+589, 1103
+601, 784
+607, 920
+622, 1024
+649, 801
+777, 1095
+828, 918
+839, 999
+840, 1000
+843, 1002
+847, 1003
+854, 1006
+859, 1008
+860, 1009
+867, 1011
+870, 1012
+872, 1013
+873, 956
+875, 1014
+877, 1015
+881, 1016
+884, 963
+886, 1018
+891, 1019
+896, 975
+941, 1061
+946, 1066

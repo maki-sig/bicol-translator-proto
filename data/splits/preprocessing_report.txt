@@ -1,0 +1,6 @@
+train.en: 883 rows, 26417 characters, 5482 tokens
+train.bk: 883 rows, 29257 characters, 5437 tokens
+val.en: 112 rows, 3318 characters, 683 tokens
+val.bk: 112 rows, 3689 characters, 674 tokens
+test.en: 111 rows, 3268 characters, 681 tokens
+test.bk: 111 rows, 3630 characters, 665 tokens

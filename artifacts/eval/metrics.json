@@ -1,0 +1,71 @@
+{
+  "test_rows": 111,
+  "test_sha256": "8bc5deaef604304d1f86efdf303113e2ef645940633a0dec9837ee2d83ef6d66",
+  "train_dictionary_coverage": 0.0,
+  "production_coverage_includes_test": 1.0,
+  "sacrebleu": "2.6.0",
+  "bleu_tokenization": "normalized whitespace",
+  "bootstrap_samples": 500,
+  "bootstrap_seed": 42,
+  "modes": {
+    "nmt": {
+      "bleu": 35.57253238987033,
+      "chrf": 54.11195604786017,
+      "chrf++": 53.42423428530627,
+      "exact_match": 9.00900900900901,
+      "token_f1": 60.133473438426996,
+      "bootstrap_95": {
+        "bleu": [
+          28.852402694410294,
+          42.22622252920103
+        ],
+        "chrf": [
+          48.85189958934738,
+          59.10219667358315
+        ]
+      }
+    },
+    "dictionary": {
+      "bleu": 0.0,
+      "chrf": 0.0,
+      "chrf++": 0.0,
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "bootstrap_95": {
+        "bleu": [
+          0.0,
+          0.0
+        ],
+        "chrf": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "hybrid": {
+      "bleu": 35.57253238987033,
+      "chrf": 54.11195604786017,
+      "chrf++": 53.42423428530627,
+      "exact_match": 9.00900900900901,
+      "token_f1": 60.133473438426996,
+      "bootstrap_95": {
+        "bleu": [
+          28.852402694410294,
+          42.22622252920103
+        ],
+        "chrf": [
+          48.85189958934738,
+          59.10219667358315
+        ]
+      }
+    }
+  },
+  "accuracy_cutoff": {
+    "max_mean_token_nll": 0.8,
+    "max_unseen_words": 2,
+    "returned": 95,
+    "coverage": 0.8558558558558559,
+    "all_mean_sentence_chrf": 53.467457525602015,
+    "returned_mean_sentence_chrf": 59.04422901507816
+  }
+}

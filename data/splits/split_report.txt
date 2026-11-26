@@ -1,0 +1,8 @@
+Seed: 42
+Source SHA-256: fc8b6703f8d5fa7416aa0e715c85e05b785f99b0ca5a630499644a6b7c737b63
+Ratios: (0.8, 0.1, 0.1)
+Similarity: 0.9
+Groups: 979
+train: 883 | categories {'Apology': 1, 'Compliment': 1, 'Conversation': 30, 'Everyday': 152, 'Family': 1, 'Farewell': 2, 'Food': 10, 'Greeting': 103, 'Home': 7, 'Introduction': 3, 'Market': 6, 'Phrase': 210, 'Politeness': 18, 'Question': 51, 'Request': 23, 'Response': 16, 'School': 24, 'Sentence': 221, 'Shopping': 4} | lengths {'short': 298, 'medium': 420, 'long': 165}
+val: 112 | categories {'Conversation': 2, 'Everyday': 25, 'Food': 4, 'Greeting': 16, 'Market': 1, 'Phrase': 25, 'Politeness': 3, 'Question': 7, 'Request': 2, 'Response': 4, 'School': 2, 'Sentence': 21} | lengths {'medium': 52, 'long': 21, 'short': 39}
+test: 111 | categories {'Conversation': 4, 'Everyday': 27, 'Family': 1, 'Farewell': 1, 'Food': 2, 'Greeting': 15, 'Phrase': 27, 'Politeness': 2, 'Question': 7, 'Request': 3, 'Response': 2, 'School': 2, 'Sentence': 18} | lengths {'long': 21, 'medium': 51, 'short': 39}

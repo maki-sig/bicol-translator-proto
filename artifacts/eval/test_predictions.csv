@@ -1,0 +1,112 @@
+source,reference,hypothesis,method,score,elapsed_ms,category,length_bucket
+How much is the fee to borrow a bag in their store?,Pira an bayad sa pagsubli nin bag saiyang tindahan?,Gurano an bayad sa pag-arkila nin sasakyan paduman sa saod?,nmt,-3.1515280814595124,38.69640000266372,Everyday,long
+Avoid danger while traveling.,Mag-iwas ka sa peligro habang nagbabyahe.,Mag-iwal an pagtaram.,nmt,-4.923848410963259,32.13569999934407,Everyday,medium
+Where are you going this afternoon?,Sain ka maduman ngunyan na hapon?,Sain ka maduman ngunyan?,nmt,-1.413513193949315,21.15340000091237,Conversation,medium
+Let's ride the jeepney heading to the plaza.,Magsakay kita sa dyip paduman sa plaza.,Magtabang kita sa paradahan nin dyip sa naga.,nmt,-2.626900210353288,21.326999998564133,Everyday,medium
+Disembark now in front of the hospital.,Magbaba ka na duman sa tapat nin ospital.,Sadit sana an simbahan pag-arkila nin kwarto.,nmt,-4.627939984458612,38.23769999871729,Everyday,medium
+Let us work properly so that we will have a happy life.,Magtrabaho kita nin tultol nganing magka-igwa nin maogmang buhay.,Mag-usipon kita nin husto kan satong leksyon.,nmt,-2.5501564347120764,32.44739999718149,Everyday,long
+My parents' house in Naga is big.,Dakula an harong kan sakong mga magurang sa Naga.,Malinig an harong na yaon sa gilid nin harong.,nmt,-2.926010353194608,26.025299997854745,Everyday,long
+The road is dark due to the lack of lights.,Madiklom an agihan dahil sa kawaran nin ilaw.,Matani-iingat an kalsada paduman sa makusog na tanawon.,nmt,-4.003139712523468,33.43220000169822,Everyday,long
+My body is tired after a long journey.,Pagal an sakong hawak pagkatapos nin halabang paglakbay.,Mahigugmaon an magayon na ginamit sa madali.,nmt,-6.161205962558747,29.73560000100406,Everyday,medium
+Learn a new song for our gathering.,Mag-aram ka nin bag'ong kanta para sa satong pagtipon.,Bumakal ka nin bagong para sa satong komunidad.,nmt,-3.8199880578217074,25.94160000080592,Everyday,long
+The people trust the honest leader in town.,Nagtitiwala an mga tawo sa matanos na namumuno sa banwaan.,Nagtitiwala an mga tawo sa matanos na lider.,nmt,-0.9283818527600982,26.470299999346025,Everyday,long
+The driver takes care on the slippery road when it is raining.,Nag-iingat an drayber sa madalandag na kalsada pag nag-uuran.,Nag-iingat an drayber habang nagbabyahe sa madalandag na tinampo.,nmt,-4.253529566147781,34.154699998907745,Everyday,long
+Will you be the ones to fill water in the container in the kitchen?,Kamo daw an mapuno nin tubig sa dulaan sa kusina?,Kumusta ka maduman sa pagbakal nin tubig sa saod?,nmt,-4.00570176568015,38.32899999906658,Conversation,long
+"Here in our place, the harvest of vegetables is abundant.","Dini sa satong lugar, masagana an ani nin gulay.",Dini sa satong lugar masagana an ani nin gulay.,nmt,-1.1629049580666218,33.2347999974445,Everyday,long
+The new equipment inside the room belongs to you all.,Saindo an bag'ong kagamitan sa laog nin kwarto.,Sako an bag'ong librong ini na yaon sa laog nin kwarto.,nmt,-4.073627972678559,62.358799998037284,Everyday,long
+Over there is the high mountain we saw yesterday.,Ito an mataas na bulod na nahiling ta kasuudma.,Ito an mataas na bulod para sa bulod kasuudma.,nmt,-3.2438728400727035,31.805200000235345,Everyday,long
+"Good morning to you, grandfather and grandmother.","Marhay na aga sa saimo, lolo asin lola.","Dios marhay na aga saimo, mga kaibigan.",nmt,-3.053051541774511,32.4746000005689,Greeting,medium
+There is a little food left on the table now.,Madiikit an kakanon na natada sa lamesa ngunyan.,Madiikit an kakanon na binakal ni nanay sa bukid.,nmt,-3.7157782272603446,31.50190000087605,Everyday,long
+The child searched for their lost dog.,Hinanap kan aki an saiyang nawarang ayam.,Nag-oomaw an mga tawo sa makusog na uran.,nmt,-4.396094339100085,37.3109000029217,Everyday,medium
+How are you all doing?,Kumusta na po kamo?,Kumusta an gabos na nag-aatender sa klase?,nmt,-3.751055249559737,28.97319999829051,Greeting,medium
+Yes.,Iyo po.,"Iyo, nasasabutan.",nmt,-2.001394771945944,13.804000001982786,Response,short
+Where is Mom?,Nasaen si Mama?,Sain si mama?,nmt,-2.264423167609654,15.418099999806145,Family,short
+The food is delicious.,Masiram an pagkaon.,Masiram an kakanon.,nmt,-1.214664368533279,20.79529999900842,Food,short
+I'm full.,Busog na ako.,Manggurano tabi.,nmt,-3.202155732322921,17.866400001366856,Response,short
+I have something to tell you.,May sasabihon ako saimo.,May pa ako nin bikol-aasam na makaduman.,nmt,-4.325772822185097,32.97249999741325,Conversation,medium
+We help people who need assistance.,Nagdadanon kita sa mga tawo na nangangailangan nin tabang.,Kami an matabang sa mahiling an pig-saod nin kwarto.,nmt,-3.5078883905647764,28.10709999903338,Everyday,long
+Take a bath before eating breakfast in the morning.,Magkarigos ka bago magkaon nin pamahaw sa aga.,Aram mo an towalya pagkatapos nin aga sa aga.,nmt,-4.177568084952451,35.67560000010417,Everyday,long
+What do you want to buy at the new market?,Ano an saimong gustong ibakal sa bagong saod?,Ano an pangaran mo kan bagong sasakyan sa saod?,nmt,-3.5990753221738463,36.83879999880446,Conversation,long
+Come back again for the next festival.,Magbalik ka giraray para sa masunod na kapiestahan.,Magbalik ka giraray sa kapiestahan.,nmt,-2.029051747570021,20.319600000220817,Greeting,medium
+Take care always on your journey to town.,Ingat ka pirmi sa saimong pagbyahe paduman sa banwaan.,Mag-ingat ka pirmi sa pagbyahe sa banwaan.,nmt,-0.9760477375119323,28.468699998484226,Greeting,long
+Thanks to everyone who trusted and supported us.,Mabalos sa gabos na nagtiwala asin nag-aagapay sato.,Mabalos sa gabos na nagtiwala sa ibabaw nin bikol-naga.,nmt,-4.051179969033412,36.58299999733572,Greeting,medium
+We are happy to see you at the new school.,Maogma kaming nahiling ka sa bagong eskwelahan.,Maogma kaming nahiling ka giraray sa bagong eskwelahan.,nmt,-1.820908091212884,28.861099999630824,Greeting,long
+God bless you for your love and righteousness.,Dios mabalos sa saimong pagkamoot asin katanusan.,Dios mabalos sa saimong katanusan asin tabang.,nmt,-2.4483346755235043,20.716999999422114,Greeting,medium
+Brush your teeth before sleeping at night.,Magsipilyo ka nin ngipon bago maturog sa banggi.,Sadit sana an saimong matanos na lider nin domingo.,nmt,-4.173619237640485,31.674699999712175,Everyday,medium
+Our coworkers are kind and helpful.,Mabuot asin matinabangon an satong mga katrabaho.,Matinabangon an satong mga katrabaho.,nmt,-2.382885307132206,21.422999998321757,Everyday,medium
+Gather knowledge in school,Mag-ipon nin kaalaman sa eskwelahan,Mag-ipon nin kaalaman sa eskwelahan,nmt,-0.5241304918176651,14.841800002614036,School,medium
+Lunch,Pangudto,Udto sa udto,nmt,-1.0227446497799224,11.083100001997082,Food,short
+Mother is cooking lunch in the kitchen.,Nagluluto si nanay nin pangudto sa kusina.,Magluto si nanay nin pamahaw sa kusina.,nmt,-2.1626518543145914,24.27180000086082,Everyday,medium
+The children are happy while studying.,Maogma an mga aki habang nagmamag-adal.,Maogma an mga aki habang nagmamag-adal nin kaalaman.,nmt,-1.9625431367301904,36.479700000199955,School,medium
+Good day to everyone.,Marhay na aldaw sa gabos.,Marhay na aldaw sa gabos.,nmt,-0.5576980137364451,28.333800000837073,Greeting,medium
+Good day to you,Marhay na aldaw saimo,Marhay na aldaw saimo,nmt,-0.3607521773919833,13.880399998015491,Greeting,short
+We are happy to help you.,Maogma kaming makatabang saimo.,Maogma kaming nahiling ka.,nmt,-2.1898711370540425,22.47669999997015,Everyday,medium
+Converse well,Mag-usipon nin marhay,Mag-usipon nin marhay,nmt,-0.34858222026265023,12.662599998293445,Phrase,short
+Our companionship at school is joyful.,Maogma an satong pag-iriba sa eskwelahan.,Maogma an satong pag-iriba sa eskwelahan.,nmt,-0.3458316885678713,26.27099999881466,Everyday,medium
+We are working for the family.,Nagtatrabaho kami para sa pamilya.,Nagtatrabaho si ama para sa pamilya.,nmt,-1.3837141953416963,22.983299997576978,Everyday,medium
+Good evening to all of you.,Marhay na banggi sa saindong gabos.,Marhay na banggi sa saindo gabos.,nmt,-0.4844125671495167,22.8328999983205,Greeting,medium
+High mountain,Mataas na bulod,Mataas na bulod,nmt,-1.960053005530014,9.028800002852222,Phrase,short
+Cool wind at night,Malipot na hangin sa banggi,Diyan sa saod,nmt,-1.7841599652399072,13.774999999441206,Phrase,medium
+Straight road,Matanos na kalsada,Magtaram,nmt,-3.26037030303579,13.873199997760821,Phrase,short
+Hardworking student,Masipag na estudyante,Matinabangong katutubo,nmt,-2.5779234127192066,9.187300001940457,Phrase,short
+Let us read books.,Magbasa kita nin mga libro.,Magdalagan kita nin libro.,nmt,-1.8679499542730211,17.849100000603357,Everyday,medium
+Take a bath before going out.,Magkarigos ka bago magluwas.,Dae ka pirmi sa matanos mo.,nmt,-4.750129115543224,33.76189999835333,Everyday,medium
+Sweep inside the room.,Magwalis ka sa laog nin kwarto.,Magwalis ka sa laog nin kwarto.,nmt,-0.8098712035103517,21.086900000227615,Everyday,medium
+Where are you going next day?,Sain ka maduman sa masunod na aldaw?,Sain ka maduman sa masunod na biyernes?,nmt,-2.0427782907132097,27.670999999827472,Question,medium
+Clean the house,Maglinig nin harong,Maglinig kan harong,nmt,-0.6874143972961168,7.210800002212636,Phrase,short
+Change position,Magpalaen nin pwesto,Paliwanag nin kakanon,nmt,-3.5546140229869367,16.514499999175314,Phrase,short
+Helpful close friend,Matinabangon na katood,Matinabangong katood,nmt,-0.790088570295319,9.512099997664336,Phrase,short
+Father is persevering in working on the farm.,Matyaga si ama sa pagtatrabaho sa bukid.,Nagtatrabaho an ama sa bukid para sa bukid.,nmt,-1.067418737603484,21.783600001072045,Sentence,medium
+Thinking of a new project,Pag-isip nin bagong proyekto,Pag-isip nin bagong leksyon,nmt,-2.416540072566152,14.268599999923026,Phrase,medium
+Be careful on the slippery road,Mag-ingat sa madalandag na kalsada,Mag-ingat sa paglakaw sa tinampo,nmt,-1.314304742256381,29.19560000009369,Request,medium
+Clean the kitchen,Maglinig nin kusina,Maglinig nin kusina,nmt,-1.9991168981447043,10.938700001133839,Request,short
+The children at school are happy.,Maugma an mga aki sa eskwelahan.,Maogma an mga aki sa eskwelahan.,nmt,-0.16412683312868942,25.448899999901187,Sentence,medium
+Buy fresh fish,Magbakal nin sariwang isda,Daga nin isda,nmt,-3.1663562459077412,10.92630000130157,Request,short
+Thank you for your understanding,Salamat sa saimong pang-unawa,Salamat sa saimong pagtabang dini,nmt,-2.2482477426682954,19.695800001500174,Politeness,medium
+Take care of one's safety,Mag-ataman sa sadiring kaligtasan,Mag-ataman nin marhay kan sakong pig-naga.,nmt,-3.7338207082780297,35.05619999850751,Phrase,medium
+Father is persevering at work.,Matiyaga si tatay sa trabaho.,Matiyaga si tatay sa pag-adal.,nmt,-1.8689799860672376,18.120199998520548,Sentence,medium
+The family gathering is joyful.,Maogma an pagtiripon kan pamilya.,Maogma an pamilya pag nagkakatiripon.,nmt,-0.9395249621405859,23.656100001971936,Sentence,medium
+"Good evening to you, friend.","Dios marhay na banggi saimo, kaibigan.",Marhay na banggi sa saindo amigo.,nmt,-0.9975922822790654,22.533799998200266,Greeting,medium
+Peace in our house,Katoninongan sa satong harong,Nagdaog sa satong harong,nmt,-1.3558084537215285,13.869299997168127,Phrase,short
+High hill / Mountain,Bulod na mataas,Mataas na bulod,nmt,-1.5257695872429784,11.849200000142446,Phrase,short
+Road is slippery,Dalandag an tinampo,Madalandag an tinampo,nmt,-1.0726959717065865,14.264699999330333,Sentence,short
+God bless you,Dios mabalos saimo,Dios mabalos sa kabuotan,nmt,-0.9357693923340661,11.702499999955762,Greeting,short
+Over there in the mountain,Duman sa bulod,Aningal sa bulod,nmt,-1.4289353506256275,10.760500001197215,Phrase,medium
+Let us go there,Dumaon kita,Mag-ingat kita sa paglakaw,nmt,-1.4866024778309286,14.729200000147102,Sentence,short
+Human deed / Work,Gibo nin tawo,Karamutan nin tawo,nmt,-3.3191737496642517,12.069299998984206,Phrase,short
+We are going to the market,Kita an maduman sa saod,Maduman kami sa saod,nmt,-0.8724665310239605,13.765600000624545,Sentence,medium
+Back of the house,Likod nin harong,Pag-uuli sa harong,nmt,-1.2388252901522585,16.27550000193878,Phrase,short
+Wise child,Madunong na aki,Karamutan nin aki,nmt,-2.22816089437132,7.51989999844227,Phrase,short
+Think properly,Mag-isip nin matanos,Mag-isip nin tultol,nmt,-2.4771224059648755,15.077100000780774,Phrase,short
+Works all afternoon,Maghapon nagtatrabaho,Hapon sa gabos,nmt,-1.784779647227617,14.491800000541843,Phrase,short
+Work in an office,Magtrabaho sa opicina,Mag-iriba sa langit,nmt,-2.5424716752100447,13.6796000006143,Phrase,short
+Sleep early,Magturog nang maamayi,Mabansay na aga,nmt,-3.301991641192957,10.092599997733487,Phrase,short
+Believe me,Maniwala ka sako,Maniwala sa kakayahan,nmt,-2.8739973875498164,11.26990000193473,Sentence,short
+Welcome here,Maogmang pag-abot Dini,Maogmang pag-abot,nmt,-0.35348376383865615,13.757700002315687,Greeting,short
+The mountain is high,Mataas an bulod,Ito an mataas,nmt,-2.0593002632449076,13.707199999771547,Sentence,short
+How much is the fare?,Gurano an bayad?,Gurano an bayad sa pagbyahe?,nmt,-1.0628711340317807,22.17440000094939,Question,medium
+God bless / Thank you,Dios mabalos,Dios mabalos sa kabuotan,nmt,-0.6827354025593063,11.926800001674565,Politeness,medium
+Goodbye,Paaram na,Paaram na po,nmt,-1.0422922984362775,9.36080000246875,Farewell,short
+I am studying Bikol-Naga.,Nag-aadal ako nin Bikol-Naga.,Nag-aadal kami nin bikol-naga.,nmt,-0.6261697550749489,30.921199999284,Sentence,short
+Love of God,Pagkamoot nin Dios,Dios mabalos nin dios,nmt,-1.700144443143196,15.286099998775171,Phrase,short
+Persevering at work,Matiyaga sa trabaho,Matiyaga sa pag-adal,nmt,-1.7375404449788967,12.16759999806527,Phrase,short
+Clean the street,Maglinig kan kalsada,Maglinig kan kalsada,nmt,-1.2615754154260126,7.172000001446577,Phrase,short
+Rely on the truth,Magsarig sa katotohanan,Maluway nin puso,nmt,-3.0098395304303285,10.683000000426546,Phrase,short
+Take care going home,Ingat ka sa pag-uli,Mag-ingat sa harong,nmt,-0.5613829905067583,14.104499998211395,Greeting,short
+Where is the book hidden?,Sain nakatago an libro?,Sain nakatago an librong ini?,nmt,-2.507467523568914,27.00159999949392,Question,medium
+Who will accompany us?,Siisay an maiba sato?,Siisay an nag-arkila nin kwarto?,nmt,-3.464188805576314,28.82839999801945,Question,short
+We will go to the market to buy.,Kita an maduman sa saod nganing magbakal.,Kami an matabang sa saod nganing magbakal.,nmt,-1.377886405715339,22.61970000108704,Sentence,medium
+There on the distant hill are many trees.,Duman sa harayo na bulod dakul an kahoy.,Diyan sa mataas na bulod nganing magbakal nin kwarto.,nmt,-4.954846938539273,35.463500000332715,Sentence,medium
+Gather good knowledge,Mag-ipon nin marhay na kaalaman,Mag-ipon nin kaalaman,nmt,-0.6290289563450667,11.925999999220949,Phrase,medium
+Why is it necessary to be careful when traveling?,Ta'no ta kailangan mag-ingat pag nagbabyahe?,Ta'no ta kailangan mag-ingat sa kalsada?,nmt,-1.3947412150673693,36.1306999984663,Question,long
+The driver takes care on the slippery road.,Nag-iingat an drayber sa madalandag na kalsada.,Nag-iingat an drayber habang madalandag na tinampo.,nmt,-2.502428511797878,36.63570000207983,Sentence,medium
+Respect for parents,Pagpahalaga sa magurang,Paliwanag nin prutas,nmt,-4.210957630845734,18.2795000000624,Phrase,short
+Take care going home,Ingat ka sa pag-uli mo,Mag-ingat sa harong,nmt,-0.5613829905067583,12.905200001114281,Greeting,medium
+Why are you in a hurry?,Ta'no ta nagmamadali ka?,Ta'no ta nagmamadali ka nin bikol- kwarto?,nmt,-2.6745707487973003,32.885399999941,Question,medium
+Story of old times in town,Istorya kan kaidto sa banwaan,Pakarhayon an mga gamit sa banwaan,nmt,-2.53407110946077,23.401800001010997,Phrase,medium
+Where are the goods hidden at market?,Sain nakatago an mga paninda sa saod?,Sain an mga paninda sa saod?,nmt,-1.733870239545296,18.52790000339155,Question,medium
+We study hard in our school.,Nag-aadal kami nin husto sa eskwelahan ta.,Nag-aadal kami sa satong eskwelahan.,nmt,-0.8213886421175933,22.410300000046846,Sentence,medium
+The people trust an honest friend.,Nagtitiwala an mga tawo sa matanos na katood.,Nagtitiwala an mga tawo sa matanos na katood.,nmt,-1.4539061956407415,19.93150000271271,Sentence,medium
+The people praise inside the church every early morning.,Nag-oomaw an mga tawo sa laog nin simbahan lambang amay na aga.,Nag-oomaw an mga tawo sa laog nin domingo.,nmt,-1.079292100957893,39.990199999010656,Sentence,long
+The farmers harvest abundant vegetables on the farm.,Nag-aani nin masagana na gulay an mga paratanom sa bukid.,Nag-aani nin paroy an mga paratanom sa bukid.,nmt,-1.3622737882492841,35.463299998809816,Sentence,long
+The children in the teacher's class are attentive.,Malisipon an mga aki sa laog nin klase kan paratukdo.,Malisipon an mga aki sa laog nin klase.,nmt,-0.933471662079516,26.98920000329963,Sentence,long

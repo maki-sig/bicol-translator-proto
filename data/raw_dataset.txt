@@ -1,0 +1,1081 @@
+﻿Bikol-Naga English Translation Category Ako I Pronoun Padaba taka I love you Expression Padabaon taka I will love you Expression Padaba taka palan I love you, by the way Expression Ika You Pronoun Siya He/She Pronoun Kami We Pronoun Kita We (inclusive) Pronoun Kamo You (plural) Pronoun Sinda They Pronoun Babae Woman Noun Lalaki Man Noun Aki Child Noun Magurang Parent Noun Tugang Sibling Noun Amigo Friend Noun Tawo Person Noun Harong House Noun Eskwelahan School Noun Simbahan Church Noun Saod Market Noun Tinampo Road Noun Salog River Noun Dagat Sea Noun Bukid Mountain Noun Tubig Water Noun Kakanon Food Noun Maluto Cooked rice Noun Paroy Uncooked rice Noun Isda Fish Noun Karne Meat Noun Gulay Vegetable Noun Prutas Fruit Noun Tinapay Bread Noun Kape Coffee Noun Gatas Milk Noun
+Bikol-NagaEnglishTranslationCategory LibroBookNoun LapisPencil Noun PapelPaperNoun LamesaTableNoun TukawanChairNoun BadoClothesNoun SapatosShoesNoun PayongUmbrellaNoun BagBagNoun KwartaMoneyNoun AldawDay/SunNoun BanggiNightNoun BulanMoonNoun BitoonStarNoun UranRainNoun PayoHeadNoun MataEyeNoun KamotHandNoun BitisFootNoun PusoHeartNoun MagkaonToeatVerb Mag-inomTodrinkVerb MagturogTosleepVerb MagmataTowakeVerb MaglakawTowalkVerb MagdalaganTorunVerb MagtukawTositVerb MagtindogTostandVerb MagbasaToreadVerb MagsuratTowriteVerb MaghilingTo lookVerb MagdangogTo listenVerb MagtaramTospeakVerb MaghapotToaskVerb MagsimbagToanswerVerb MagtabangTohelpVerb MaggiboTodo/makeVerb
+Bikol-NagaEnglishTranslationCategory MagbakalTobuyVerb MaglutoTocookVerb MaglinigTocleanVerb MagkarigosTobatheVerb MarhayGoodAdj MaraotBadAdj DakulaBigAdj SaditSmall Adj MagayonBeautiful Adj MaogmaHappyAdj MamundoSadAdj PagalTiredAdj MainitHotAdj MalipotColdAdj MasiromDeliciousAdj Bag’oNewAdj LumaOldAdj MahalExpensiveAdj MuraCheapAdj MadaliEasyAdj SaroOneNumber DuwaTwoNumber TuloThreeNumber ApatFourNumber LimaFiveNumber AnomSixNumber PitoSevenNumber WaloEightNumber SiyamNineNumber SampuloTenNumber LunesMondayTime MartesTuesdayTime MiyerkulesWednesdayTime HuwebesThursdayTime BiyernesFridayTime SabadoSaturdayTime DomingoSundayTime
+Bikol-Naga English Translation Category Ngunyan Now / Today Time Naponan Yesterday Time Sa agap Tomorrow Time Wala Left Direction Tuo Right Direction Itaas Up / Above Direction Ibaba Down / Below Direction 
+Irarom Under / Below Direction Agbay Beside Direction Harani Near Direction Harayo Far Direction 
+Sa inotan Front Direction Likod Back Direction Enero January Time Pebrero February Time Marso March Time Abril April Time Mayo May Time Hunyo June Time Hulyo July Time Agosto August Time Setyembre September Time Oktubre October Time Nobyembre November Time Disyembre December Time Pula Red Color Asul Blue Color Dilaw Yellow Color Berde Green Color Puti White Color Itom Black Color Tsokolate Brown Color Ube Purple Color Rosas Pink Color Kagayonan Beauty Noun Ayam Dog Noun
+KutingCatNoun ManokChickenNoun BatoStone/RockNoun KahoyTree/WoodNoun DahonLeafNoun BurakFlowerNoun DamulagCarabaoNoun Bakal Iron/Metal Noun HangosBreathNoun DalanPath/WayNoun Taga-saodVendorNoun ParatukdoTeacherNoun EstudyanteStudentNoun DoktorDoctorNoun NarsNurseNoun PulisPoliceNoun ParasiraFishermanNoun ParatagayPourer/BartenderNoun ParatanomFarmerNoun AninoShadowNoun DumanThere(far)Pronoun 
+DiniHerePronoun DiyanThere(near)Pronoun SiisayWhoPronoun AnoWhatPronoun SainWherePronoun NuarinWhen(future)Pronoun KaidtoWhen(past)Pronoun Ta'noWhyPronoun PanoHowPronoun GuranoHowmuchPronoun PiraHowmanyPronoun IniThisPronoun IyanThatPronoun ItoThat(far)Pronoun SindaThemPronoun SaindoYours(plural)Pronoun SaimoYours(singular)Pronoun
+SakoMinePronoun SatoOurs(inclusive)Pronoun SamiOurs(exclusive)Pronoun SaiyaHis/HersPronoun BagaParticle(emphasis)Grammar 
+DawParticle(wonder)Grammar GayoVery/ExactlyGrammar GaroLike/SimilartoGrammar GirarayAgainGrammar KutanaHopefully/WishGrammar ManiParticle(reportative)Grammar NanggadTruly/ IndeedGrammar SanaOnly/JustGrammar PaStill /YetGrammar NaAlready/NowGrammar DaeNo/NotGrammar IyoYesGrammar SiringLikethis/ThusGrammar MinsanSometimes/Even ifGrammar TaBecause/ForGrammar KundiBut/ExceptGrammar OOrGrammar KasoWhen/HoweverGrammar MagsayawTodanceVerb 
+MagkantaTosingVerb MaglayogToflyVerb MaglangoyToswimVerb MagsubliToborrowVerb MagpalaenTochange/SeparateVerb Mag-arkilaTorentVerb Mag-isipTothinkVerb Mag-andaToprepareVerb Mag-uliTogohomeVerb Mag-ibaToaccompanyVerb MagtiwalaTotrustVerb MaghadokTokissVerb MakaragTowasteVerb Mag-ingatTobecareful Verb
+Mag-omawTopraiseVerb Mag-amponToadoptVerb Mag-iwalTofight/ArgueVerb Mag-iriwalToquarrel Verb MagtanomToplantVerb Mag-aniToharvestVerb MaghugasTowashhands/dishesVerb MaglabaTowashclothesVerb MagpunasTowipeVerb MagwalisTosweepVerb MagbukaToopenVerb Mag-ranihanTocloseVerb MagdaogTowinVerb MadaogTo loseVerb IsaradoToturnoff/ExtinguishVerb MagsulsulTo ignite/RegretVerb Mag-asaTohopeVerb MagtiyagaTopersevereVerb Mag-iponTosave/GatherVerb Mag-gastosTospendVerb MagpautangTo lendmoneyVerb Mag-utangToowe/BorrowmoneyVerb MagbayadTopayVerb MagdumanTogothereVerb MagdiyaTostaythereVerb Mag-istarToreside/LiveVerb Mag-sakitTosuffer/SickenVerb Mag-umayToheal/RecoverVerb Mag-adalTostudyVerb MagpasarTopass(exam)Verb MagbagsakTofail (exam)Verb MagtrabahoToworkVerb MagpahingaloTorestVerb MaglakbayTotravel Verb MagsakayTorideVerb MagbabaTodisembark/GodownVerb MagsakatToclimb/GoupVerb MaghulogTodrop/Fall Verb
+Magpulot To pick up Verb Mag-iwas To avoid Verb Mag-abang To wait / Ambush Verb Maghulat To wait Verb Mag-apura To hurry Verb Maghinay To slow down Verb Magsinggit To shout Verb Mag-irog To whisper / Move closer Verb Magngisi To smile / Laugh Verb Magtangis To cry Verb Magmungang To sulk Verb Mag-anggot To be angry Verb Mag-takot To fear / Scare Verb Magngalas To marvel / Be surprised Verb Magsubang To joke Verb Mag-uyam To tease / Be bored Verb Magtubod To believe Verb Maglingaw To forget Verb Maggirumdom To remember Verb Mag-utob To fulfill / Obey Verb Magsuway To disobey / Separate Verb Mag-sunod To follow Verb Mag-enot To lead / Go ahead Verb Magaang Light (weight) Adj 
+Mabugat Heavy Adj Madiikit Few / Little Adj Dakul Many / Much Adj Maronas Fragile / Soft Adj Bagon Slow Adj Mabilis Fast Adj Malandag Slippery Adj Maspot Sticky Adj Maniwis Thin Adj Madakula Thick / Massive Adj Mataas Tall / High Adj Mababa Short / Low Adj Maniwang Skinny Adj Mataba Fat Adj
+MatalisaySharpAdj MabolosBlunt/Dull Adj MabansayElegant/HandsomeAdj Magaya-gayaJoyful /FestiveAdj MakiwitCrookedAdj MatanosStraight/HonestAdj Puro/MalinigPure/CleanAdj MadumiDirtyAdj MaliwanagBright/ClearAdj MadulomDarkAdj MairasSpicyAdj MatabangTasteless/BlandAdj MaalsomSourAdj MaasgadSaltyAdj MapaitBitterAdj MahamisSweetAdj MalumoySoftAdj MatagasHardAdj MatawasAstringentAdj MatalingkasFree/ IndependentAdj MabaakSplit/BrokenAdj MautobFaithful /CompliantAdj Iretable Irritable/Short-temperedAdj MabuotKind/Well behavedAdj MaisogBrave/FierceAdj MatawudCowardlyAdj MahiroEnergetic/QuickAdj MahaloyLong-lasting/SlowAdj Madali-dali Instant/VeryfastAdj Masipag IndustriousAdj MatamadLazyAdj Matalino IntelligentAdj MangaralFoolishAdj MahipusQuiet/ReservedAdj MaribokNoisy/LoudAdj MataromPointed/SharpAdj MapanghiSmelly(urine-like)Adj MahamotFragrantAdj
+Mabaho Stinky Adj Pusog Strong / Sturdy Adj Luyah Weak Adj Puno Full Adj Basang Empty Adj Basa Wet Adj Mala Dry Adj Onse Eleven Number 
+Doose Twelve Number Trese Thirteen Number Katorse Fourteen Number Kinse Fifteen Number Disiseis Sixteen Number Disisiyete Seventeen Number Disiotso Eighteen Number Disinuebe Nineteen Number Bente Twenty Number Treinta Thirty Number Kwarenta Forty Number Sinkwenta Fifty Number Saisenta Sixty Number Sisetenta Seventy Number Otsenta Eighty Number Nobenta Ninety Number Sanggatos One hundred Number Sangribo One thousand Number Sanga-milyon One million Number Paha Belt Noun 
+Singsing Ring Noun Kwintas Necklace Noun Hikaw Earrings Noun Relos Watch / Clock Noun Salamin Mirror / Eyeglasses Noun Sombrero Hat Noun Kamiseta T-shirt Noun Pantalun Pants Noun Sinturon Waistbelt Noun Kaldasetas / Medyas Socks Noun
+TsinelasSlippersNoun BintanaWindowNoun PintoDoorNoun AtopRoofNoun PadirWall Noun SogodFloorNoun KusinaKitchenNoun KwartoBedroomNoun BanyoBathroomNoun HagdanStairsNoun BakuranYard/GardenNoun AlatBasketNoun KadenaChainNoun GuntingScissorsNoun KutsilyoKnifeNoun TenedorForkNoun KutsaraSpoonNoun PlatoPlateNoun BasoGlassNoun KalderoCookingpotNoun KawaWok/LargepanNoun Pang-ipitTongs/ClipNoun GantangMeasuringbucketNoun TimbanganScaleNoun AmoMonkeyNoun KambingGoatNoun BakaCowNoun KabayoHorseNoun OponWildpigNoun BaboyPigNoun PatoDuckNoun IbonBirdNoun SawaPython/SnakeNoun HaloLizardNoun TukkoGeckoNoun KagabangCrabNoun PasaShrimpNoun PusitSquidNoun
+Langgam Ant Noun Nito / Namok Mosquito Noun Laway / Langaw Fly (insect) / Saliva Noun Bubuyog Bee Noun Paruparo Butterfly Noun Gagamba Spider Noun Kahoy-kahoy Shrub / Bush Noun Rami Weed / Grass Noun Niyog Coconut Noun Saging Banana Noun Papaya Papaya Noun Mangga Mango Noun Santol Santol fruit Noun Lansones Lanzones Noun Rambutan Rambutan Noun Pili Pili nut Noun Kamatis Tomato Noun Lasona / Sibulyas Onion Noun Bawang Garlic Noun Luya Ginger Noun Lada Chili pepper Noun Talong Eggplant Noun Sitaw String beans Noun Kalabasa Squash / Pumpkin Noun Pipino Cucumber Noun Gabi Taro root Noun Kamote Sweet potato Noun Asukar Sugar Noun Asin Salt Noun Suka Vinegar Noun Patis Fish sauce Noun Mantika Cooking oil Noun Tubig-alat Saltwater Noun Arak Liquor / Wine Noun Tsaa Tea Noun Sabaw Broth / Soup Noun Sira / Sira-sira Viand / Side dish Noun Kanin Rice grain Noun
+Hagupit Lash / Blow Noun Hangin Wind / Air Noun Araw-araw Daily Time Aga Morning Time 
+Hapon Afternoon Time Udto Noon Time Matangbanggui Midnight Time Bulan-bulan Monthly Time Taon Year Time Taon-taon Yearly Time Katakot-takot Terrifying Adj 
+Bagyo Typhoon / Storm Noun Linog Earthquake Noun Baha Flood Noun Kalayo Fire Noun Aso Smoke Noun Ibon Bird Noun Dagat-dagatan Lagoon / Lake Noun Langit Sky / Heaven Noun Daga Earth / Soil Noun Abono Fertilizer Noun Sanga Branch Noun Gamot Root / Medicine Noun Ulap Cloud Noun Kidlat Lightning Noun Dagungdong Thunder Noun Panginuron Atmosphere Noun Paliwanag Explanation Noun Simbag Answer / Reply Noun Hapot Question Noun Sugo Command / Message Noun Mensahe Message Noun Surat Letter / Writing Noun Istorya Story Noun Taram Word / Speech Noun Kagustuhan Will / Desire Noun Pagkamoot Love Noun Pag-isip Mindset / Thinking Noun
+Pag-asa Hope Noun Tiwi Deformed / Twisted Adj Tultol Proper / Right Adj Balingdagat Seafaring Adj Makarawat Playful Adj Mapasensya Patient Adj Maimbot Greedy Adj Madaog-daog Competitive Adj Maringis Cruel / Violent Adj Mapanakit Hurtful Adj Mabayani Heroic Adj Madunong Wise Adj Maputi Fair-skinned / White Adj Maitom Dark-complexioned Adj Maikot Miserly / Stingy Adj Magastos Extravagant Adj Matanos-puso Righteous Adj Masingki Intense / Strict Adj Maanod Drifting Adj Malinaw Transparent / Clear Adj Maliwag Slow / Tedious Adj Mapasakit Troublesome Adj Masagana Abundant Adj Mahirap Poor / Difficult Adj Mayaman Rich / Wealthy Adj Masakit Painful / Hard Adj Mahamis Smooth Adj Magaspang Rough Adj Bistong-Bisto Famous Adj Mababaw Shallow Adj Hararom Deep Adj Makipot Narrow Adj Malapad Wide Adj Maniwang-niwang Slightly thin Adj Mataba Plump / Chubby Adj Marhay-rhay Fairly good Adj Maraot Quite bad Adj Magayon Pretty Adj
+MaogmaCheerful Adj MamundoSomber/GloomyAdj PagalSlightlytiredAdj MainitWarmAdj MalipotCool /ChillyAdj MasiramTastyAdj MadaliFairlyeasyAdj MasakitSomewhathardAdj Matani-tanosFairlystraightAdj MalinigNeatAdj MadumiSlightlydirtyAdj MaliwanagLuminousAdj MadiklomDimAdj MalumanaySoft-spokenAdj MagaspangCoarseAdj MababawSlightlyshallowAdj HararomProfoundlydeepAdj MalapadBroadAdj PagkaonEating/Meal Noun 
+PaginomDrinkingNoun PagturogSleeping/SleepNoun PaglakawWalking/WalkNoun PagdalaganRunning/RunNoun PagtukawSittingNoun PagtindogStandingNoun PagbasaReadingNoun PagsuratWritingNoun PaghilingLooking/SeeingNoun PagdangogListeningNoun PagtaramSpeaking/SpeechNoun PaghapotAsking/QuestioningNoun PagsimbagAnswering/ResponseNoun PagtabangHelping/AssistanceNoun PaggiboMaking/ActionNoun PagbakalBuying/PurchaseNoun PaglutoCookingNoun PaglinigCleaningNoun PagkarigosBathing/BathNoun
+PagsayawDancing/DanceNoun PagkantaSinging/SongNoun PaglayogFlying/FlightNoun PaglangoySwimmingNoun PagsubliBorrowingNoun Pag-isipThinking/ThoughtNoun Pag-andaPreparationNoun Pag-uliReturninghomeNoun PagtiwalaTrustingNoun PaghadokKissing/KissNoun PagingatCaution/CarefulnessNoun Pag-omawPraise/WorshipNoun Pag-iriwalQuarreling/ArgumentNoun PagtanomPlanting/AgricultureNoun Pag-aniHarvesting/HarvestNoun PaghugasWashingNoun PaglabaLaunderingNoun PagganaVictory/WinningNoun PagkadaogLoss/DefeatNoun Pag-iponSavings/GatheringNoun Pag-gastoExpenditure/SpendingNoun PagbayadPaymentNoun Pag-istarResidency/LivingNoun Pag-adalStudy/EducationNoun PagtrabahoWork/EmploymentNoun PagpahingaloRest/RelaxationNoun PaglakbayTravel /JourneyNoun PagsakayBoarding/RidingNoun PaghalatWaitingNoun PagkurahawShouting/ScreamNoun PagngisiLaughter/LaughterNoun PaghibiCrying/WeepingNoun Pag-anggotAngerNoun PagtakotFearNoun PagngalasSurprise/WonderNoun PagsubaJoking/HumorNoun PagtubodBelief/FaithNoun PaglingawForgetfulnessNoun
+Paggirumdom Remembrance / Memory Noun Pagsunod Obedience / Following Noun 
+Bikol-Naga English Translation Category Pusog Strong / Sturdy Adj Luyah Weak Adj Puno Full Adj Basang Empty Adj Basa Wet Adj Mala Dry Adj Onse Eleven Number Doose Twelve Number Trese Thirteen Number Katorse Fourteen Number Kinse Fifteen Number Disiseis Sixteen Number Disisiyete Seventeen Number Disiotso Eighteen Number Disinuebe Nineteen Number Bente Twenty Number Treinta Thirty Number Kwarenta Forty Number Sinkwenta Fifty Number Saisenta Sixty Number Sisetenta Seventy Number Otsenta Eighty Number Nobenta Ninety Number Sanggatos One hundred Number Sangribo One thousand Number Sanga-milyon One million Number Paha Belt Noun Singsing Ring Noun Kwintas Necklace Noun Hikaw Earrings Noun Relos Watch / Clock Noun Salamin Mirror / Eyeglasses Noun
+Bikol-Naga English Translation Category Sombrero Hat Noun Kamiseta T-shirt Noun Pantalun Pants Noun Sinturon Waistbelt Noun Kaldasetas / Medyas Socks Noun Tsinelas Slippers Noun Bintana Window Noun Pinto Door Noun Atop Roof Noun Padir Wall Noun Sogod Floor Noun Kusina Kitchen Noun Kwarto Bedroom Noun Banyo Bathroom Noun Hagdan Stairs Noun Bakuran Yard / Garden Noun Alat Basket Noun Kadena Chain Noun Gunting Scissors Noun Kutsilyo Knife Noun Tenedor Fork Noun Kutsara Spoon Noun Plato Plate Noun Baso Glass Noun Kaldero Cooking pot Noun Kawa Wok / Large pan Noun Pang-ipit Tongs / Clip Noun Gantang Measuring bucket Noun Timbangan Scale Noun Amo Monkey Noun Kambing Goat Noun Baka Cow Noun Kabayo Horse Noun Opon Wild pig Noun Baboy Pig Noun Pato Duck Noun Ibon Bird Noun
+Bikol-Naga English Translation Category Sawa Python / Snake Noun Halo Lizard Noun Tukko Gecko Noun Kagabang Crab Noun Pasa Shrimp Noun Pusit Squid Noun Langgam Ant Noun Nito / Namok Mosquito Noun Laway / Langaw Fly (insect) / Saliva Noun Bubuyog Bee Noun Paruparo Butterfly Noun Gagamba Spider Noun Kahoy-kahoy Shrub / Bush Noun Rami Weed / Grass Noun Niyog Coconut Noun Saging Banana Noun Papaya Papaya Noun Mangga Mango Noun Santol Santol fruit Noun Lansones Lanzones Noun Rambutan Rambutan Noun Pili Pili nut Noun Kamatis Tomato Noun Lasona / Sibulyas Onion Noun Bawang Garlic Noun Luya Ginger Noun Lada Chili pepper Noun Talong Eggplant Noun Sitaw String beans Noun Kalabasa Squash / Pumpkin Noun 
+Bikol-Naga English Translation Category Maitom an saiyang buhok Her hair is black Sentence Nagtatrabaho si ama sa bukid Father is working on the farm Sentence Nag-aadal an mga estudyante sa eskwelahan The students are studying at school Sentence Nagluto si nanay nin masiram na kakanon Mother cooked delicious food Sentence Magdalagan kita sa natad Let us run in the yard Sentence
+Bikol-Naga English Translation Category Mahipus an mga aki sa laog nin kwarto The children inside the room are quiet Sentence Malipot an tubig hali sa bulod The water from the mountain is cold Sentence Mabuot na tawo an sakong amigo My friend is a kind person Sentence Nagkanta sinda sa kapiestahan nin banwaan They sang at the town fiesta Sentence Mabalos sa gabos nindong tabang sa amo Thank you for all your help to us Sentence 
+Bikol-Naga Sentence English Translation Category Dios marhay na aga saindong gabos. Good morning to everyone. Greeting 
+Kumusta ka na? Maogma akong nahiling ka giraray. 
+Marhay man an buhay ko, salamat sa paghapot. 
+Dios mabalos sa saimong pagtabang sako. 
+How are you? I'm happy to see you again. Greeting My life is fine, thank you for asking. Greeting God bless you for your help to me. Greeting 
+Ingat ka sa pag-uli sa harong nindo. Take care on your way back home. Greeting 
+Ano an pangaran mo asin sain ka naka-istar? 
+What is your name and where do you live? Conversation 
+Mabuot asin masipag an sakong pamilya. My family is kind and hardworking. Everyday 
+Gusto kong mag-inom nin mainit na kape sa aga. 
+I want to drink hot coffee in the morning. Everyday 
+Masiram an kakanon na niluto ni nanay. The food cooked by my mother is delicious. Everyday 
+Magdalagan kita nin mabilis paduman sa eskwelahan. 
+Mabakal ako nin bag’o na libro asin papel sa saudan. 
+Maliwanag an bulan asin mga bitoon sa banggi. 
+Let's run fast toward the school. Everyday I will buy a new book and paper at the market. Everyday The moon and stars are bright tonight. Everyday 
+Pira an bayad sa pagsubli nin bag saiyang tindahan? 
+Mga Hikaw asin kwintas an pig preparar niya para saiyang tugang. 
+Aram mo daw kun paano magluto nin gabi asin sira? 
+How much is the fee to borrow a bag in their store? 
+Earrings and a necklace were prepared by her for her sibling. 
+Do you happen to know how to cook taro and fish? 
+Everyday Everyday Everyday 
+Nag-iwal an duwang ayam dahil sa karne. The two dogs fought because of the meat. Everyday 
+Ngunyan na Biyernes, maduman kami sa bukid. 
+This Friday, we will travel toward the mountain. Everyday 
+Matanos asin tultol an pag-iisip nin magayon na maestra. 
+Bukas na an pinto, madya na asin magpahingalo ka sa kwarto. 
+Dae ka mag-dali ta marhay man an panahon sagkod sa hapon. 
+The mindset of the beautiful teacher is honest and proper. 
+The door is open now, come in and rest in the room. 
+Don't rush because the weather is fine until the afternoon. 
+Everyday Everyday Everyday 
+Dae ka mag-isip nin maraot sa saimong amigo. 
+Do not think badly of your friend. Everyday
+Bikol-Naga Sentence English Translation Category Mapagal an paglakaw sa salog kasuudma. Walking by the river yesterday was tiring. Everyday 
+Sinarado niya an bintana kan mag-uran nin makusog. 
+Magsulat ka nin mensahe para sa saimong magurang. 
+Dae ka mag-agaw nin kakanon kan saimong tugang. 
+She closed the window when it rained heavily. Everyday Write a message for your parents. Everyday Do not take the food of your sibling. Everyday 
+Maogma an mga tawo sa saudan huli kan masagana na ani. 
+Magsunod kita sa mga magurang ta nganing maging tultol an satong buhay. 
+The people at the market are happy because of the abundant harvest. 
+Let us obey our parents so that our lives will be proper. 
+Everyday Everyday 
+Mabalos sa gabos Thank you everyone Greeting Sain ka maduman? Where are you going? Conversation Haloy pa daw an pila? Will the line take long? Conversation 
+Nag-aadal ako nin Bikol-Naga sa eskwelahan. 
+I am studying Bikol-Naga in school. Everyday 
+Nuarin ka mauli sa harong? When will you go home? Conversation 
+Mag-iwas ka sa peligro habang nagbabyahe. 
+Avoid danger while traveling. Everyday 
+Malinig an tubig sa salog ngunyan na aga. The water in the river is clean this morning. Everyday Marhay na banggi sa saindo gabos. Good evening to you all. Greeting Sain ka maduman ngunyan na hapon? Where are you going this afternoon? Conversation Mag-ingat ka pirmi sa saimong paglakbay. Take care always on your journey. Everyday Masiram an kakanon na pig-handa ninda. The food they prepared is delicious. Everyday 
+Gusto kong mag-adal nin Bikol-Naga sa eskwelahan. 
+Nag-iiral an katuninungan sa satong komunidad. 
+Siisay an nag-abot kailangang buksan an pinto? 
+Nuarin maabot an satong mga bisita hali sa Manila? 
+Ta’no ta nagtanggis an aki sa laog nin eskwelahan? 
+Pano ta magagamit an bag’ong kagamitan na ini? 
+I want to study Bikol-Naga at school. Everyday Peace prevails in our community. Everyday Who arrived that needs the door opened? Conversation When will our guests from Manila arrive? Conversation Why did the child cry inside the school? Conversation How can we use this new equipment? Conversation 
+Gurano an presyo nin isda asin karne sa saod? 
+How much is the price of fish and meat at the market? 
+Conversation 
+Pira ka tawo an maduman sa banwaan ngunyan? 
+Arayo an lakawon hali sa harong paduman sa salog. 
+Harani sana an simbahan sa satong eskwelahan. 
+How many people are going to town today? Conversation It is a long walk from home to the river. Everyday The church is just near our school. Everyday
+Bikol-Naga Sentence English Translation Category 
+Naka-istar kami sa gilid nin bulod sa Naga. 
+Mag-iwas kita sa mga maraot na gibo asin gawi. 
+Magsulat ka nin barita para sa satong pahayagan. 
+Magsimbag ka nin matanos sa mga hapot nin paratukdo. 
+Magkanta kita nin maogmang kanta sa kapiestahan. 
+Magsayaw an mga babaye sa entablado ngunyan na banggi. 
+We live beside the hill in Naga. Everyday Let us avoid bad deeds and habits. Everyday Write news for our newspaper. Everyday Answer correctly the questions of the teacher. Everyday Let's sing a joyful song at the festival. Everyday The women will dance on stage tonight. Everyday 
+Magsakay kita sa dyip paduman sa plaza. Let's ride the jeepney heading to the plaza. Everyday 
+Magbaba ka na duman sa tapat nin ospital. 
+Disembark now in front of the hospital. Everyday 
+Magtrabaho kita nin tultol nganing magka-igwa nin maogmang buhay. 
+Let us work properly so that we will have a happy life. 
+Everyday 
+Maghugas ka nin mga kamot bago magkaon nin marhay. 
+Maglaba ka nin mga bado sa aga nin Sabado. 
+Wash your hands thoroughly before eating well. Everyday Wash clothes on Saturday morning. Everyday 
+Magwalis ka nin natad nganing maging malinig an palibot. 
+Sweep the yard so that the surroundings will be clean. 
+Everyday 
+Mag-adal ka nin labi nganing makapasar sa eksamen. 
+Study hard so that you pass the exam. Everyday 
+Tabangan mo an sa saimong tugang. Help your sibling. Everyday 
+Magbayad ka nin utang sa satong taga-saod. 
+Pay your debt to our vendor. Everyday 
+Magsubli ka nin libro sa satong aklatan. Borrow a book from our library. Everyday 
+Mabuot na lalaki an sakong amigo na si Juan. 
+My friend Juan is a kind man. Everyday 
+Mahigos na paratanom an sakong ama sa bukid. 
+My father is an industrious farmer in the mountains. 
+Everyday 
+Matalino na estudyante an aki ni Maria. Maria's child is an intelligent student. Everyday Magayon an mga burak sa satong natad. The flowers in our yard are beautiful. Everyday 
+Dakula an harong kan sakong mga magurang sa Naga. 
+Sadit sana an sakong pig-aarkilang kwarto sa banwaan. 
+Mainit an panahon pag abot nin udto sa Abril. 
+My parents' house in Naga is big. Everyday The room I am renting in town is small. Everyday The weather is hot when noon comes in April. Everyday 
+Malipot an tubig sa bulod pag amay. The mountain water is cold during a pleasant morning. 
+Everyday 
+Mahal an mga paninda sa saudan. The goods in the new market are expensive. Everyday
+Bikol-Naga Sentence English Translation Category 
+Mura sana an mga prutas asin gulay sa Bangkerohan. 
+Makaskas an dalagan kan sakong bagong sasakyan. 
+Naglumoy an daga pagkatapos nin makusog na uran. 
+Naiintindihan an surat kan paratukdo sa pisara. 
+Madiklom an agihan dahil sa kawaran nin ilaw. 
+Fruits and vegetables are cheap at Bangkerohan. Everyday The run of my new vehicle is fast. Everyday The soil is soft after a heavy rain. Everyday The teacher's writing on the board is clear. Everyday The road is dark due to the lack of lights. Everyday 
+Maharang an gulay na pigluto ni lola sa kusina. 
+The vegetable dish cooked by my grandmother in the kitchen is spicy. 
+Everyday 
+Mahamis an mangga na hali sa satong punong-kahoy. 
+Maalsom an santol na binakal ko sa saudan. 
+The mango from our tree is sweet. Everyday The santol fruit I bought at the market is sour. Everyday 
+Pusog an pundasyon kan bagong simbahan sa banwaan. 
+Pano nin kakanon an lamesa sa kapiestahan nin Peñafrancia. 
+The foundation of the new church in town is strong. 
+The table is full of food during the Peñafrancia festival. 
+Everyday Everyday 
+Basa an sakong bado dahil sa uran kasuudma. 
+Pagal an sakong hawak pagkatapos nin halabang paglakbay. 
+My clothes are wet because of the rain yesterday. Everyday My body is tired after a long journey. Everyday 
+Maogma an pamilya pag nagkakatiripon sa harong. 
+The family is happy when gathered together at home. 
+Everyday 
+Mamundo an aki dahil sa pagkawara kan saiyang ayam. 
+Dios mabalos sa saindong gabos sa pag-adal nin Bikol-Naga. 
+Mag-aram ka nin bag’ong kanta para sa satong pagtipon. 
+The child is sad because of the loss of their dog. Everyday God bless you all for studying Bikol-Naga. Greeting Learn a new song for our gathering. Everyday 
+Nag-aandam si nanay nin masiram na pamahaw sa kusina. 
+Nag-uuli an mga parasira hali sa dagat pabalik sa saod. 
+Mother is preparing a delicious breakfast in the kitchen. 
+The fishermen are returning home from the sea back to the market. 
+Everyday Everyday 
+Nagtitiwala an mga tawo sa matanos na namumuno sa banwaan. 
+The people trust the honest leader in town. Everyday 
+Nag-iingat an drayber sa madalandag na kalsada pag nag-uuran. 
+The driver takes care on the slippery road when it is raining. 
+Everyday 
+Nag-oomaw an mga tawo sa simbahan lambang Domingo. 
+The people praise at the church every Sunday. Everyday 
+Nag-aani nin dakul na paroy an mga paratanom sa bukid. 
+The farmers are harvesting plenty of rice grains on the mountain. 
+Everyday 
+Nagdaog an satong koponan sa hampang nin basketbol. 
+Our team won in the basketball game. Everyday
+Bikol-Naga Sentence English Translation Category 
+Nag-iipon si tatay nin kwarta para sa pag-adal kan mga aki. 
+Father is saving money for the children's education. 
+Everyday 
+Naglakbay kami paduman sa Mayon kan nakalihis na bulan. 
+We traveled toward Mayon last month. Everyday 
+Naghuhulat an estudyante sa paradahan nin dyip sa Naga. 
+Nagkurahaw an mga tawo kan mahiling an magayon na pa-ilaw. 
+Naging maogma an gabos kan mag-abot an dakul na bisita. 
+The student is waiting at the jeepney stop in Naga. 
+The people shouted when they saw the beautiful fireworks display. 
+Everyone became happy when many guests arrived. 
+Everyday Everyday Everyday 
+Nagtutubod kami sa kakayahan nin lambang saro sato. 
+We believe in the capability of each one of us. Everyday 
+Piggirumdom kan lola an mga storya kan kaidto niyang kadakulaan. 
+Matani-tanos an kalsada paduman sa bag’ong eskwelahan. 
+Malisipon an mga aki na nagmamasid sa kapalibotan. 
+Masanting an baro na binakal ni ate sa tindahan. 
+Grandmother remembered the stories of her youth in the past. 
+The road heading to the new school is fairly straight. 
+The children observing the environment are very attentive. 
+The dress bought by my older sister at the store is handsome. 
+Everyday Everyday Everyday Everyday 
+Mahipus an mga estudyante sa laog nin aklatan. 
+The students inside the library are quiet. Everyday 
+Mahamot an mga burak na tinanom sa natad nin harong. 
+The flowers planted in the house yard are fragrant. 
+Everyday 
+Mabalos sa saimong pagiging pasensyoso sa gabos na pagkakataon. 
+Thank you for being patient on all occasions. Greeting 
+Ika sana an sakong pig-aasam na maikumpirmang makaduman. 
+Kami an matabang sa pag-linig nin kalsada sa aga. 
+You are the only one I hope can confirm coming there. 
+We are the ones who will help in cleaning the road in the morning. 
+Conversation Everyday 
+Kita an maduman sa saod nganing magbakal nin kakanon. 
+We are the ones going to the market to buy food. Everyday 
+Kamo daw an mapuno nin tubig sa dulaan sa kusina? 
+Sinda an mga paratanom na nagtatrabaho sa bukid. 
+Dini sa satong lugar, masagana an ani nin gulay. 
+Will you be the ones to fill water in the container in the kitchen? 
+They are the farmers who are working on the mountain. 
+Here in our place, the harvest of vegetables is abundant. 
+Conversation Everyday 
+Everyday 
+Diyan sa saimong pwesto, malipot asin maliwanag an simbag. 
+There at your spot, the reply is cool and clear. Conversation 
+Duman sa harayo na bulod, dakul an mga matao na kahoy. 
+There on the distant hill, there are many generous trees. 
+Everyday 
+Sako an bag’ong librong ini na hali sa maestra. 
+This new book from the teacher belongs to me. Everyday 
+Saimo an magayon na lapis na yaon sa ibabaw nin lamesa. 
+The beautiful pencil on top of the table belongs to you. 
+Everyday
+Bikol-Naga Sentence English Translation Category 
+Saiya an sapatos na ginamit sa pagdalagan kasuudma. 
+The shoes used in running yesterday belong to him/her. 
+Everyday 
+Sami an harong na yaon sa gilid nin tinampo. 
+The house on the side of the road belongs to us. Everyday 
+Sato an magayon na pamana nin satong mga kadakulaan. 
+Saindo an bag’ong kagamitan sa laog nin kwarto. 
+Sinda an magkakautang sa taga-saod nin prutas. 
+Ano an gibuhon ta nganing maging malinig an salog? 
+The beautiful heritage of our elders belongs to us all. 
+The new equipment inside the room belongs to you all. 
+They are the ones owing money to the fruit vendor. 
+What shall we do so that the river will become clean? 
+Everyday 
+Everyday 
+Everyday 
+Conversation 
+Siisay an maawit nin Bikol na kanta sa bilog na banwaan? 
+Sain nakatago an mga lumang libro asin papel? 
+Nuarin kitang gabos magkakatiripon giraray sa harong? 
+Who will sing a Bikol song in the entire town? Conversation Where are the old books and papers stored? Conversation When will all of us gather again at home? Conversation 
+Ta’no ta kailangan mag-ingat pag naglalakaw sa kalsada? 
+Why is it necessary to take care when walking on the street? 
+Conversation 
+Pano ta mababayadan an utang sa taga-saod? 
+How can we pay our debt to the vendor? Conversation 
+Gurano an bayad sa pag-arkila nin sasakyan paduman sa bukid? 
+Pira an aki na nag-aadal nin Bikol-Naga sa eskwelahan? 
+How much is the fee to rent a vehicle heading to the mountain? 
+How many children are studying Bikol-Naga at school? 
+Conversation Conversation 
+Ini an librong ipinautang kan sakong paratukdo. 
+Iyan an harong kan sakong amigo na si Pedro. 
+This is the book lent by my teacher. Everyday That is the house of my friend Pedro. Everyday 
+Ito an mataas na bulod na nahiling ta kasuudma. 
+Over there is the high mountain we saw yesterday. 
+Everyday 
+Marhay na aldaw sa saimo asin sa saimong pamilya. 
+Dios mabalos sa Gabos na tabang asin pagpadaba nindo. 
+Good day to you and your family. Greeting God bless you for all your help and love. Greeting 
+Bikol-Naga English Translation Category Sapatos Footwear / Shoes Noun Tsinelas Slippers / Sandals Noun Bado Clothing / Dress Noun Payong Umbrella Noun Aklatan Library Noun Simbahan Church Noun
+Bikol-Naga English Translation Category Ospital Hospital Noun Tindahan Store / Shop Noun Kalsada Street / Road Noun Plaza Town square / Plaza Noun 
+Bikol-Naga English Translation Category Pintuan Doorway / Entrance Noun Lanob Wall (interior) Noun Silid Room Noun Kagayonan Loveliness / Charm Noun Katakod-takod Interconnected Adj Mag-usip To converse / Tell Verb Mag-atender To attend Verb Matinabangon Helpful / Generous Adj 
+Common Household Objects & Places 
+Bikol-Naga English Translation Category Katre / Higaan Bed Noun Ulan Pillow Noun Kuskusan Doormat / Scrubber Noun Basurahan Trash can Noun Tindahan nin tambal Pharmacy / Drugstore Noun Taniman Garden / Field Noun 
+Bikol-Naga Sentence English Translation Category Ilaag mo an basura sa basurahan. Put the trash in the trash can. Everyday 
+Bumakal si nanay nin tambal sa tindahan nin tambal. 
+Mother bought medicine at the pharmacy. 
+Everyday 
+Mag-itanom kita nin mga burak sa taniman. 
+Let us plant flowers in the garden. Everyday 
+Pagal na ako, maturog na ako sa katre. I am tired, I will sleep on the bed now. Everyday Bikol-Naga Sentence English Translation Category 
+Mag-usip kita tungkol sa satong mga plano sa buhay. 
+Matinabangon an mga tawo sa banwaan nin Naga. 
+Maduman kami sa eskwelahan nganing mag-atender nin klase. 
+Let us converse about our plans in life. 
+The people in the town of Naga are very helpful. 
+We are going to school to attend class. 
+Everyday Everyday Everyday
+Bikol-Naga Sentence English Translation Category 
+Mag-ingat ka sa paglakaw sa kalsada ngunyan na uran. 
+Maduman kami sa simbahan pag-abot nin Domingo. 
+Be careful walking on the street in this rain. 
+We are going to church when Sunday arrives. 
+Everyday Everyday 
+Bumakal ka nin bagong payong sa tindahan. 
+Buy a new umbrella at the store. Request 
+Madiikit an tawo sa plaza pag hapon na. There are few people at the plaza in the late afternoon. 
+Everyday 
+Nag-aadal an mga estudyante sa laog nin aklatan. 
+The students are studying inside the library. 
+School 
+Bikol-Naga English Translation Category Pamilya Family Noun Ama / Tatay Father Noun Ina / Nanay Mother Noun Lolo Grandfather Noun Lola Grandmother Noun Tiyo / Tio Uncle Noun Tiya / Tia Aunt Noun Pangaturogan Dream Noun Kagayonan Beauty / Kindness Noun Katanusan Righteousness / Truth Noun 
+Maogma an satong pamilya pag nagkakatiripon sa harong. 
+Nag-aadal nin husto an mga aki para sa saindong pangaturogan. 
+Our family is happy when gathering together at home. 
+The children study hard for their dreams. 
+Everyday Everyday 
+Marhay na aga sa saimo, lolo asin lola. Good morning to you, grandfather and grandmother. 
+Greeting 
+Mabuot asin matinabangon an satong mga tiyo asin tiya. 
+Nagtitiwala kami sa katanusan asin katanusan kan satong namumuno. 
+Our uncle and aunt are kind and helpful. 
+We trust in the righteousness and truth of our leader. 
+Everyday Everyday 
+Bikol-Naga English Translation Category Aram To know Verb Sabut To understand Verb Gusto To want / Like Verb Sana Hope / Only Grammar Bukas Tomorrow Time Kasuudma Yesterday Time
+Bikol-Naga English Translation Category Puyat Stay up late Verb Sipag Diligence Noun Katutubong Native / Indigenous Adj Buhay Life Noun 
+Bikol-Naga Sentence English Translation Category 
+Gusto kong mag-adal nin Bikol-Naga lambang aldaw. 
+I want to study Bikol-Naga every day. Everyday 
+Aram mo daw kun sain an pinakarani na tindahan? 
+Nag-iingat an gabos habang naglalakaw sa kalsada. 
+Do you know where the nearest store is? 
+Everyone is careful while walking on the street. 
+Conversation Everyday 
+Masiram an kape pag amay na aga. Coffee is delicious early in the morning. 
+Everyday 
+Magtabang kita sa paglinig kan satong harong. 
+Let us help in cleaning our house. Everyday 
+Bikol-Naga English Translation Category Aram Know / Knowledge Verb Isip Think / Mind Verb Sabi Say / Tell Verb Mati Feel / Sensation Verb Kua Get / Take Verb Pili Choose / Select Verb Tago Hide / Store Verb Hanap Search / Find Verb Gibo Make / Work Verb Iwal Fight / Dispute Verb 
+Bikol-Naga Sentence English Translation Category 
+Aram mo daw kun paano maduman sa saod? 
+Nag-iisip si Maria nin magayon na plano para sa pamilya. 
+Ano an sinabi kan paratukdo sa laog nin klase? 
+Madiikit an kakanon na natada sa lamesa ngunyan. 
+Do you know how to go to the market? 
+Maria is thinking of a good plan for the family. 
+What did the teacher say inside the class? 
+There is a little food left on the table now. 
+Conversation Everyday 
+School 
+Everyday 
+Kuaa an librong yaon sa laog kan bag. Get the book that is inside the bag. Request Pili ka nin masiram na prutas sa saod. Choose delicious fruit at the market. Shopping 
+Nakatago an kwarta sa laog nin harong. The money is hidden inside the house. 
+Home
+Bikol-Naga Sentence English Translation Category 
+Hinanap kan aki an saiyang nawarang ayam. 
+The child searched for their lost dog. Everyday 
+Mag-ingat kita sa satong mga gibo asin taram. 
+Let us be careful in our actions and words. 
+Everyday 
+Dae kamo mag-iwal sa laog nin eskwelahan. 
+Do not fight inside the school. School 
+Bikol-Naga Sentence English Translation Category Marhay na aga po. Good morning. Greeting Marhay na aldaw po. Good day. Greeting Marhay na udto po. Good noon. Greeting Marhay na hapon po. Good afternoon. Greeting Marhay na banggi po. Good evening. Greeting Kumusta ka po? How are you? Greeting Kumusta na po kamo? How are you all doing? Greeting 
+Marhay man, salamat. I'm fine, thank you. Response Salamat po. Thank you. Politeness 
+Dios mabalos po. Thank you; may God repay your kindness. 
+Politeness 
+Pasensya na tabi. Please excuse me / I'm sorry. Apology Makiagi tabi. Excuse me, may I pass? Politeness Iyo po. Yes. Response Dai po. No. Response Paaram na po. Goodbye for now. Farewell Ano an pangaran mo? What is your name? Introduction Taga sain ka? Where are you from? Question Taga Naga ako. I'm from Naga. Introduction Sain ka nag-iistar? Where do you live? Question Didi ako nag-iistar sa Naga. I live here in Naga. Response Ikinaugma kong mamidbidan ka. Nice to meet you. Introduction Ano an ginibo mo ngunyan? What did you do today? Question Ano an gigibuhon mo ngunyan? What will you do today? Question Hain ka na? Where are you now? Question Dai ko aram. I don't know. Response Nasasabutan mo? Do you understand? Question Iyo, nasasabutan ko. Yes, I understand. Response Dai ko nasasabutan. I don't understand. Response Pwede tabi na maghapot? May I ask a question, please? Request Ano an ibig sabihon kaini? What does this mean? Question
+Bikol-Naga Sentence English Translation Category Pwede mo tabi iyan uliton? Could you repeat that, please? Request Pakiluway-luwayan tabi an pagtaram. Please speak more slowly. Request Pwede tabi na tabangan mo ako? Could you please help me? Request Iyo, tabangan ta ika. Yes, I'll help you. Response Halat tabi nin madali. Please wait a moment. Request Dai ko masisigurado. I'm not sure. Response Nasa harong na ako. I'm already at home. Home Maduman ako sa harong. I'm going home. Home Nasaen si Mama? Where is Mom? Family Nasa kusina si Mama. Mom is in the kitchen. Family Nakakan ka na? Have you eaten? Home Dai pa ako nakakakan. I haven't eaten yet. Response Magkakan na kita. Let's eat now. Home Handa na an pagkaon. The food is ready. Home Pakiabot tabi kan tubig. Please pass the water. Request Masiram an pagkaon. The food is delicious. Food Busog na ako. I'm full. Response Pagurang na ako. I'm tired already. Response Maturog na ako. I'm going to sleep now. Home Maduman na ako sa eskwelahan. I'm going to school now. School May klase kita ngunyan? Do we have class today? School Anong oras an klase ta? What time is our class? School Nag-abot na an maestra? Has the teacher arrived? School Dai pa nag-abot an maestra. The teacher hasn't arrived yet. Response May assignment kita? Do we have an assignment? School Natapos mo na an assignment mo? Have you finished your assignment? Question Dai ko pa natatapos. I haven't finished it yet. Response Pwede tabi mahulam kan notes mo? May I borrow your notes, please? Request Ano an topic ta ngunyan? What is our topic today? School May quiz kita ngunyan? Do we have a quiz today? School Marhay an presentasyon mo. Your presentation is good. Compliment Maduman ako sa merkado. I'm going to the market. Market Manggurano tabi ini? How much is this, please? Market Mahal ini. This is expensive. Market Pwede tabi na bawasan an presyo? Could you lower the price, please? Market Pira an gabos kaini? How much are all of these? Market Paliton ko ini. I'll buy this. Shopping
+Bikol-Naga Sentence English Translation Category Igwa pa kamo kaini? Do you still have this? Shopping May iba pa tabi na kolor? Is there another color, please? Shopping Saro lang tabi. Just one, please. Market 
+Duwa an kukuaon ko. I'll take two. Market Nagpapahingalo sana ako. I'm just resting. Response Dai pa ako andam. I'm not ready yet. Response Andam na ako, tara na. I'm ready; let's go. Response Maabot ako duman sa madali. I'll arrive there shortly. Response May oras ka tabi? Do you have a moment, please? Request May sasabihon ako saimo. I have something to tell you. Conversation Sige, mamati ako. Okay, I'll listen. Response Ano daw an sabi mo? What did you say? Question 
+Nag-aaram kami nin bagong leksyon sa laog nin klase. 
+Nagsusurat si Maria nin tula tungkol sa 
+We are learning a new lesson inside the 
+classroom.Everyday 
+katoninongan.Maria is writing a poem about peace. Everyday 
+Nagluto si lola nin masiram na laing para sa 
+udto.Grandmother cooked delicious laing for lunch. Everyday 
+Naglakaw ang mga aki paduman sa gilid kan 
+salog.The children walked toward the riverbank. Everyday 
+Nag-aani ang mga paratanom nin gulay sa bukid. 
+Nag-iipon si Juan nin kwarta para sa saiyang 
+The farmers are harvesting vegetables in the 
+mountain.Everyday 
+pag-adal.Juan is saving money for his studies. Everyday 
+Nag-iingat ang drayber sa madalandag na 
+tinampo.The driver is careful on the slippery road. Everyday 
+Nagtatrabaho ang ama sa opicina sa banwaan 
+nin Naga.Father works in an office in the town of Naga. Everyday Nag-uuli ang mga estudyante kapag hapon na. Students go home when it is late afternoon. Everyday 
+Nagdadanon kita sa mga tawo na 
+nangangailangan nin tabang.We help people who need assistance. Everyday 
+Mag-isip ka nin matanos bago ka magdesisyon 
+sa buhay.Think properly before making a decision in life. Everyday 
+Mag-adal ka nin husto para maabot mo an 
+saimong pangarap.Study hard so you can achieve your dreams. Everyday 
+Magkarigos ka bago magkaon nin pamahaw sa aga. 
+Magwalis ka sa natad para maging malinig an 
+Take a bath before eating breakfast in the 
+morning.Everyday 
+harong.Sweep the yard so the house becomes clean. Everyday Maglaba ka nin mga bado sa aga nin Domingo. Wash clothes on Sunday morning. Everyday 
+Magbasa ka nin mga libro para maging 
+madunong ka.Read books so you become wise. Everyday 
+Magtaram ka nin katotohanan sa gabos na 
+pagkakataon.Speak the truth on all occasions. Everyday 
+Magdangog ka sa matanos na bilin kan 
+saimong magurang.Listen to the good advice of your parents. Everyday 
+Magtabang kita sa pagpapadalagan kan satong 
+komunidad.Let us help in running our community. Everyday
+Mag-ingat ka sa pagbyahe paduman sa 
+malayong lugar.Take care traveling to a far place. Everyday 
+Mabuot asin matinabangon ang sakong mga 
+katrabaho.My coworkers are kind and helpful. Everyday 
+Masiram ang kakanon na inihanda sa 
+kapiestahan.The food prepared for the festival is delicious. Everyday Maliwanag ang mga ilaw sa palibot kan plaza. The lights around the plaza are bright. Everyday Malipot ang hangin na nag-aabot hali sa bukid. The wind coming from the mountain is cold. Everyday 
+Mainit ang panahon sa laog kan bulan nin 
+Mayo.The weather is hot during the month of May. Everyday 
+Mataas ang pundasyon kan bagong gedli sa banwaan. 
+Matanos ang dalan paduman sa bagong 
+The foundation of the new building in town is 
+high.Everyday 
+eskwelahan.The road heading to the new school is straight. Everyday 
+Malinig ang tubig na nag-aagos sa satong 
+sapa.The water flowing in our creek is clean. Everyday Mahamot ang mga burak na yaon sa bakuran. The flowers in the yard are fragrant. Everyday Pusog ang harong na ginibo kan sakong ama. The house built by my father is sturdy. Everyday 
+Siisay an nag-abot sa harong nindo kasuudma 
+na banggi?Who arrived at your house yesterday night? Conversation 
+Ano an saimong gustong ibakal sa bagong 
+saod?What do you want to buy at the new market? Conversation Sain kita maduman sa masunod na Biyernes? Where are we going next Friday? Conversation 
+Nuarin maabot ang satong mga bisita hali sa 
+malayo?When will our guests from afar arrive? Conversation 
+Ta'no ta nagmamadali ka sa saimong 
+paglakaw?Why are you rushing in your walk? Conversation 
+Pano mo ginibo ang magayon na proyekto na 
+ini?How did you make this beautiful project? Conversation 
+Gurano an bayad sa pagbyahe paduman sa 
+Legazpi?How much is the fare to travel to Legazpi? Conversation 
+Pira ka libro an kailangan mong basahon sa 
+klase?How many books do you need to read for class? Conversation 
+Kumusta an saimong pag-adal sa eskwelahan 
+ngunyan?How are your studies at school right now? Conversation 
+Aram mo daw kun sain ang daan paduman sa simbahan? 
+Dios marhay na aga sa saimo asin sa saimong 
+Do you happen to know where the road to the 
+church is?Conversation 
+pamilya.Good morning to you and your family. Greeting 
+Marhay na hapon sa gabos na nag-aatender sa pagtipon. 
+Marhay na banggi sa saindo na yaon sa 
+Good afternoon to everyone attending the 
+meeting.Greeting 
+harong.Good evening to those of you who are at home. Greeting 
+Dios mabalos sa saimong dakulang tabang sa 
+amon.God bless you for your great help to us. Greeting 
+Maogma kaming nahiling ka giraray sa satong 
+lugar.We are happy to see you again in our place. Greeting 
+Ingat ka sa saimong pag-uli sa saimong 
+harong.Take care on your way back home. Greeting 
+Magbalik ka giraray para sa masunod na 
+kapiestahan.Come back again for the next festival. Greeting 
+Salamat sa saimong oras asin sa saimong 
+pagbisita.Thank you for your time and your visit. Greeting 
+Mabalos sa gabos na nagtiwala sa satong 
+proyekto.Thanks to everyone who trusted in our project. Greeting Dios mabalos sa saindong gabos sa God bless you all for valuing the Bikol-Naga Greeting
+pagpahalaga sa Bikol-Naga. language. 
+Dios marhay na aga sa saindo gabos na yaon Dini. Good morning to all of you who are here. Greeting Marhay na hapon sa sakong mga kapwa estudyante. Good afternoon to my fellow students. Greeting Marhay na banggi sa satong mga bisita hali sa malayo. Good evening to our guests from afar. Greeting 
+Dios mabalos sa saimong dakulang kagayonan asin 
+tabang.God bless you for your great kindness and help. Greeting 
+Maogma kaming nahiling ka giraray sa satong komunidad. 
+Ingat ka pirmi sa saimong pagbyahe paduman sa 
+We are happy to see you again in our 
+community.Greeting 
+banwaan.Take care always on your journey to town. Greeting 
+Magbalik ka giraray sa amon harong sa masunod na 
+taon.Come back again to our house next year. Greeting Salamat sa saimong panahon asin sa saimong pag-adal. Thank you for your time and your study. Greeting Mabalos sa gabos na nagtiwala asin nag-aagapay sato.Thanks to everyone who trusted and supported us.Greeting 
+Dios mabalos sa saindong gabos sa pagpahalaga sa Bikol-Naga. 
+God bless you all for valuing the Bikol-Naga 
+language.Greeting 
+Marhay na aldaw sa saimo, amigo kong masipag. Good noon to you, my industrious friend. Greeting Dios marhay na aga sa gabos na nag-aatender sa klase. Good morning to everyone attending class. Greeting Marhay na hapon sa saimong pamilya sa harong. Good afternoon to your family at home. Greeting 
+Marhay na banggi sa saindo na nagpapahingalo 
+ngunyan.Good evening to you who are resting now. Greeting Dios mabalos sa saimong pagiging matinabangon pirmi. God bless you for always being helpful. Greeting Maogma kaming nahiling ka sa bagong eskwelahan. We are happy to see you at the new school. Greeting Ingat ka sa paglakaw sa madalandag na tinampo. Take care walking on the slippery road. Greeting 
+Magbalik ka giraray para sa satong masunod na 
+pagtipon.Come back again for our next meeting. Greeting Salamat sa saimong pagiging pasensyoso sa amon. Thank you for being patient with us. Greeting Dios mabalos sa saimong pagkamoot asin katanusan. God bless you for your love and righteousness. Greeting 
+Sipilyuhan To brush teeth Verb Magsabon To wash with soap Verb Magtrapo To wipe down Verb Maghimay To pick meat off bones / debone Verb Mag-ipon nin kaalaman To gather knowledge Phrase 
+Mag-ipit 
+	To clip / hold together 
+	Verb
+	Maghukad 
+	To serve food from a pot 
+	Verb
+	
+
+
+
+Magbanlaw To rinse with water Verb Pagkaorag Excellence / Skillfulness Noun 
+Mag-orag man! How awesome! / How impressive! Expression Dae nin problema. No problem / You're welcome. Politeness Siring kaiyan. Like that / That's right. Expression 
+Maghukad ka nin maluto para sa satong bisita. Serve some cooked rice for our guest. Everyday 
+Magbanlaw ka nin marhay pagkatapos mong 
+magsabunon.Rinse thoroughly after applying soap. Everyday 
+Ipakita ta an satong pagkaorag sa pag-adal nin 
+Bikol-Naga.Let us show our skill in studying Bikol-Naga. Everyday Mag-inom ka nin dakul na tubig pag mainit an panahon. Drink plenty of water when the weather is hot. Everyday
+Magtabang kita sa pag-andam kan lamesa para sa 
+hapunan.Let us help set the table for dinner. Everyday Mabalos sa pagturok nin pag-asa sa satong komunidad. Thank you for instilling hope in our community. Greeting 
+Sipilyo Toothbrush Noun Sabon Soap Noun Towalya Towel Noun Surog Comb Noun Kambas Blanket / Bed sheet Noun Lawa Spiderweb / Cobweb Noun Kagitingan Bravery / Valor Noun 
+Magsipilyo ka nin ngipon bago maturog sa banggi. Brush your teeth before sleeping at night. Everyday Gamiton mo an sabon sa paghugas nin mga kamot. Use soap when washing your hands. Everyday Kuaon mo an towalya pagkatapos mong magkarigos. Get the towel after taking a bath. Everyday 
+I-surog mo an saimong buhok bago magluwas sa 
+harong.Comb your hair before going out of the house. Everyday 
+Agihan Passageway / Path Noun Palaen Different / Separate Adj Magbanwa To reside in town / country Verb Katakod Connected / Attached Adj 
+Ano an baretan? What's the news? / How are things? Expression Marhay man an gabos. Everything is good. Response Taram sana kun may kailangan ka. Just say so if you need anything. Politeness 
+Maglinig kita kan satong agihan lambang amay na aga. Let us clean our pathway every early morning. Everyday Palaen an kakanon na inihanda para sa mga bisita. The food prepared for the guests is separate. Everyday Maogma silang nagbabanwa sa banwaan nin Naga. They are happily residing in the town of Naga. Everyday 
+Magsakat To go up / climb Verb Magbaba To go down / disembark Verb Katuninungan Peace / Tranquility Noun Kapiestahan Fiesta / Feast Noun 
+Magsakat kita sa bulod nganing mahiling an magayon na tanawon. 
+Let us climb the mountain to see the beautiful 
+view.Everyday 
+Magbaba ka na diyan ta maduman na kita sa saod. Come down now as we are going to the market. Everyday 
+Maogma an gabos na tawo sa kapiestahan nin 
+banwaan.Everyone is happy during the town fiesta. Everyday 
+Agihan Path / Passageway Noun Katoninongan Peace / Tranquility Noun Matinabangon Helpful / Supportive Adj Kapiestahan Fiesta / Feast day Noun 
+Ano an baretan? What's the news? / How are things? Expression Marhay man an gabos. Everything is good. Response Taram sana kun may kailangan ka. Just say so if you need anything. Politeness
+Maglinig kita kan satong agihan lambang amay na aga. Let us clean our pathway every early morning. Everyday Mabuot asin matinabangon an satong mga katrabaho. Our coworkers are kind and helpful. Everyday 
+Maogma an gabos na tawo sa kapiestahan nin 
+banwaan.Everyone is happy during the town fiesta. Everyday 
+Salamat sa tulong Thank you for the help Greeting Masiramon an kakanon The food is very delicious Food Mag-ingat ka sa paglakaw Take care when walking Everyday 
+Sain ka maduman ngunyan? Where are you going now? Conversatio n 
+Mag-adal kitang marhay Let us study well School 
+Dios marhay na hapon Good afternoon Greeting Tabang Help Noun Mabilis an dalagan kan jeep The jeep is running fast Everyday Sain an banyo? Where is the bathroom? Question Mag-ipon nin kaalaman sa eskwelahan Gather knowledge in school School 
+Bikol-Naga English Translation Category Marhay na aga saimo Good morning to you Greeting Mabalos sa pagbisita Thank you for visiting Greeting Kain na kita Let's eat now Everyday Sain ka paduman? Where are you headed? Question 
+Mag-ataman nin marhay Take good care Phrase Maogmang pag-abot Welcome Greeting Mabalos nin dakul Thank you very much Politeness Naka-intindi ako I understand Response 
+Bikol-Naga English Translation Category Sanggawad Helper / Companion Noun Kakanon sa aga Breakfast Food Pangudto Lunch Food Panghapunan Dinner Food Mabilis maglakaw Walks fast Phrase Maluway magtaram Speaks slowly Phrase Marhay na relasyon Good relationship Phrase 
+Bikol-Naga Sentence English Translation Category Nagluluto si nanay nin pangudto sa kusina. Mother is cooking lunch in the kitchen. Everyday Mag-iingat ka pirmi sa saimong pagdalagan. Always be careful when running. Everyday Maogma an mga aki habang nagmamag-adal. The children are happy while studying. School
+Bikol-Naga Sentence English Translation Category 
+Masiramon an kape asin tinapay sa aga. Coffee and bread are very delicious in the morning. 
+Food 
+Mabalos sa gabos na saimong pagtabang. Thank you for all your help. Politeness 
+Bikol-Naga English Translation Category Paliwanag Light / Explanation Noun Pag-iriba Companionship / Togetherness Noun Makaturing Thoughtful / Considerate Adj Mag-usipon To discuss / Share stories Verb Pagpahalaga Appreciation / Respect Noun 
+Bikol-Naga English Translation Category Pangaturugan Dream Noun Katoninungan Peace Noun Kagayonan Beauty Noun Mabuot Kind / Gentle Adj Mahigos Diligent / Hardworking Adj 
+Bikol-Naga Sentence English Translation Category Dios marhay na aga saimo. Good morning to you. Greeting Marhay na aldaw sa gabos. Good day to everyone. Greeting Dios mabalos sa saimong kabuotan. Thank you for your kindness. Politeness Nag-aadal kami nin Bikol-Naga ngunyan. We are studying Bikol-Naga now. Everyday 
+Maogma an pamilya pag nagkakatiripon sa harong. The family is happy when gathered together at home. 
+Everyday 
+Bikol-Naga Sentence English Translation Category Maogma an pag-iriba kan pamilya sa harong. The family's togetherness at home is joyful. Everyday 
+Mag-usipon kita tungkol sa satong mga pangarap. Let us discuss our dreams. Conversatio n 
+Makaturing na amigo an pirming nagtatabang. A thoughtful friend is always helpful. Everyday Mabalos sa saimong pagpahalaga sa satong kultura. Thank you for your appreciation of our culture. Politeness 
+Bikol-Naga English Translation Category Kalag Soul / Spirit Noun Karamutan Greed / Selfishness Noun Katoninongan Peace / Quietness Noun Maitom an kalangitan The sky is dark Sentence 
+Mag-usipon kita nin konti Let's talk a little bit Conversatio n
+Bikol-Naga English Translation Category Marhay na aldaw saimo amigo Good day to you friend Greeting Tabangon ta an satong katrabaho Let us help our coworker Everyday 
+Bikol-Naga English Translation Category Aram Know / Knowledge Verb Pakarhay Fix / Repair Verb Lugar Place / Location Noun Kausip Conversation partner Noun Marhay na aldaw saimo Good day to you Greeting Salamat sa panahon Thank you for the time Politeness Ano an gigibuhon mo? What are you going to do? Question Nag-aadal kami nin Bikol-Naga lambang aldaw. We study Bikol-Naga every day. Everyday 
+Magluto kita nin masiram na kakanon para sa pamilya. 
+Mag-ingat ka sa paglakaw paduman sa eskwelahan. 
+Let's cook delicious food for the family. Everyday Take care walking on your way to school. Everyday 
+Bikol-Naga English Translation Category Pusog na boot Courage / Determination Noun Matiyaga Persevering / Patient Adj Magsarig To rely / To lean on Verb Sain ka makaduman? Where are you going? Question Mag-ataman kita sa satong kapalibotan. Let us take care of our environment. Everyday 
+Bikol-Naga English Translation Category Pangaturogan Dream Noun Katuninungan Peace Noun Tabang Help / Assistance Noun Mag-usipon To converse / Discuss Verb Matinabangon Helpful / Generous Adj Dae nin problema No problem / You're welcome Politeness Mag-ingat ka pirmi Always take care Phrase Dios marhay na aga saimo Good morning to you Greeting Maogma kaming nahiling ka We are happy to see you Greeting Nag-aadal kami nin Bikol-Naga ngunyan We are studying Bikol-Naga now Everyday 
+Bikol-Naga English Translation Category Mag-usipon To converse / Talk Verb
+Bikol-Naga English Translation Category Katuninungan Peace / Tranquility Noun Matinabangon Helpful / Generous Adj Dae nin problema No problem / You're welcome Politeness Mag-ingat ka pirmi sa paglakaw. Always take care when walking. Everyday Maogma kaming makatabang saimo. We are happy to help you. Everyday 
+Bikol-Naga English Translation Category Pag-iingat Carefulness / Caution Noun Makarawat Playful Adj Mag-usipon nin marhay Converse well Phrase Dios marhay na banggi saimo. Good evening to you. Greeting Mag-adal kitang marhay sa eskwelahan. Let's study well in school. Everyday Maogma an satong pag-iriba ngunyan. Our togetherness today is joyful. Everyday 
+Bikol-Naga English Translation Category Katoninongan Peace / Tranquility Noun Matinabangon Helpful / Generous Adj Pag-iingat Carefulness / Caution Noun Mag-usipon nin marhay Converse well Phrase Dios marhay na hapon saimo. Good afternoon to you. Greeting Maogma an satong pag-iriba sa harong. Our togetherness at home is joyful. Everyday 
+Mag-adal kitang marhay para sa satong pangarap. 
+Let's study well for our dreams. Everyday 
+Bikol-Naga English Translation Category Maugma na pag-abot Welcome Greeting Tabangon mo ako Help me Request Mabalos sa gabos Thank you for everything Politeness Sain an tindahan? Where is the store? Question Mag-uli na kita sa harong. Let us go home now. Everyday 
+Kainaman Goodness / Well-being Noun Mag-istatwa To stay put / Remain still Verb Marhay na kamugtakan Good situation / Condition Phrase Mag-ulay nin maogma Converse cheerfully Phrase Dios marhay na udto saimo. Good noon to you. Greeting Mag-ingat kita sa satong paglakbay. Let us take care on our journey. Everyday Maogma an pagkaon katuwang an pamilya. Eating together with family is joyful. Everyday
+Komunidad Community Noun Pag-iriba Companionship / Fellowship Noun Mag-urulay To converse / Discuss together Verb Makisumaro To unite / Join with others Verb 
+Matipon kita sa plaza ngunyan na hapon. Let us gather at the town square this afternoon. 
+Everyday 
+Maogmang mag-istar sa katiringban na ini. It is joyful to live in this community. Everyday 
+Mabalos sa saimong pagiging magayon na katabang. 
+Thank you for being a wonderful helper. Politeness 
+Pakarhayon To repair / Improve Verb Pagsarig Trust / Confidence Noun Kausipon To speak with / Talk to Verb 
+Mag-ataman nin marhay To care well for Phrase Marhay na kinaban Good world / Peaceful life Phrase Mag-usipon kita nin husto kan baretan. Let us discuss the news properly. Conversation Matinabangon an sakong tugang sa harong mi. My brother is so helpful in our house. Everyday Dios mabalos sa saindong matanos na boot. God bless you for your honest heart. Greeting 
+Paglingkod Service / Serving Noun Makarag-karag Wasteful Adj Mag-ataman To care for / Nurture Verb Marhay na memorya Good memory Phrase Mag-iriba kita sa paglinig kan kalsada. Let us join together in cleaning the street. Everyday Maogma an satong pag-iriba sa eskwelahan. Our companionship at school is joyful. Everyday 
+Mag istorya Narrates / Tells a story Verb Kaisturyahan Person to talk to Noun Pag-ataman Care / Nurturing Noun 
+Mag-ataman nin marhay sa pamilya Take good care of the family Phrase Marhay na aldaw sa saindong gabos. Good day to all of you. Greeting Mag-usipon kita nin husto kan satong leksyon. Let us discuss our lesson properly. Everyday 
+Maniwala To believe Verb Karamutan nin tawo Human greed Phrase Mag-ataman sa mga aki To care for the children Phrase Marhay na pag-iriba sa harong Good companionship at home Phrase Nagtatrabaho kami para sa pamilya. We are working for the family. Everyday 
+Karamutan Greed / Selfishness Noun
+Kagitingan Bravery / Heroism Noun Magtiwala To rely / To trust Verb Mag-ataman To care for / Nurture Verb 
+Matiyaga Persevering / Patient Adj Marhay na kamugtakan Good situation / Condition Phrase Mag-ulay nin maogma Converse cheerfully Phrase Mag-ataman kita sa satong kapalibotan. Let us take care of our environment. Everyday Dios marhay na aga saimo, amigo. Good morning to you, my friend. Greeting 
+Kadamutan Greed / Selfishness Noun Kagitingan Bravery / Heroism Noun Magsarig To rely / To trust Verb Mag-ataman To care for / Nurture Verb 
+Matiyaga Persevering / Patient Adj Marhay na kamugtakan Good situation / Condition Phrase Mag-ulay nin maogma Converse cheerfully Phrase Mag-ataman kita sa satong kapalibotan. Let us take care of our environment. Everyday Dios marhay na aga saimo, amigo. Good morning to you, my friend. Greeting 
+Pakarayon To improve / To fix Verb Pagkamoot sa pamilya Love for family Phrase Maogmang pagtiripon Joyful gathering Phrase Mag-ataman nin marhay sa kalikasan. Take good care of nature. Everyday Marhay na banggi sa saindong gabos. Good evening to all of you. Greeting 
+Iriwal Dispute / Quarrel Noun Kaulayon nin tultol Speak properly to someone Phrase Masayang an panahon Time is wasted Phrase Mag-ataman nin mga aki sa harong. Take care of children at home. Everyday Dios marhay na hapon saimo, amigo. Good afternoon to you, my friend. Greeting 
+Katoninongan Peace / Harmony Noun Pag-aadal Education / Studying Noun Maniwalaan To believe in Verb Mag-ulay-ulay To converse together Verb 
+Matingat-ingat Very cautious / Careful Adj Marhay na aldaw saimo, amigo. Good day to you, my friend. Greeting Salamat sa saimong pagtabang. Thank you for your help. Politeness
+Nag-aadal kami nin husto para sa satong pamilya. 
+We are studying hard for our family. Everyday 
+Mag-ingat ka pirmi sa saimong paglakbay. Always take care on your journey. Everyday 
+Pusog nin boot Courage / Resilience Noun Makisumaro To unite / Participate Verb Mag-ataman nin marhay Take good care Phrase Marhay na pamumuhay Good living / Prosperity Phrase 
+Maogma an satong pag-iriba sa komunidad. Our togetherness in the community is joyful. 
+Everyday 
+Dios mabalos sa saimong matanos na boot. God bless you for your honest heart. Greeting 
+Lugar nin pag-adal Place of study / Learning center Noun Matinabangong komunidad Helpful community Phrase Mag-amigo Friends / Companions Noun Mag-iriba sa harong Housemates / Family members Noun Pagsurat nin tula Poetry writing Noun Pagtukdo sa mga aki Teaching the children Phrase Pakarhayon an harong Fix up the house Phrase Mag-ataman nin marhay sa sadiri Take good care of oneself Phrase Maogmang pag-iriba sa eskwelahan Joyful fellowship at school Phrase Madiikit na kakanon A little food Phrase Dakul na libro Many books Phrase Bagong kagamitan New equipment Phrase Lumang harong Old house Phrase Mataas na bulod High mountain Phrase Malinig na tubig sa salog Clean river water Phrase Mahamot na burak sa natad Fragrant flower in the yard Phrase Masiram na pamahaw Delicious breakfast Phrase Mainit na kape sa aga Hot coffee in the morning Phrase Malipot na hangin sa banggi Cool wind at night Phrase Matanos na kalsada Straight road Phrase Madalandag na tinampo Slippery road Phrase Maliwanag na bulan Bright moon Phrase Mabuot na paratukdo Kind teacher Phrase Masipag na estudyante Hardworking student Phrase Mahigos na paratanom Industrious farmer Phrase Matipon kita sa harong. Let us gather at home. Everyday Mag-usipon kita kan leksyon. Let us discuss the lesson. Everyday
+Magsulat ka nin tula. Write a poem. Request Magbasa kita nin mga libro. Let us read books. Everyday Magkarigos ka bago magluwas. Take a bath before going out. Everyday Magwalis ka sa laog nin kwarto. Sweep inside the room. Everyday Maglaba kita sa aga nin Sabado. Let us do laundry on Saturday morning. Everyday Magluto si nanay nin masiram na hapunan. Mother is cooking a delicious dinner. Everyday Nagtatrabaho si tatay sa opicina. Father is working in the office. Everyday Nag-aani an mga tawo sa bukid. The people are harvesting in the mountain. Everyday Nag-iipon kami nin kwarta para sa eskwelahan. We are saving money for school. Everyday Mag-ingat ka sa saimong pagdalagan sa natad. Be careful running in the yard. Everyday Maogma an mga aki sa laog nin eskwelahan. The children are happy inside the school. Everyday Mabalos sa saimong dakulang pagtabang. Thank you for your great help. Politeness 
+Dios mabalos sa saindong kabuotan sa amon. God bless you for your kindness to us. Greeting Marhay na aga saimo, amigo ko. Good morning to you, my friend. Greeting Marhay na hapon sa saindo gabos Dini. Good afternoon to all of you here. Greeting Marhay na banggi sa pamilya mo sa harong. Good evening to your family at home. Greeting Kumusta an saimong pag-adal ngunyan? How are your studies right now? Question Sain ka maduman sa masunod na aldaw? Where are you going next day? Question Pano mo ginibo an proyekto sa eskwelahan? How did you make the school project? Question Gurano an bayad sa pagbakal nin libro? How much is the cost to buy a book? Question 
+Pira an mga estudyante sa laog nin klase? How many students are inside the classroom? 
+Question 
+Siisay an nag-abot sa harong nindo? Who arrived at your house? Question Nuarin ka mauli hali sa banwaan? When will you return home from town? Question 
+Kapaanggot Annoying Adj Katakutan Frightening Adj Katood Close friend Noun Kabayadan Payment / Fee Noun Kabitoonan Starry sky Noun Kagubatan Forest / Jungle Noun Kaligtasan Safety / Salvation Noun Kamondoan Sorrow / Grief Noun Kaogmahan Joy / Happiness Noun Kasakitan Hardship / Suffering Noun Katipunan Assembly / Gathering Noun Katorogan Slumber / Sleep Noun Mag-aling To entertain / Comfort Verb
+Mag-apron To wear an apron Verb Mag-asikaso To attend to / Manage Verb Mag-awas To overflow Verb Mag-ayog To shake / Stir Verb Mag-iba-iba To vary / Varying Verb Mag-ilaw To light up Verb Mag-isog To move over / Shift Verb Mag-olay To speak / Converse Verb Mag-olok To laugh softly Verb Mag-ukol To fit / Measure Verb Mag-untok To stop / Cease Verb Mag-usip To relate / Tell stories Verb Mag-uyon To agree / Consent Verb Mag-uyon-uyon To get along together Verb Mag-yaya To invite / Urge Verb Mag-yuko To bow down Verb Magbago To change / Transform Verb Magbalos To repay / Reciprocate Verb Magbantay To guard / Watch over Verb Magdalagan nin amay Run early Phrase 
+Magdangat To cherish / Hold dear Verb Maggiya To guide / Direct Verb Maghawan To clear land / Weed Verb Maghimulo To reflect deeply Verb Maghinabon To contemplate Verb Maghinagap To yearn / Long for Verb Maghingoa To strive / Endeavor Verb Magkagi To rake / Scrape Verb Magkanaw To dissolve / Melt Verb Magkapot To hold / Grasp Verb Magkimat To blink / Wink Verb Magkudkod To grate coconut Verb Maglinig nin harong Clean the house Phrase 
+Magluwas To go outside Verb Magmamasid To observe carefully Verb Magpalaen nin pwesto Change position Phrase Magpaliphas To pass the time Verb Magpamarapa To stumble along Verb
+Magpasyal To take a stroll Verb Magpilo To fold clothes Verb Magpuli To go home Verb Magsakdo To fetch water Verb Magsalaysay To narrate / Explain Verb Magsalog To mop / Clean the floor Verb Magsalva To save / Rescue Verb Magsayod To express clearly Verb Magsirbi To serve / Be useful Verb Magsulot nin bado Wear clothes Phrase 
+Magsurip To inspect / Examine Verb Magtanggol To defend / Protect Verb Magtiwala sa katood Trust a friend Phrase Magtukdo nin leksyon Teach a lesson Phrase Mag-usipon nin maogma sa pamilya Converse cheerfully with family Phrase Mag-uyon kita sa plano Let us agree on the plan Phrase Mahalaga an pag-adal sa eskwelahan. Studying at school is important. Sentence Maikot na tawo Stingy person Phrase Makamomoan Astonishing / Amazing Adj Makarag an pagkain sa lamesa. The food on the table is wasted. Sentence Makasalanan Sinful Adj Malaing Harmful / Poisonous Adj Malain an pakaramdam ko. I feel unwell. Sentence Malinig an harong kan sakong lola. My grandmother's house is clean. Sentence Malumbay Melancholy / Sad Adj Maluway maglakaw an lolo. Grandfather walks slowly. Sentence Mamahalon na relo Expensive watch Phrase Maniwala ka sa saimong sadiri. Believe in yourself. Sentence 
+Maogma an pamilya pag nagkakaturipon. The family is happy when gathering together. 
+Sentence 
+Maogmang pag-abot sa satong harong. Welcome to our home. Sentence Mapangahas Daring / Audacious Adj Mapawa Bright / Luminous Adj Marhay na aldaw saimo, kaibigan. Good day to you, friend. Sentence Marhay na kamugtakan sa banwaan Good condition in the town Phrase 
+Masagana an ani nin paroy sa bukid. The rice harvest on the mountain is abundant. 
+Sentence 
+Masingkay Agile / Nimble Adj
+Masiramon an kakanon na inihanda ni nanay. The food prepared by mother is very delicious. 
+Sentence 
+Matibay na harong Sturdy house Phrase Matimbang Balanced / Equal weight Adj Matinabangon na katood Helpful close friend Phrase Matuninong an gabi sa bukid. The night in the mountain is peaceful. Sentence 
+Matyaga si ama sa pagtatrabaho sa bukid. Father is persevering in working on the farm. 
+Sentence 
+Maugmang pagtiwala sa katrabaho Joyful trust in a coworker Phrase Nagtatrabaho si ama para sa pamilya. Father is working for the family. Sentence Pag-ataman nin mga aki sa harong Caring for children at home Phrase Pag-ipon nin kaalaman sa aklatan Gathering knowledge in the library Phrase Pag-isip nin matanos bago magtaram Thinking properly before speaking Phrase Pagkamoot sa mga magurang Love for parents Phrase Pakarhayon an mga gamit sa kwarto Organize items in the room Phrase Salamat sa saimong pag-asikaso sa amon. Thank you for attending to us. Sentence Tabangan ta an satong katood sa kasakitan. Let us help our friend in hardship. Sentence 
+Kanding Goat Noun Kabitoonan sa langit Stars in the sky Phrase Maogmang pamilya Happy family Phrase Malipot an banggi The night is cold Sentence Kakanon sa udto Lunch food Phrase Kuskuson an sahig Scrub the floor Request Mag-ipit nin buhok Clip the hair Phrase Mabilis magdalagan an aki The child runs fast Sentence Salamat sa imbitasyon Thank you for the invitation Politeness Mag-usipon kita nin husto Let us talk thoroughly Phrase Aklatan nin eskwelahan School library Phrase Pakarhayon an lamesa Fix the table Request Mag-ataman sa mga hayop Take care of animals Phrase Matipon an mga tawo sa simbahan. People will gather at the church. Sentence Mabuot na katrabaho Kind coworker Phrase Matiyaga sa pag-adal Persevering in study Phrase Marhay na aga saimo, kapwa ko. Good morning to you, my fellow. Greeting Mag-ingat ka sa pagbyahe. Take care on your journey. Request Dios mabalos sa saimong pagpadaba. God bless you for your affection. Greeting Magluto nin masirom na sabaw Cook a delicious broth Phrase Sain ka makua nin tubig? Where will you get water? Question
+Magkanta nin maogmang kanta Sing a joyful song Phrase Matiyaga si lola sa harong. Grandmother is patient at home. Sentence Pag-isip nin bagong proyekto Thinking of a new project Phrase Mag-ataman nin tanom sa bakuran Care for plants in the yard Phrase Kagayonan kan kalikasan Beauty of nature Phrase Mag-ingat sa madalandag na kalsada Be careful on the slippery road Request Maniwala sa saimong kakayahan Believe in your ability Phrase Dios marhay na banggi sa saindo gabos. Good evening to you all. Greeting Maogmang pag-iriba kan mga amigo Joyful fellowship of friends Phrase Maglinig nin kusina Clean the kitchen Request Mag-aani nin dakul na prutas Harvesting plenty of fruits Phrase Matinabangon na pamilya sa banwaan Helpful family in town Phrase Mag-usipon kita sa irarom nin kahoy Let us talk under the tree Phrase Maugma an mga aki sa eskwelahan. The children at school are happy. Sentence Magbakal nin sariwang isda Buy fresh fish Request Marhay na kamugtakan sa harong Good condition at home Phrase Magtiwala sa katipunan Trust the assembly Phrase Salamat sa saimong pang-unawa Thank you for your understanding Politeness Pakarhayon an mga gagamiton Organize the equipment Request Mag-ingat sa paglakaw sa salog Be careful walking near the river Request Makinabang sa pag-adal Benefit from education Phrase Dios marhay na udto saimo, maestra. Good noon to you, teacher. Greeting Maogmang pagtiripon nin pamilya Joyful family gathering Phrase Magtaram nin katotohanan pirmi Always speak the truth Phrase Mag-ataman nin marhay sa kalag Take good care of the soul Phrase Masiramon an pamahaw ngunyan. Breakfast is very delicious today. Sentence Sain ka maduman sa Sabado? Where are you going on Saturday? Question Mag-usipon kita nin konti sa opisina Let us talk a little in the office Phrase Mabuot an sakong mga katrabaho. My coworkers are kind. Sentence Katoninongan sa bilog na banwaan Peace in the whole town Phrase Mag-ingat ka pirmi sa paglakbay mo. Always take care on your trip. Request Dios mabalos sa saimong tulong. God bless you for your help. Greeting Mag-adal kitang marhay sa klase. Let us study well in class. Sentence Maogma an pag-iriba sa harong. Togetherness at home is joyful. Sentence Pakarhayon an mga libro sa aklatan Organize books in the library Request Mag-ataman sa sadiring kaligtasan Take care of one's safety Phrase Matinabangon na tawo sa komunidad Helpful person in the community Phrase Mag-usipon tungkol sa leksyon Discuss the lesson Phrase
+Marhay na hapon saimong pamilya. Good afternoon to your family. Greeting Magluto nin masiram na hapunan Cook a delicious dinner Request Pira an presyo kan bagong bado? How much is the new dress? Question Mag-ingat sa pagbyahe sa bukid Take care traveling to the mountain Request 
+Salamat sa saimong kabuotan sako. Thank you for your kindness to me. Politeness Magtiwala sa matanos na namumuno Trust the honest leader Phrase Dios marhay na aga sa saindo gabos. Good morning to you all. Greeting Maogmang pag-abot sa satong banwaan. Welcome to our town. Greeting Maglinig nin natad lambang aga Clean the yard every morning Phrase Mag-usipon nin marhay sa eskwelahan Converse well at school Phrase Matiyaga si tatay sa trabaho. Father is persevering at work. Sentence Kagayonan kan satong kultura Beauty of our culture Phrase Mag-ataman nin marhay sa pamilya Take good care of the family Phrase Dios mabalos sa saimong pag-asikaso. God bless you for attending to us. Greeting 
+Masiramon an kape sa amay na aga. Coffee is very delicious early in the morning. 
+Sentence 
+Sain nakatago an mga lumang gamit? Where are the old items stored? Question Mag-ingat sa paglakaw sa tinampo Be careful walking on the road Request Matinabangon an sakong mga katrood. My close friends are helpful. Sentence Maogma an pagtiripon kan pamilya. The family gathering is joyful. Sentence Pakarhayon an laog nin kwarto Clean up inside the bedroom Request Mag-usipon kita tungkol sa pangarap Let us discuss our dreams Phrase Dios marhay na banggi saimo, kaibigan. Good evening to you, friend. Greeting Mag-ataman nin kalikasan pirmi Always care for nature Phrase Marhay na kamugtakan sa komunidad Good condition in the community Phrase Mag-adal nin husto para sa kinaban Study hard for the world Phrase Salamat sa saimong oras asin pagbisita. Thank you for your time and visit. Politeness Mabuot na paratukdo sa eskwelahan Kind teacher at school Phrase Mag-ingat sa pagdalagan sa kalsada Be careful running on the street Request Dios mabalos sa saindong gabos Dini. God bless you all here. Greeting Maogmang pag-iriba sa eskwelahan Joyful fellowship at school Phrase Maglinig nin harong lambang Sabado Clean house every Saturday Phrase Matiyaga si mama sa kusina. Mother is patient in the kitchen. Sentence Mag-usipon nin husto sa pamilya Converse thoroughly with family Phrase Katoninongan sa satong harong Peace in our house Phrase Dios marhay na aga saimo, amigo ko. Good morning to you, my friend. Greeting Mag-ataman nin marhay sa mga aki Take good care of children Phrase Matinabangon an mga tawo sa Naga. The people in Naga are helpful. Sentence
+Masiramon an kakanon na iniluto. The cooked food is very delicious. Sentence Mag-ingat ka pirmi sa paglakaw mo. Always take care when you walk. Request Dios mabalos sa saimong pagpahalaga. God bless you for your appreciation. Greeting 
+Abaga Shoulder Noun Agbay Arm around shoulder Noun Agang-aga Very early morning Time Agihan nin tawo Pedestrian pathway Phrase 
+Aki nin Dios Child of God Phrase Alagad However / But Grammar Aldaw nin kapag-organisa Day of organization Time Amo-amuhan To pamper / Coax Verb Aningal Echo Noun Aram nin gabos Known to everyone Phrase Araw-araw nag-aadal Studies daily Sentence Asin pa And also Grammar Atamanon an salog Take care of the river Sentence Awat na Long time already Time Ayam sa harong House dog / Pet dog Noun Babaeng mabuot Kind woman Phrase Bagong tukaw New chair Phrase Bagon maglakaw Walks slowly Phrase Bakit man Why indeed Question Balinganga Careless / Unaware Adj Banggi na man It is already night Sentence Bango nin burak Fragrance of a flower Phrase Banwaan nin Naga Town of Naga Noun Bapor sa dagat Ship on the sea Noun Barato na paninda Inexpensive goods Phrase Basa an kalsada The street is wet Sentence Batiis Lower leg / Calf Noun Bayaani Hero Noun Baybayon sa dagat Seashore / Beach Noun Bibig Lips / Mouth Noun Bilog na pamilya Entire family Phrase Binakal sa saod Bought at the market Phrase Bitoon sa langit Star in the sky Phrase Bua Crazy / Insane Adj
+Bukid nin Isarog Mount Isarog Noun Buhok na maitem Black hair Phrase Bulod na mataas High hill / Mountain Phrase Busog an tulak Stomach is full Sentence Byaheng Naga Trip to Naga Phrase Dae ka matakot Do not be afraid Sentence Dae man mag-iwal Do not fight Sentence Dae nin makakadaog No one can beat / Undefeated Sentence Dae nin utang No debt Phrase Daga nin Bikol Land of Bicol Noun Dakul an tao There are many people Sentence Dalandag an tinampo Road is slippery Sentence Dalon To visit / Greet Verb Dangogon mo ako Listen to me Sentence Datan nin kadaklan Gathering of the public Phrase Dayupot na katood Intimate / Close friend Phrase Dida Heel of foot Noun Didi ka magtukaw Sit here Sentence Digo Blood Noun Dios mabalos saimo God bless you Greeting Dios marhay na udto Good noon Greeting Dukang Clumsy / Awkward Adj Duman sa bulod Over there in the mountain Phrase Dumaon kita Let us go there Sentence Duwang libro Two books Phrase Eksamen sa eskwelahan Exam in school School Eskwelahan sa Naga School in Naga School Estudyanteng mahigos Diligent student School Gibo nin tawo Human deed / Work Phrase Giraray magtiripon Gathering again Phrase Gubing Attire / Garment Noun Gulay sa saod Vegetables at the market Food Gurano an presyo How much is the price Question Guron Wrinkle Noun Gusto kong mag-adal I want to study Sentence Habilin nin magurang Parent's advice / Legacy Phrase Halangkon Very tall / Very high Adj Halat lang Wait a moment Phrase
+Haloy na panahon Long time ago Time Hangin hali sa bulod Wind from the mountain Phrase Hapon na man It is afternoon already Sentence Harani sa simbahan Near the church Phrase Harong sa banwaan House in town Noun Hawak nin tawo Human body Noun Hibat Asymmetrical / Tilt Adj Hilingon mo ini Look at this Sentence Ika sana an sakong amigo You are my only friend Sentence Ilaw sa kalsada Street light Noun Ingat sa paglakbay Take care on your journey Greeting Inom nin tubig Drink water Phrase Ipadaba ka nin Dios May God love you Greeting Iribang mag-adal Study together Phrase Isda sa dagat Fish from the sea Food Istorya kan kaidto Story of the past Phrase Iyo nanggad Yes indeed Response Kabayadan sa pamasahe Transportation fare Noun Kabituonan sa langit Stars in the sky Noun Kabuotan nin puso Kindness of heart Noun Kadatongan nin bisita Arrival of visitors Phrase Kagayonan nin kalikasan Beauty of nature Noun Kagitingan kan sundalo Bravery of the soldier Noun Kainaman nin panahon Pleasantly good weather Phrase Kakanon sa lamesa Food on the table Food Kalag nin tao Human soul Noun Kalayo sa kusina Fire in the kitchen Noun Kalibutan World / Universe Noun Kalsada sa banwaan Street in town Noun Kami an matabang saimo We will help you Sentence Kamondoan nin puso Sorrow of the heart Noun Kaniadto pa Since long ago Time Kansang Rust Noun Kanta nin pagkamoot Love song Noun Kaogmahan sa pamilya Happiness in the family Noun Kape sa aga Coffee in the morning Food Kapiestahan sa Naga Fiesta in Naga Noun Karamutan nin tawo Human greed Noun
+Kasakitan sa buhay Hardship in life Noun Kasuudma na hapon Yesterday afternoon Time Katanusan sa gabos Justice for all Noun Katoninongan sa banwaan Peace in the town Noun Katood sa eskwelahan Friend at school Noun Katutubong Bikolano Native Bicolano Noun Kita an maduman sa saod We are going to the market Sentence 
+Komunidad nin Naga Community of Naga Noun Kumusta ka na amigo How are you my friend Greeting Kusina sa harong Kitchen in the house Noun Kwarta sa bag Money in the bag Noun Kwarto sa harong Room in the house Noun Lakaw sa tinampo Walk on the road Phrase Lamesa sa kusina Table in the kitchen Noun Lapis asin papel Pencil and paper Phrase Libro sa aklatan Book in the library School Likod nin harong Back of the house Phrase Linog sa banwaan Earthquake in the town Noun Lolo asin lola Grandfather and grandmother Noun Lugar nin pag-adal Place of learning School Luma na harong Old house Phrase Luyah nin hawak Weakness of body Noun Maalsom an santol Santol is sour Sentence Mababalos an Dios God will repay Sentence Mabansay na tao Elegant / Handsome person Phrase Mabuot na pamilya Kind family Phrase Mabugat an bag Bag is heavy Sentence Madali sana ini This is easy Sentence Madalandag an agihan Pathway is slippery Sentence Madiklom an banggi The night is dark Sentence Madunong na aki Wise child Phrase Mag-aadal kitang marhay We will study well Sentence Mag-alaga nin marhay Take good care Phrase Mag-aling sa aki Entertain the child Phrase Mag-andam nin pamahaw Prepare breakfast Phrase Mag-asikaso sa harong Manage the household Phrase Mag-ataman nin tanom Nurture plants Phrase Mag-ipit nin papel Clip papers together Phrase
+Mag-ipon nin kwarta Save money Phrase Mag-iriba sa proyekto Work together on a project Phrase Mag-isip nin matanos Think properly Phrase Mag-istar sa Naga Reside in Naga Sentence 
+Mag-olay kita nin marhay Let us talk properly Sentence Mag-orag man an sinabi mo What you said is impressive Sentence Mag-uli na kita sa harong Let us go home now Sentence Mag-usipon kan baretan Discuss the news Phrase 
+Mag-uyon-uyon an gabos Everyone gets along Sentence Magayon an burak The flower is beautiful Sentence Magbasa nin libro Read a book School Maggibo nin assignment Do homework School Maghapon nagtatrabaho Works all afternoon Phrase Maghukad nin maluto Serve cooked rice Phrase Magkaon nin prutas Eat fruit Food Magkarigos sa salog Bathe in the river Phrase Maglakaw sa kalsada Walk on the street Phrase Maglinig kan natad Clean the yard Phrase Magluto nin laing Cook laing Food Magpasensya ka sana Just be patient Sentence Magsakay sa jeep Ride a jeepney Phrase Magsukat nin bado Measure clothes Phrase Magsurat nin tula Write a poem Phrase Magtabang kita sa pamilya Let us help the family Sentence Magtrabaho sa opicina Work in an office Phrase Magturog nang maamayi Sleep early Phrase Mahal an mga paninda The goods are expensive Sentence Mahamis an mangga The mango is sweet Sentence Mahigugmaon na ina Loving mother Phrase Mahigos na paratanom Industrious farmer Phrase Mahipus sa laog nin klase Quiet inside the classroom School Mainit an panahon The weather is hot Sentence Maka-intindi nin Bikol Understands Bicol Phrase Makarag-karag sa kwarta Wasteful with money Phrase Makarawat na aki Playful child Phrase Makaturing na katood Thoughtful friend Phrase Malipot an tubig Water is cold Sentence Malinig an harong The house is clean Sentence
+Maliwanag an bulan The moon is bright Sentence Maluto sa kaldero Cooked rice in the pot Food Mamundo an kanta The song is sad Sentence Maniwala ka sako Believe me Sentence Manok sa natad Chicken in the yard Noun Maogma an satong pagtipon Our gathering is joyful Sentence Maogmang pag-abot Dini Welcome here Greeting Marhay na aga saimo Good morning to you Greeting Marhay na banggi sa saindo Good evening to you all Greeting Marhay na hapon sa gabos Good afternoon everyone Greeting Marhay na kamugtakan Good condition Phrase Masagana an ani The harvest is abundant Sentence Masiramon an kakanon The food is very delicious Sentence Matani-tanos an kalsada The road is fairly straight Sentence Matanos na tawo Honest / Upright person Phrase Mataas an bulod The mountain is high Sentence Matibay na harong Sturdy house Phrase Matinabangon na pamilya Helpful family Phrase Matiyaga sa pag-adal Persevering in studies School Mayana Later on / In a while Time Mensahe gikan sa katood Message from a friend Phrase Minausip si lola Grandmother is telling a story Sentence Mura an prutas sa saod Fruit is cheap at the market Sentence Nag-aadal nin husto Studying hard School Nag-aani nin paroy Harvesting rice Phrase Nag-iipon nin kaalaman Gathering knowledge School Nag-iingat sa paglakaw Careful when walking Phrase Nag-uuli sa harong Going back home Phrase Nagkanta an mga aki The children sang Sentence Nagluto si nanay nin pangudto Mother cooked lunch Sentence Nagtatrabaho si tatay Father is working Sentence Naka-intindi nin husto Understood thoroughly Phrase Natad nin harong Yard of the house Noun Ngunyan na aldaw Today Time Ngunyan na banggi Tonight Time Nuarin ka mauli When will you return home Question Opicina sa banwaan Office in town Noun Paaram saimo amigo Goodbye to you my friend Greeting
+Pag-aadal sa eskwelahan Studying in school School Pag-ataman sa pamilya Taking care of family Phrase Pag-iingat sa kalsada Carefulness on the road Phrase Pag-ipon nin kaalaman Gathering of knowledge School 
+Pag-iriba kan pamilya Togetherness of the family Noun Pag-isip nin magayon Good thinking / Positive thoughts Phrase Pagkamoot sa magurang Love for parents Noun Paglingkod sa banwaan Service to the town Noun Paharong Homeward / Toward home Direction Pakarhayon an harong Fix up the house Phrase Palaen an kakanon Set aside the food Phrase Paliwanag nin paratukdo Teacher's explanation School Palyo Fault / Imperfection Noun Pamahaw sa aga Breakfast in the morning Food Pamilya sa harong Family at home Noun Paninda sa saod Merchandise at the market Noun Pangaturugan sa buhay Dream in life Noun Panghapunan kan pamilya Family dinner Food Pangudto sa kusina Lunch in the kitchen Food Paratanom sa bukid Farmer on the mountain Noun Paratukdo sa eskwelahan Teacher at school School Paroy sa taniman Uncooked rice in the field Noun Pira ka libro How many books Question Plaza sa banwaan Town plaza Noun Pusog nin boot Courage / Inner strength Noun Saimong pamilya Your family Phrase Salamat sa tabang Thank you for the help Greeting Salog sa Naga Naga River Noun Simbahan sa banwaan Church in town Noun Siring kaiyan Like that / That way Grammar Tabang sa katood Help for a friend Phrase Taga-Naga ako I am from Naga Sentence Taniman sa bakuran Garden in the yard Noun Tawo sa banwaan Person in town Noun Tindahan nin tambal Pharmacy / Drugstore Noun Tubig hali sa bulod Water from the mountain Phrase 
+Kasuarin When (past) Time
+Nuarin When (future) Time Gurano an bayad? How much is the fare? Question Maitom an bulawan Black gold Phrase Nag-aadal kitang marhay kan Bikol-Naga. We are studying Bikol-Naga very well. Sentence Dios mabalos sa saindong gabos. God bless you all. Greeting 
+Aga Morning Time Hapon Afternoon Time Banggi Night Time Udto Noon Time Araw-araw Every day Time Tubig Water Noun Kakanon Food Noun Harong House Noun Eskwelahan School Noun 
+Saod Market Noun Simbahan Church Noun Dagat Sea Noun Salog River Noun Bulod Mountain / Hill Noun Bukid Farm / Mountain Noun Kalsada Street / Road Noun Tinampo Road / Pathway Noun Pamilya Family Noun Magurang Parents Noun Ama Father Noun Ina Mother Noun Aki Child Noun Tugang Sibling Noun Katood Friend Noun Amigo Friend Noun Maestra Teacher (female) Noun Paratukdo Teacher Noun Estudyante Student Noun Paratanom Farmer Noun Parasira Fisherman Noun
+Mabuot Kind / Good-natured Adj Mahigos Hardworking / Diligent Adj Magayon Beautiful Adj Masiram Delicious Adj Marhay Good / Fine Adj Dakula Big / Large Adj Sadit Small Adj Mainit Hot Adj Malipot Cold Adj Malinig Clean Adj Pusog Strong / Sturdy Adj Luyah Weak Adj Maogma Happy / Joyful Adj Mamundo Sad Adj Pagal Tired Adj Mag-adal To study Verb 
+Magtrabaho To work Verb Magluto To cook Verb Magdalagan To run Verb Maglakaw To walk Verb Magkanta To sing Verb Magsayaw To dance Verb Magbasa To read Verb Magsurat To write Verb Magkaon To eat Verb Mag-inom To drink Verb Maturog To sleep Verb Magpangkat To group / Assemble Verb Magtabang To help Verb Mag-ingat To take care Verb Marhay na aga Good morning Greeting 
+Marhay na aldaw Good day Greeting Marhay na hapon Good afternoon Greeting Marhay na banggi Good evening Greeting Dios mabalos God bless / Thank you Politeness 
+Salamat Thank you Politeness Ingat ka Take care Phrase Paaram na Goodbye Farewell
+Kumusta ka How are you Greeting Maogmang pag-abot Welcome Greeting Mainit na kape Hot coffee Phrase Malipot na tubig Cold water Phrase Bagong libro New book Phrase Magayon na burak Beautiful flower Phrase Dakula na harong Big house Phrase Sadit na kwarto Small room Phrase Mabuot na tawo Kind person Phrase Mahigos na estudyante Diligent student Phrase Masiram na kakanon Delicious food Phrase Matanos na kalsada Straight road Phrase Ano an pangaran mo? What is your name? Sentence Sain ka maduman? Where are you going? Sentence Nuarin ka mauli? When will you go home? Sentence Siisay an nag-abot? Who arrived? Sentence Gurano an bayad? How much is the fare? Sentence Nag-aadal ako nin Bikol-Naga. I am studying Bikol-Naga. Sentence Nagluto si nanay nin kakanon. Mother cooked food. Sentence Nagtatrabaho si ama sa bukid. Father works on the farm. Sentence Magdalagan kita sa natad. Let us run in the yard. Sentence Maogma an pamilya sa harong. The family is happy at home. Sentence Mag-ingat ka sa paglalakbay. Take care on your journey. Sentence Maliwanag an bulan sa banggi. The moon is bright at night. Sentence Mabalos sa gabos nindong tabang. Thank you for all your help. Sentence Magkanta kita sa kapiestahan. Let us sing at the festival. Sentence Mabuot an sakong amigo. My friend is kind. Sentence Bukas na an pinto kan harong. The house door is open now. Sentence Magsulat ka nin mensahe. Write a message. Sentence Mag-inom ka nin mainit na kape. Drink hot coffee. Sentence Sinarado niya an bintana. She closed the window. Sentence Dios mabalos sa saindong gabos. God bless you all. Sentence 
+Katoninungan sa puso Peace in the heart Phrase Pagkamoot nin Dios Love of God Phrase Matinabangong katood Helpful friend Phrase
+Maogmang buhay Happy life Phrase Matanos na lider Honest leader Phrase Matiyaga sa trabaho Persevering at work Phrase Maugmang pagtiwala Joyful trust Phrase Kagayonan nin kalikasan Beauty of nature Phrase Pangarap sa buhay Dream in life Phrase Pagpahalaga sa kultura Appreciation of culture Phrase Mag-usipon nin marhay Converse properly Phrase Mag-ataman nin tanom Nurture plants Phrase Maglinig kan kalsada Clean the street Phrase Mag-ipon nin kaalaman Gather knowledge Phrase Mag-ingat sa pagbyahe Take care traveling Phrase Mag-ataman nin aki Care for a child Phrase Magtrabaho nin tultol Work properly Phrase Mag-unra sa magurang Honor parents Phrase Magsarig sa katotohanan Rely on the truth Phrase Magtabang sa kapwa Help fellow humans Phrase Dios marhay na aga saindo Good morning to you all Greeting 
+Marhay na hapon sa pamilya Good afternoon to the family Greeting Marhay na banggi sa mga bisita Good evening to the guests Greeting Dios mabalos sa kabuotan God bless you for the kindness Greeting Maogmang pag-abot sa harong Welcome to the house Greeting Ikinaugma kong mamidbidan ka Pleased to meet you Greeting Ingat ka sa pag-uli Take care going home Greeting Salamat sa pagbisita Dini Thank you for visiting here Greeting Marhay na aldaw sa saindo gabos Good day to all of you Greeting Mabalos nin dakul sa tabang Thank you very much for the help Greeting Ano an gibuhon ta ngunyan? What shall we do now? Question Sain nakatago an libro? Where is the book hidden? Question Siisay an maiba sato? Who will accompany us? Question Nuarin maabot an bisita? When will the guest arrive? Question Ta’no ta nagmamadali ka? Why are you rushing? Question Pano ta mababayadan ini? How can we pay for this? Question Gurano an presyo kan isda? How much is the price of fish? Question Pira an aki sa klase? How many children in class? Question Taga sain an katood mo? Where is your friend from? Question Anong oras an pagtipon? What time is the meeting? Question Nag-aadal kami nin Bikol-Naga sa eskwelahan. We are studying Bikol-Naga at school. Sentence
+Nagluto si lola nin masiram na laing. Grandmother cooked delicious laing. Sentence Nagtatrabaho an ama sa opicina sa banwaan. Father works at an office in town. Sentence Magdalagan kita paduman sa natad nin harong. Let us run toward the house yard. Sentence 
+Maogma an pamilya pag nagkakatiripon sa hapon. 
+Mag-ingat ka pirmi sa saimong paglakbay sa kalsada. 
+The family is happy when gathering in the afternoon. 
+Always take care on your journey on the road. 
+Sentence Sentence 
+Maliwanag an bulan asin mga bitoon sa kalangitan. 
+Mabalos sa gabos nindong pagpadaba asin tabang. 
+Magkanta kita nin maogmang kanta sa kapiestahan. 
+The moon and stars are bright in the sky. Sentence Thank you for all your love and help. Sentence Let us sing a joyful song at the fiesta. Sentence 
+Mabuot asin masipag an sakong mga katrabaho. My coworkers are kind and industrious. Sentence 
+Bukas na an pinto paduman sa laog nin kwarto. The door leading inside the room is now open. 
+Sentence 
+Magsulat ka nin tula tungkol sa katoninongan. Write a poem about peace. Sentence 
+Mag-inom ka nin mainit na kape sa amay na aga. 
+Drink hot coffee early in the morning. Sentence 
+Sinarado niya an bintana dahil sa makusog na uran. 
+She closed the window because of heavy rain. 
+Sentence 
+Dios mabalos sa saindong gabos sa pag-pahalaga. 
+God bless you all for your appreciation. Sentence 
+Nag-uuli an mga parasira hali sa dakula na dagat. 
+The fishermen return home from the vast sea. 
+Sentence 
+Nagtitiwala an mga tawo sa matanos na paratukdo. 
+Nag-iingat an drayber sa madalandag na tinampo. 
+The people trust the honest teacher. Sentence The driver is careful on the slippery road. Sentence 
+Nag-oomaw an mga tawo sa laog nin simbahan. The people offer praise inside the church. Sentence 
+Nag-aani nin masagana na paroy an mga paratanom. 
+Nagdaog an satong koponan sa hampang sa banwaan. 
+The farmers harvest abundant rice. Sentence Our team won the match in town. Sentence 
+Nag-iipon si tatay nin kwarta para sa pag-adal. Father is saving money for education. Sentence Naglakbay kami paduman sa mataas na bulod. We traveled toward the high mountain. Sentence 
+Naghuhulat an estudyante sa paradahan nin dyip. 
+Nagkurahaw an mga tawo sa maogmang pa-ilaw. 
+The student waits at the jeepney stop. Sentence The people cheered at the joyful fireworks. Sentence 
+Naging maogma an gabos sa pagtiripon nin pamilya. 
+Everyone became happy at the family gathering. 
+Sentence 
+Nagtutubod kami sa kakayahan nin lambang saro. 
+We believe in the capability of everyone. Sentence 
+Piggirumdom kan lola an storya kan kaidto. Grandmother recalled the stories of the past. 
+Sentence
+Matani-tanos an dalan paduman sa bagong eskwelahan. 
+The path heading to the new school is fairly straight. 
+Sentence 
+Malisipon an mga aki sa laog nin klase. The children inside the classroom are attentive. 
+Sentence 
+Masanting an baro na binakal sa tindahan. The dress bought at the store is handsome. Sentence Mahipus an mga estudyante sa laog nin aklatan. The students inside the library are quiet. Sentence Mahamot an mga burak sa natad nin harong. The flowers in the house yard are fragrant. Sentence 
+Mabalos sa saimong pagiging pasensyoso sa amon. 
+Thank you for being patient with us. Sentence 
+Ika sana an sakong pig-aasam na makaduman. You are the only one I hope can go there. Sentence Kami an matabang sa pag-linig nin kalsada. We will help clean the road. Sentence Kita an maduman sa saod nganing magbakal. We will go to the market to buy. Sentence Kamo daw an mapuno nin tubig sa dulaan? Will you fill the container with water? Sentence 
+Sinda an mga paratanom na nagtatrabaho sa bukid. 
+They are the farmers working on the farm. Sentence 
+Dini sa satong lugar masagana an ani. Here in our place the harvest is abundant. Sentence Diyan sa saimong pwesto malipot an hangin. There at your spot the wind is cool. Sentence Duman sa harayo na bulod dakul an kahoy. There on the distant hill are many trees. Sentence Sako an bag’ong librong ini hali sa maestra. This new book from the teacher is mine. Sentence Saimo an magayon na lapis sa lamesa. The beautiful pencil on the table is yours. Sentence Saiya an sapatos na ginamit sa pagdalagan. The shoes used for running belong to him. Sentence Sami an harong na yaon sa gilid nin tinampo. The house by the road belongs to us. Sentence Sato an magayon na pamana nin magurang. The beautiful heritage of parents is ours. Sentence Saindo an bag’ong kagamitan sa kwarto. The new equipment in the room is yours. Sentence 
+Sinda an magkakautang sa taga-saod nin prutas. 
+They owe money to the fruit vendor. Sentence 
+Ano an gibuhon ta nganing maging malinig? What shall we do to make it clean? Sentence Siisay an maawit nin Bikol na kanta? Who will sing a Bikol song? Sentence Sain nakatago an mga lumang libro? Where are the old books stored? Sentence Nuarin kitang gabos magkakatiripon giraray? When will all of us gather again? Sentence 
+Ta’no ta kailangan mag-ingat sa kalsada? Why is it necessary to be careful on the road? 
+Sentence 
+Pano ta mababayadan an utang sa saod? How can we pay the debt at the market? Sentence Gurano an bayad sa pag-arkila nin sasakyan? How much is the fare to rent a vehicle? Sentence Pira an aki na nag-aadal sa eskwelahan? How many children study at school? Sentence Ini an librong ipinautang kan paratukdo. This is the book lent by the teacher. Sentence Iyan an harong kan sakong amigo Dini. That is the house of my friend here. Sentence Ito an mataas na bulod sa banwaan. Over there is the high hill in town. Sentence
+Kagayanon Splendor / Magnificence Noun Pagsunod Obedience / Compliance Noun Pagpakarhay Improvement / Repair Noun Makaragay-kagay Delightful / Charming Adj 
+Matinabangong katrabaho Helpful coworker Phrase Katoninongan sa banwaan Peace in the town Phrase Pangarap kan pamilya Dream of the family Phrase Mag-usipon nin tultol Converse properly Phrase Mag-ingat sa paglakaw Take care when walking Phrase Mag-ataman nin marhay sa aki Take good care of the child Phrase Maogmang pag-iriba sa harong Joyful fellowship at home Phrase Marhay na kamugtakan sa buhay Good condition in life Phrase Mabuot asin masipag na amigo Kind and diligent friend Phrase Mag-ipon nin marhay na kaalaman Gather good knowledge Phrase Maglinig sa laog nin harong Clean inside the house Phrase Dios marhay na aga saimo, katood ko. Good morning to you, my friend. Greeting 
+Marhay na hapon sa saindong gabos Dini. Good afternoon to all of you here. Greeting Marhay na banggi sa pamilya mo sa harong. Good evening to your family at home. Greeting Dios mabalos sa saimong dakulang tabang. God bless you for your great help. Greeting Maogmang pag-abot sa satong eskwelahan. Welcome to our school. Greeting 
+Ikinaugma kong mamidbidan ka ngunyan na hapon. 
+Pleased to meet you this afternoon. Greeting 
+Ingat ka sa saimong pag-uli sa harong nindo. Take care on your way back home. Greeting 
+Salamat sa saimong panahon asin pagbisita Dini. 
+Thank you for your time and visiting here. Greeting 
+Marhay na aldaw sa saimo, sakong kaibigan. Good day to you, my friend. Greeting Mabalos nin dakul sa saimong pagpadaba. Thank you very much for your love. Greeting 
+Ano an gibuhon ta nganing makatabang sa kapwa? 
+What shall we do to help others? Question 
+Sain nakatago an bagong librong ini? Where is this new book hidden? Question Siisay an maiba sato paduman sa saod? Who will accompany us to the market? Question 
+Nuarin maabot an satong mga bisita hali sa Naga? 
+When will our guests from Naga arrive? Question 
+Ta’no ta kailangan mag-ingat pag nagbabyahe? Why is it necessary to be careful when traveling? 
+Question 
+Pano ta mababayadan an utang sa taga-saod? How can we pay our debt to the vendor? Question 
+Gurano an presyo nin prutas asin gulay saod? How much is the price of fruit and vegetables at market? 
+Question 
+Pira an estudyante sa laog nin aklatan? How many students are inside the library? Question Taga sain an saimong mabuot na katood? Where is your kind friend from? Question
+Anong oras an pagtipon kan pamilya sa harong? 
+Nag-aadal kami nin husto sa eskwelahan lambang aldaw. 
+What time is the family gathering at home? Question We study hard in school every day. Sentence 
+Nagluto si nanay nin masiram na pamahaw sa kusina. 
+Mother cooked delicious breakfast in the kitchen. 
+Sentence 
+Nagtatrabaho si ama sa bukid para sa pamilya. Father works on the farm for the family. Sentence Magdalagan kita nin mabilis paduman sa natad. Let us run fast toward the yard. Sentence 
+Maogma an mga aki pag nagkakatiripon sa harong. 
+The children are happy when gathering at home. 
+Sentence 
+Mag-ingat ka pirmi sa saimong paglakaw sa kalsada. 
+Always take care walking on the street. Sentence 
+Maliwanag an mga bitoon asin bulan sa banggi. The stars and moon are bright tonight. Sentence 
+Mabalos sa gabos nindong tabang asin pagpadaba. 
+Magkanta kita nin maogmang kanta sa banwaan. 
+Thank you for all your help and love. Sentence Let us sing a joyful song in town. Sentence 
+Mabuot asin masipag an sakong mga katrabaho. My coworkers are kind and industrious. Sentence 
+Bukas na an pinto kan bagong eskwelahan sa Naga. 
+The door of the new school in Naga is open now. 
+Sentence 
+Magsulat ka nin mensahe para sa saimong magurang. 
+Mag-inom ka nin mainit na kape sa amay na aga. 
+Write a message for your parents. Sentence Drink hot coffee early in the morning. Sentence 
+Sinarado niya an bintana kan mag-uran nin makusog. 
+She closed the window when it rained heavily. 
+Sentence 
+Dios mabalos sa saindong gabos sa pag-adal nin Bikol. 
+God bless you all for studying Bikol. Sentence 
+Nag-uuli an mga parasira hali sa dagat pabalik. The fishermen are returning home from the sea. 
+Sentence 
+Nagtitiwala an mga tawo sa matanos na lider. The people trust the honest leader. Sentence 
+Nag-iingat an drayber sa madalandag na kalsada. 
+Nag-oomaw an mga tawo sa simbahan lambang Domingo. 
+Nag-aani nin masagana na paroy an mga paratanom. 
+Nagdaog an satong koponan sa hampang nin basketbol. 
+The driver takes care on the slippery road. Sentence The people praise at church every Sunday. Sentence The farmers harvest abundant rice. Sentence Our team won in the basketball game. Sentence 
+Nag-iipon si tatay nin kwarta para sa pag-adal. Father is saving money for education. Sentence 
+Naglakbay kami paduman sa mataas na bulod kasuudma. 
+We traveled toward the high mountain yesterday. 
+Sentence 
+Naghuhulat an estudyante sa paradahan nin dyip. 
+The student waits at the jeepney stop. Sentence 
+Nagkurahaw an mga tawo kan mahiling an pa-ilaw. 
+The people cheered when seeing the fireworks. 
+Sentence
+Naging maogma an gabos kan mag-abot an bisita. 
+Everyone became happy when the guests arrived. 
+Sentence 
+Nagtutubod kami sa kakayahan nin lambang saro. 
+We believe in the capability of each one. Sentence 
+Piggirumdom kan lola an mga storya kan kaidto. Grandmother recalled the stories of the past. 
+Sentence 
+Matani-tanos an kalsada paduman sa eskwelahan. 
+The road heading to the school is fairly straight. 
+Sentence 
+Malisipon an mga aki na nagmamasid sa klase. The children observing the class are attentive. 
+Masanting an baro na binakal ni ate sa saod. The dress bought by older sister at the market is fine. 
+Sentence Sentence 
+Mahipus an mga estudyante sa laog nin aklatan. The students inside the library are quiet. Sentence Mahamot an mga burak na tinanom sa natad. The flowers planted in the yard are fragrant. Sentence 
+Mabalos sa saimong pagiging pasensyoso pirmi. 
+Ika sana an sakong pig-aasam na makaduman ngunyan. 
+Thank you for always being patient. Sentence You are the only one I hope can come now. Sentence 
+Kami an matabang sa paglinig kan kalsada. We are the ones who will help clean the road. 
+Sentence 
+Kita an maduman sa saod nganing magbakal. We are the ones going to the market to buy. Sentence 
+Kamo daw an mapuno nin tubig sa kusina? Will you be the ones to fill water in the kitchen? 
+Sentence 
+Sinda an mga paratanom na nagtatrabaho Dini. They are the farmers working here. Sentence 
+Dini sa satong lugar masagana an ani nin gulay. Here in our place the vegetable harvest is abundant. 
+Sentence 
+Diyan sa saimong pwesto malipot an hangin ngunyan. 
+There at your spot the wind is cool now. Sentence 
+Duman sa harayo na bulod dakul an kahoy. There on the distant hill are many trees. Sentence 
+Sako an bag’ong librong ini hali sa paratukdo. This new book from the teacher belongs to me. 
+Sentence 
+Saimo an magayon na lapis sa ibabaw nin lamesa. 
+Saiya an sapatos na ginamit sa pagdalagan kasuudma. 
+The beautiful pencil on top of the table is yours. 
+The shoes used for running yesterday belong to him. 
+Sentence Sentence 
+Sami an harong na yaon sa gilid nin tinampo. The house on the side of the road belongs to us. 
+Sentence 
+Sato an magayon na pamana nin satong magurang. 
+Saindo an bag’ong kagamitan sa laog nin kwarto. 
+Sinda an magkakautang sa taga-saod nin prutas. 
+Ano an gibuhon ta nganing maging malinig an salog? 
+The beautiful heritage of our parents belongs to us. 
+The new equipment inside the room belongs to you all. 
+They are the ones owing money to the fruit vendor. 
+What shall we do so that the river becomes clean? 
+Sentence Sentence Sentence Sentence 
+Siisay an maawit nin Bikol na kanta sa banwaan? 
+Who will sing a Bikol song in town? Sentence
+Sain nakatago an mga lumang libro asin papel? Where are the old books and papers stored? 
+Sentence 
+Nuarin kitang gabos magkakatiripon giraray sa harong? 
+When will all of us gather again at home? Sentence 
+Ta’no ta kailangan mag-ingat pag naglalakaw sa kalsada? 
+Why is it necessary to take care when walking on the street? 
+Sentence 
+Pano ta mababayadan an utang sa taga-saod? How can we pay our debt to the vendor? Sentence 
+Gurano an bayad sa pag-arkila nin sasakyan paduman? 
+Pira an aki na nag-aadal nin Bikol-Naga sa eskwelahan? 
+How much is the fee to rent a vehicle heading there? 
+How many children are studying Bikol-Naga at school? 
+Sentence Sentence 
+Ini an librong ipinautang kan sakong paratukdo. This is the book lent by my teacher. Sentence Iyan an harong kan sakong amigo na si Pedro. That is the house of my friend Pedro. Sentence 
+Ito an mataas na bulod na nahiling ta kasuudma. Over there is the high mountain we saw yesterday. 
+Sentence 
+Sirang-aldaw Sunrise / Dawn Time Salupon-aldaw Sunset Time Pangaturugan nin puso Heart's dream Phrase Katoninongan nin isip Peace of mind Phrase Matinabangong katutubo Helpful native Phrase Maogmang pagkakatiripon Joyful gathering Phrase Matanos na katarungan Upright justice Phrase Matiyaga sa pag-iipon Persevering in saving Phrase Maugmang pag-ataman Joyful nurturing Phrase Kagayonan nin buhay Beauty of life Phrase Pangarap kan pamilya Family's dream Phrase Pagpahalaga sa magurang Respect for parents Phrase Mag-usipon nin maogma Converse happily Phrase Mag-ataman nin marhay Take good care Phrase Maglinig kan palibot Clean the surroundings Phrase Mag-ipon nin kaalaman Gather knowledge Phrase Mag-ingat sa paglalakbay Be careful on the journey Phrase Mag-ataman sa mga aki Care for children Phrase Magtrabaho nin tultol Work properly Phrase Mag-unra sa pamilya Honor the family Phrase Magsarig sa katotohanan Rely on the truth Phrase Magtabang sa kapwa tawo Help fellow human beings Phrase Dios marhay na aga saimo Good morning to you Greeting
+Marhay na hapon sa pamilya Good afternoon to the family Greeting Marhay na banggi sa bisita Good evening to the guest Greeting Dios mabalos sa kabuotan God bless you for kindness Greeting Maogmang pag-abot sa harong Welcome home Greeting Ikinaugma kong mamidbidan ka Pleased to meet you Greeting Ingat ka sa pag-uli mo Take care going home Greeting Salamat sa pagbisita Dini Thank you for visiting here Greeting Marhay na aldaw sa saindo gabos Good day to all of you Greeting Mabalos nin dakul sa tabang Thank you very much for the help Greeting Ano an gigibuhon ta ngunyan? What shall we do today? Question Sain nakatago an libro? Where is the book hidden? Question Siisay an maiba sato? Who will come with us? Question Nuarin maabot an bisita? When will the guest arrive? Question Ta’no ta nagmamadali ka? Why are you in a hurry? Question Pano ta mababayadan ini? How can we pay for this? Question Gurano an presyo kan isda? How much is the price of fish? Question Pira an aki sa klase? How many kids in class? Question Taga sain an katood mo? Where is your friend from? Question Anong oras an pagtipon? What time is the meeting? Question Nag-aadal kami nin Bikol-Naga sa eskwelahan. We are studying Bikol-Naga in school. Sentence 
+Nagluto si lola nin masiram na laing. Grandmother cooked delicious laing. Sentence Nagtatrabaho an ama sa opicina sa banwaan. Father works in an office in town. Sentence Magdalagan kita paduman sa natad nin harong. Let us run toward the yard of the house. Sentence 
+Maogma an pamilya pag nagkakatiripon sa hapon. 
+Mag-ingat ka pirmi sa saimong paglakbay sa kalsada. 
+The family is happy when gathering in the afternoon. 
+Always take care on your journey on the road. 
+Sentence Sentence 
+Maliwanag an bulan asin mga bitoon sa kalangitan. 
+Mabalos sa gabos nindong pagpadaba asin tabang. 
+Magkanta kita nin maogmang kanta sa kapiestahan. 
+The moon and stars are bright in the sky. Sentence Thank you for all your love and help. Sentence Let us sing a joyful song at the fiesta. Sentence 
+Mabuot asin masipag an sakong mga katrabaho. My coworkers are kind and hardworking. Sentence 
+Bukas na an pinto paduman sa laog nin kwarto. The door leading into the room is open now. 
+Sentence 
+Magsulat ka nin tula tungkol sa katoninongan. Write a poem about peace. Sentence 
+Mag-inom ka nin mainit na kape sa amay na aga. 
+Sinarado niya an bintana dahil sa makusog na uran. 
+Drink hot coffee early in the morning. Sentence She closed the window due to heavy rain. Sentence
+Dios mabalos sa saindong gabos sa pag-pahalaga. 
+God bless you all for your appreciation. Sentence 
+Nag-uuli an mga parasira hali sa dakula na dagat. 
+The fishermen are returning from the vast sea. 
+Sentence 
+Nagtitiwala an mga tawo sa matanos na paratukdo. 
+Nag-iingat an drayber sa madalandag na tinampo. 
+The people trust the honest teacher. Sentence The driver is careful on the slippery road. Sentence 
+Nag-oomaw an mga tawo sa laog nin simbahan. The people praise inside the church. Sentence 
+Nag-aani nin masagana na paroy an mga paratanom. 
+Nagdaog an satong koponan sa hampang sa banwaan. 
+The farmers harvest abundant rice. Sentence Our team won the game in town. Sentence 
+Nag-iipon si tatay nin kwarta para sa pag-adal. Father is saving money for education. Sentence Naglakbay kami paduman sa mataas na bulod. We traveled toward the high mountain. Sentence 
+Naghuhulat an estudyante sa paradahan nin dyip. 
+Nagkurahaw an mga tawo sa maogmang pa-ilaw. 
+The student waits at the jeepney stop. Sentence The people shouted at the joyful fireworks. Sentence 
+Naging maogma an gabos sa pagtiripon nin pamilya. 
+Everyone became happy at the family gathering. 
+Sentence 
+Nagtutubod kami sa kakayahan nin lambang saro. 
+We believe in the capability of everyone. Sentence 
+Piggirumdom kan lola an storya kan kaidto. Grandmother recalled the stories of the past. 
+Sentence 
+Matani-tanos an dalan paduman sa bagong eskwelahan. 
+The path to the new school is fairly straight. Sentence 
+Malisipon an mga aki sa laog nin klase. The children in the class are attentive. Sentence Masanting an baro na binakal sa tindahan. The dress bought at the store is handsome. Sentence Mahipus an mga estudyante sa laog nin aklatan. The students inside the library are quiet. Sentence Mahamot an mga burak sa natad nin harong. The flowers in the house yard are fragrant. Sentence 
+Mabalos sa saimong pagiging pasensyoso sa amon. 
+Thank you for being patient with us. Sentence 
+Ika sana an sakong pig-aasam na makaduman. You are the only one I hope can go there. Sentence Kami an matabang sa pag-linig nin kalsada. We will help clean the street. Sentence Kita an maduman sa saod nganing magbakal. We will go to the market to buy. Sentence Kamo daw an mapuno nin tubig sa dulaan? Will you fill the container with water? Sentence 
+Sinda an mga paratanom na nagtatrabaho sa bukid. 
+They are the farmers working on the farm. Sentence 
+Dini sa satong lugar masagana an ani. Here in our place the harvest is abundant. Sentence Diyan sa saimong pwesto malipot an hangin. There at your spot the wind is cool. Sentence Duman sa harayo na bulod dakul an kahoy. There on the distant hill are many trees. Sentence Sako an bag’ong librong ini hali sa maestra. This new book from the teacher is mine. Sentence Saimo an magayon na lapis sa lamesa. The beautiful pencil on the table is yours. Sentence
+Saiya an sapatos na ginamit sa pagdalagan. The shoes used for running belong to him. Sentence Sami an harong na yaon sa gilid nin tinampo. The house by the road belongs to us. Sentence Sato an magayon na pamana nin magurang. The beautiful heritage of parents is ours. Sentence Saindo an bag’ong kagamitan sa kwarto. The new equipment in the room is yours. Sentence 
+Sinda an magkakautang sa taga-saod nin prutas. 
+They owe money to the fruit vendor. Sentence 
+Ano an gibuhon ta nganing maging malinig? What shall we do to make it clean? Sentence Siisay an maawit nin Bikol na kanta? Who will sing a Bikol song? Sentence Sain nakatago an mga lumang libro? Where are the old books stored? Sentence Nuarin kitang gabos magkakatiripon giraray? When will all of us gather again? Sentence 
+Ta’no ta kailangan mag-ingat sa kalsada? Why is it necessary to be careful on the road? 
+Sentence 
+Pano ta mababayadan an utang sa saod? How can we pay the debt at the market? Sentence Gurano an bayad sa pag-arkila nin sasakyan? How much is the fare to rent a vehicle? Sentence Pira an aki na nag-aadal sa eskwelahan? How many children study at school? Sentence Ini an librong ipinautang kan paratukdo. This is the book lent by the teacher. Sentence Iyan an harong kan sakong amigo Dini. That is the house of my friend here. Sentence Ito an mataas na bulod sa banwaan. Over there is the high hill in town. Sentence 
+Katoninongan sa banwaan Peace in the town Phrase Mag-usipon nin marhay Converse properly Phrase Matinabangong katood Helpful friend Phrase Maogmang buhay Happy life Phrase Matanos na lider Honest leader Phrase Matiyaga sa trabaho Persevering at work Phrase Pangarap kan pamilya Family's dream Phrase Pagpahalaga sa magurang Respect for parents Phrase Mag-ataman nin marhay Take good care Phrase Maglinig kan palibot Clean the surroundings Phrase Mag-ipon nin kaalaman Gather knowledge Phrase Mag-ingat sa paglalakbay Be careful on the journey Phrase Magtrabaho nin tultol Work properly Phrase Dios marhay na aga saimo Good morning to you Greeting 
+Marhay na hapon sa pamilya Good afternoon to the family Greeting Marhay na banggi sa bisita Good evening to the guest Greeting Dios mabalos sa kabuotan God bless you for kindness Greeting Maogmang pag-abot sa harong Welcome home Greeting
+Ikinaugma kong mamidbidan ka Pleased to meet you Greeting Ingat ka sa pag-uli mo Take care going home Greeting Salamat sa pagbisita Dini Thank you for visiting here Greeting Marhay na aldaw sa saindo gabos Good day to all of you Greeting Mabalos nin dakul sa tabang Thank you very much for the help Greeting Ano an gigibuhon ta ngunyan? What shall we do today? Question Sain nakatago an libro? Where is the book hidden? Question Siisay an maiba sato? Who will come with us? Question Nuarin maabot an bisita? When will the guest arrive? Question Ta’no ta nagmamadali ka? Why are you in a hurry? Question Pano ta mababayadan ini? How can we pay for this? Question Gurano an presyo kan isda? How much is the price of fish? Question Pira an aki sa klase? How many kids in class? Question Taga sain an katood mo? Where is your friend from? Question Anong oras an pagtipon? What time is the meeting? Question Nag-aadal kami nin Bikol-Naga sa eskwelahan. We are studying Bikol-Naga in school. Sentence 
+Nagluto si lola nin masiram na laing. Grandmother cooked delicious laing. Sentence Nagtatrabaho an ama sa opicina sa banwaan. Father works in an office in town. Sentence Magdalagan kita paduman sa natad nin harong. Let us run toward the yard of the house. Sentence 
+Maogma an pamilya pag nagkakatiripon sa hapon. 
+Mag-ingat ka pirmi sa saimong paglakbay sa kalsada. 
+The family is happy when gathering in the afternoon. 
+Always take care on your journey on the road. 
+Sentence Sentence 
+Maliwanag an bulan asin mga bitoon sa kalangitan. 
+Mabalos sa gabos nindong pagpadaba asin tabang. 
+Magkanta kita nin maogmang kanta sa kapiestahan. 
+The moon and stars are bright in the sky. Sentence Thank you for all your love and help. Sentence Let us sing a joyful song at the fiesta. Sentence 
+Mabuot asin masipag an sakong mga katrabaho. My coworkers are kind and hardworking. Sentence 
+Bukas na an pinto paduman sa laog nin kwarto. The door leading into the room is open now. 
+Sentence 
+Magsulat ka nin tula tungkol sa katoninongan. Write a poem about peace. Sentence 
+Mag-inom ka nin mainit na kape sa amay na aga. 
+Sinarado niya an bintana dahil sa makusog na uran. 
+Dios mabalos sa saindong gabos sa pag-pahalaga. 
+Drink hot coffee early in the morning. Sentence She closed the window due to heavy rain. Sentence God bless you all for your appreciation. Sentence 
+Nag-uuli an mga parasira hali sa dakula na dagat. 
+The fishermen are returning from the vast sea. 
+Sentence
+Nagtitiwala an mga tawo sa matanos na paratukdo. 
+Nag-iingat an drayber sa madalandag na tinampo. 
+The people trust the honest teacher. Sentence The driver is careful on the slippery road. Sentence 
+Nag-oomaw an mga tawo sa laog nin simbahan. The people praise inside the church. Sentence 
+Nag-aani nin masagana na paroy an mga paratanom. 
+Nagdaog an satong koponan sa hampang sa banwaan. 
+The farmers harvest abundant rice. Sentence Our team won the game in town. Sentence 
+Nag-iipon si tatay nin kwarta para sa pag-adal. Father is saving money for education. Sentence Naglakbay kami paduman sa mataas na bulod. We traveled toward the high mountain. Sentence 
+Naghuhulat an estudyante sa paradahan nin dyip. 
+Nagkurahaw an mga tawo sa maogmang pa-ilaw. 
+The student waits at the jeepney stop. Sentence The people shouted at the joyful fireworks. Sentence 
+Naging maogma an gabos sa pagtiripon nin pamilya. 
+Everyone became happy at the family gathering. 
+Sentence 
+Nagtutubod kami sa kakayahan nin lambang saro. 
+We believe in the capability of everyone. Sentence 
+Piggirumdom kan lola an storya kan kaidto. Grandmother recalled the stories of the past. 
+Sentence 
+Matani-tanos an dalan paduman sa bagong eskwelahan. 
+The path to the new school is fairly straight. Sentence 
+Malisipon an mga aki sa laog nin klase. The children in the class are attentive. Sentence Masanting an baro na binakal sa tindahan. The dress bought at the store is handsome. Sentence Mahipus an mga estudyante sa laog nin aklatan. The students inside the library are quiet. Sentence Mahamot an mga burak sa natad nin harong. The flowers in the house yard are fragrant. Sentence 
+Mabalos sa saimong pagiging pasensyoso sa amon. 
+Thank you for being patient with us. Sentence 
+Ika sana an sakong pig-aasam na makaduman. You are the only one I hope can go there. Sentence Kami an matabang sa pag-linig nin kalsada. We will help clean the street. Sentence Kita an maduman sa saod nganing magbakal. We will go to the market to buy. Sentence Kamo daw an mapuno nin tubig sa dulaan? Will you fill the container with water? Sentence 
+Sinda an mga paratanom na nagtatrabaho sa bukid. 
+They are the farmers working on the farm. Sentence 
+Dini sa satong lugar masagana an ani. Here in our place the harvest is abundant. Sentence Diyan sa saimong pwesto malipot an hangin. There at your spot the wind is cool. Sentence Duman sa harayo na bulod dakul an kahoy. There on the distant hill are many trees. Sentence Sako an bag’ong librong ini hali sa maestra. This new book from the teacher is mine. Sentence Saimo an magayon na lapis sa lamesa. The beautiful pencil on the table is yours. Sentence Saiya an sapatos na ginamit sa pagdalagan. The shoes used for running belong to him. Sentence Sami an harong na yaon sa gilid nin tinampo. The house by the road belongs to us. Sentence Sato an magayon na pamana nin magurang. The beautiful heritage of parents is ours. Sentence
+Saindo an bag’ong kagamitan sa kwarto. The new equipment in the room is yours. Sentence 
+Sinda an magkakautang sa taga-saod nin prutas. 
+They owe money to the fruit vendor. Sentence 
+Ano an gibuhon ta nganing maging malinig? What shall we do to make it clean? Sentence Siisay an maawit nin Bikol na kanta? Who will sing a Bikol song? Sentence Sain nakatago an mga lumang libro? Where are the old books stored? Sentence Nuarin kitang gabos magkakatiripon giraray? When will all of us gather again? Sentence 
+Ta’no ta kailangan mag-ingat sa kalsada? Why is it necessary to be careful on the road? 
+Sentence 
+Pano ta mababayadan an utang sa saod? How can we pay the debt at the market? Sentence Gurano an bayad sa pag-arkila nin sasakyan? How much is the fare to rent a vehicle? Sentence Pira an aki na nag-aadal sa eskwelahan? How many children study at school? Sentence Ini an librong ipinautang kan paratukdo. This is the book lent by the teacher. Sentence Iyan an harong kan sakong amigo Dini. That is the house of my friend here. Sentence Ito an mataas na bulod sa banwaan. Over there is the high hill in town. Sentence 
+Sirang Shine / Ray Noun Salup Setting of sun Noun Tultol Proper / Righteous Adj Maugma Joyful / Glad Adj Kagayonan Splendor / Beauty Noun Pangarap Aspiration / Dream Noun Katarungan Justice / Equity Noun Pag-ipon Accumulation / Saving Noun Pag-ataman Care / Nurture Noun Pagpahalaga Value / Esteem Noun Pagbyahe Travel / Journey Noun Katutubo Native / Local Noun Kipot Narrow / Tight Adj Awas Overflow / Spill Verb Kapot Grip / Hold Verb Kudkod Grate / Scrape Verb Mamasid Observe / Watch Verb Sakdo Fetch water Verb Surip Inspect / Examine Verb Tanggol Defend / Protect Verb Ikot Turn / Rotate Verb Lumbay Sorrow / Melancholy Noun Pawa Clarity / Light Noun
+Singkay Quickness / Agility Noun Timbang Weight / Scale Noun Agbay sa katood Arm around a friend Phrase Agang-aga na paglakaw Very early morning walk Phrase Aningal sa bulod Echo in the mountain Phrase Bagon na lakaw Slow walk Phrase Bango nin mga burak Fragrance of flowers Phrase Baybayon sa dagat nin Bikol Seashore in Bicol Phrase Bukid nin Isarog sa Naga Mount Isarog in Naga Phrase Daga nin katutubo Land of the natives Phrase Dalon sa mga bisita Greeting to visitors Phrase Dida kan bitis Heel of the foot Phrase Digo kan sakripisyo Blood of sacrifice Phrase Gubing nin kapiestahan Festival attire Phrase Guron sa mukha Wrinkles on face Phrase Habilin kan mga magurang Advice of parents Phrase Halangkon na pader Very high wall Phrase Hawak nin tawo sa kinaban Human body in the world Phrase Hibat na lamesa Tilted table Phrase Istorya kan kaidto sa banwaan Story of old times in town Phrase Kagayonan nin kalangitan Beauty of the heavens Phrase Kainaman nin bulos kan tubig Pleasant flow of water Phrase Kalayo sa laog nin kusina Fire inside the kitchen Phrase Kansang sa lumang bakal Rust on old iron Phrase Kanta nin katoninongan Song of peace Phrase Luyah nin hawak sa pagtatrabaho Weakness of body from working Phrase Mabansay na lider nin komunidad Noble community leader Phrase Dios marhay na aga saimo, tugang ko. Good morning to you, my sibling. Greeting Marhay na hapon sa gabos na katrabaho. Good afternoon to all coworkers. Greeting Marhay na banggi sa pamilya Dini. Good evening to the family here. Greeting Dios mabalos sa saimong dakulang puso. God bless you for your great heart. Greeting Maogmang pag-abot sa banwaan nin Naga. Welcome to the town of Naga. Greeting Ikinaugma kong makatuwang ka ngunyan. Pleased to partner with you today. Greeting Ingat ka sa saimong pagbyahe sa tinampo. Take care on your travel on the road. Greeting Salamat sa saimong pag-asikaso sa amon. Thank you for attending to us. Greeting Marhay na aldaw saimo, amigong mabuot. Good day to you, kind friend. Greeting Mabalos nin dakul sa saimong kagayonan. Thank you very much for your kindness. Greeting Ano an gibuhon ta para sa kapiestahan? What shall we do for the festival? Question
+Sain nakatago an mga paninda sa saod? Where are the goods hidden at market? Question Siisay an maawit sa simbahan ngunyan? Who will sing in church today? Question Nuarin maabot an paratukdo sa klase? When will the teacher arrive for class? Question Ta’no ta kailangan maglinig kan natad? Why is it necessary to clean the yard? Question Pano ta mababayadan an kagamitan sa harong? How can we pay for the household items? Question 
+Gurano an presyo kan gulay asin isda saod? How much is the price of vegetables and fish? 
+Question 
+Pira an estudyante sa laog nin aklatan ngunyan? 
+How many students are in the library now? Question 
+Taga sain an saimong masipag na katrabaho? Where is your hardworking coworker from? Question 
+Anong oras an pagtiripon kan komunidad sa plaza? 
+What time is the community gathering at the plaza? 
+Question 
+Nag-aadal kami nin husto sa eskwelahan ta. We study hard in our school. Sentence 
+Nagluto si lola nin masiram na pamahaw sa aga. Grandmother cooked delicious breakfast in the morning. 
+Sentence 
+Nagtatrabaho an ama sa bukid para sa pamilya. Father works on the farm for the family. Sentence Magdalagan kita paduman sa gilid kan salog. Let us run toward the riverbank. Sentence 
+Maogma an mga aki habang nagmamag-ipon nin kaalaman. 
+Mag-ingat ka pirmi sa saimong paglakaw sa madalandag na tinampo. 
+The children are happy while gathering knowledge. 
+Always take care walking on the slippery road. 
+Sentence Sentence 
+Maliwanag an bulan asin mga bitoon sa gabi. The moon and stars are bright at night. Sentence 
+Mabalos sa gabos nindong pagpadaba asin katanusan. 
+Thank you for all your love and righteousness. 
+Sentence 
+Magkanta kita nin maogmang kanta sa laog nin harong. 
+Let us sing a joyful song inside the house. Sentence 
+Mabuot asin masipag an sakong mga katutubo. My native people are kind and industrious. Sentence Bukas na an pinto kan aklatan sa banwaan. The door of the library in town is open now. Sentence 
+Magsulat ka nin tula tungkol sa kagayonan nin buhay. 
+Mag-inom ka nin mainit na kape bago magtrabaho. 
+Write a poem about the beauty of life. Sentence Drink hot coffee before working. Sentence 
+Sinarado niya an bintana kan harong dahil sa hangin. 
+She closed the window of the house because of the wind. 
+Sentence 
+Dios mabalos sa saindong gabos sa pag-ataman sa kultura. 
+God bless you all for nurturing culture. Sentence 
+Nag-uuli an mga parasira hali sa baybayon sa hapon. 
+The fishermen return home from the seashore in the afternoon. 
+Sentence 
+Nagtitiwala an mga tawo sa matanos na katood. The people trust an honest friend. Sentence 
+Nag-iingat an drayber habang nagbabyahe sa bulod. 
+Nag-oomaw an mga tawo sa laog nin simbahan lambang amay na aga. 
+Nag-aani nin masagana na gulay an mga paratanom sa bukid. 
+The driver takes care while traveling in the mountain. 
+The people praise inside the church every early morning. 
+The farmers harvest abundant vegetables on the farm. 
+Sentence Sentence Sentence
+Nagdaog an satong koponan sa hampang nin bola sa plaza. 
+Our team won the ball game at the plaza. Sentence 
+Nag-iipon si tatay nin kwarta para sa pangarap kan pamilya. 
+Naglakbay kami paduman sa mataas na bulod nin Isarog. 
+Naghuhulat an estudyante sa paradahan nin jeep sa kalsada. 
+Nagkurahaw an mga tawo sa maogmang kapiestahan sa banwaan. 
+Naging maogma an gabos sa pagtiripon kan mga mag-iriba. 
+Nagtutubod kami sa katanusan asin 
+katotohanan nin buhay. 
+Piggirumdom kan lola an mga storya kan kaidto sa Naga. 
+Matani-tanos an dalan paduman sa bagong eskwelahan sa banwaan. 
+Malisipon an mga aki sa laog nin klase kan paratukdo. 
+Father is saving money for the family's dream. 
+We traveled toward the high mountain of Isarog. 
+The student waits at the jeepney stop on the street. 
+The people cheered at the joyful fiesta in town. 
+Everyone became happy at the gathering of companions. 
+We believe in righteousness and the truth of life. 
+Grandmother recalled the stories of old times in Naga. 
+The path heading to the new school in town is fairly straight. 
+The children in the teacher's class are attentive. 
+Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence 
+Araw Sun / Day Noun Bulan Moon / Month Noun Bitoon Star Noun Langit Sky / Heaven Noun Daga Earth / Land / Soil Noun Hangin Wind / Air Noun Uran Rain Noun Kalayo Fire Noun Tubig Water Noun Kahoy Tree / Wood Noun Burak Flower Noun Rabon Grass / Weed Noun Prutas Fruit Noun Gulay Vegetable Noun Isda Fish Noun Karni Meat Noun Manok Chicken Noun Baboy Pig / Pork Noun Baka Cow / Beef Noun Ayam Dog Noun
+KutingKitten/CatNoun PusangCatNoun PahagBirdNoun IbonBirdNoun KabayoHorseNoun KarabawWaterbuffaloNoun HarongHouse/HomeNoun PintoDoorNoun BintanaWindowNoun BubongRoofNoun AtopRoofingNoun LamesaTableNoun TukawanChair/SeatNoun KatreBedNoun KusinaKitchenNoun BanyoBathroomNoun KwartoRoomNoun NatadYard/LawnNoun BakuranBackyard/YardNoun TinampoRoad/PathNoun KalsadaStreet/HighwayNoun SimbahanChurchNoun EskwelahanSchool Noun AklatanLibraryNoun TindahanStore/ShopNoun SaodMarketNoun PlazaTownsquare/PlazaNoun OpicinaOfficeNoun OspitalHospital Noun BanwaanTown/CountrysideNoun LungsodCity/TownNoun BukidMountain/FieldNoun BulodHill /MountainNoun SalogRiverNoun DagatSea/OceanNoun BaybayBeach/SandNoun SapaCreek/StreamNoun Mag-adalTostudy/LearnVerb
+Magtrabaho To work Verb Magluto To cook Verb Magkakan To eat Verb Mag-inom To drink Verb Maturog To sleep Verb Matawag To call Verb Maglakaw To walk Verb Magdalagan To run Verb Magbasa To read Verb Magsurat To write Verb Magkanta To sing Verb Magsayaw To dance Verb Magbakal To buy Verb Magtinda To sell Verb Magtabang To help Verb Mag-ingat To be careful / Take care Verb Maglinig To clean Verb Maglaba To wash clothes Verb Maghugas To wash / Rinse Verb Magkarigos To take a bath Verb Magwalis To sweep Verb Marhay na aga Good morning Greeting 
+Marhay na hapon Good afternoon Greeting Marhay na banggi Good evening Greeting Dios mabalos po Thank you; may God repay you Politeness Salamat sa tabang Thanks for the help Politeness Ingat ka pirmi Always take care Phrase Maogmang pag-abot Welcome Greeting Paaram na po Goodbye for now Farewell Ano an pangaran mo? What is your name? Question Sain ka maduman? Where are you going? Question Nuarin ka mauli? When will you return home? Question Gurano an presyo kaini? How much is this? Question Nag-aadal ako nin Bikol-Naga. I am studying Bikol-Naga. Sentence Nagluto si nanay nin masiram na kakanon. Mother cooked delicious food. Sentence Nagtatrabaho si tatay sa opicina. Father works in the office. Sentence Maogma an pamilya sa laog kan harong. The family is happy inside the house. Sentence Mag-ingat ka sa paglakaw sa tinampo. Be careful walking on the road. Sentence
+Maliwanag an bulan sa kalangitan ngunyan. The moon is bright in the sky tonight. Sentence Mabalos sa gabos nindong pagpadaba. Thank you for all your love. Sentence Magkanta kita nin magayon na kanta. Let us sing a beautiful song. Sentence Mabuot asin masipag an sakong katood. My friend is kind and hardworking. Sentence 
+Sirang kan aldaw Sunshine / Rays of the sun Noun Salup kan aldaw Sunset Noun Pangaturugan nin puso Heart's dream Phrase Katoninongan nin isip Peace of mind Phrase Matinabangong katutubo Helpful native Phrase Maogmang pagkakatiripon Joyful gathering Phrase Matanos na katarungan Upright justice Phrase Matiyaga sa pag-iipon Persevering in saving Phrase Maugmang pag-ataman Joyful nurturing Phrase Kagayonan nin buhay Beauty of life Phrase Pangarap kan pamilya Family's dream Phrase Pagpahalaga sa magurang Respect for parents Phrase Mag-usipon nin maogma Converse happily Phrase Mag-ataman nin marhay Take good care Phrase Maglinig kan palibot Clean the surroundings Phrase Mag-ipon nin kaalaman Gather knowledge Phrase Mag-ingat sa paglalakbay Be careful on the journey Phrase Mag-ataman sa mga aki Care for children Phrase Magtrabaho nin tultol Work properly Phrase Mag-unra sa pamilya Honor the family Phrase Magsarig sa katotohanan Rely on the truth Phrase Magtabang sa kapwa tawo Help fellow human beings Phrase Dios marhay na aga saimo Good morning to you Greeting Marhay na hapon sa pamilya Good afternoon to the family Greeting Marhay na banggi sa bisita Good evening to the guest Greeting Dios mabalos sa kabuotan God bless you for kindness Greeting Maogmang pag-abot sa harong Welcome home Greeting Ikinaugma kong mamidbidan ka Pleased to meet you Greeting Ingat ka sa pag-uli mo Take care going home Greeting Salamat sa pagbisita Dini Thank you for visiting here Greeting Marhay na aldaw sa saindo gabos Good day to all of you Greeting
+Mabalos nin dakul sa tabang Thank you very much for the help Greeting Ano an gigibuhon ta ngunyan? What shall we do today? Question Sain nakatago an libro? Where is the book hidden? Question Siisay an maiba sato? Who will come with us? Question Nuarin maabot an bisita? When will the guest arrive? Question Ta’no ta nagmamadali ka? Why are you in a hurry? Question Pano ta mababayadan ini? How can we pay for this? Question Gurano an presyo kan isda? How much is the price of fish? Question Pira an aki sa klase? How many kids in class? Question Taga sain an katood mo? Where is your friend from? Question Anong oras an pagtipon? What time is the meeting? Question Nag-aadal kami nin Bikol-Naga sa eskwelahan. We are studying Bikol-Naga in school. Sentence Nagluto si lola nin masiram na laing. Grandmother cooked delicious laing. Sentence Nagtatrabaho an ama sa opicina sa banwaan. Father works in an office in town. Sentence 
+Magdalagan kita paduman sa natad nin harong. Let us run toward the yard of the house. Sentence 
+Maogma an pamilya pag nagkakatiripon sa hapon. 
+Mag-ingat ka pirmi sa saimong paglakbay sa kalsada. 
+The family is happy when gathering in the afternoon. 
+Always take care on your journey on the road. 
+Sentence Sentence 
+Maliwanag an bulan asin mga bitoon sa kalangitan. 
+Mabalos sa gabos nindong pagpadaba asin tabang. 
+Magkanta kita nin maogmang kanta sa kapiestahan. 
+The moon and stars are bright in the sky. Sentence Thank you for all your love and help. Sentence Let us sing a joyful song at the fiesta. Sentence 
+Mabuot asin masipag an sakong mga katrabaho. My coworkers are kind and hardworking. Sentence 
+Bukas na an pinto paduman sa laog nin kwarto. The door leading into the room is open now. 
+Sentence 
+Magsulat ka nin tula tungkol sa katoninongan. Write a poem about peace. Sentence 
+Mag-inom ka nin mainit na kape sa amay na aga. 
+Sinarado niya an bintana dahil sa makusog na uran. 
+Dios mabalos sa saindong gabos sa pag-pahalaga. 
+Drink hot coffee early in the morning. Sentence She closed the window due to heavy rain. Sentence God bless you all for your appreciation. Sentence 
+Nag-uuli an mga parasira hali sa dakula na dagat. 
+The fishermen are returning from the vast sea. 
+Sentence 
+Nagtitiwala an mga tawo sa matanos na paratukdo. 
+Nag-iingat an drayber sa madalandag na tinampo. 
+The people trust the honest teacher. Sentence The driver is careful on the slippery road. Sentence 
+Nag-oomaw an mga tawo sa laog nin simbahan. The people praise inside the church. Sentence
+Nag-aani nin masagana na paroy an mga paratanom. 
+Nagdaog an satong koponan sa hampang sa banwaan. 
+The farmers harvest abundant rice. Sentence Our team won the game in town. Sentence 
+Nag-iipon si tatay nin kwarta para sa pag-adal. Father is saving money for education. Sentence Naglakbay kami paduman sa mataas na bulod. We traveled toward the high mountain. Sentence 
+Naghuhulat an estudyante sa paradahan nin dyip. 
+Nagkurahaw an mga tawo sa maogmang pa-ilaw. 
+The student waits at the jeepney stop. Sentence The people shouted at the joyful fireworks. Sentence 
+Naging maogma an gabos sa pagtiripon nin pamilya. 
+Everyone became happy at the family gathering. 
+Sentence 
+Nagtutubod kami sa kakayahan nin lambang saro. 
+We believe in the capability of everyone. Sentence 
+Piggirumdom kan lola an storya kan kaidto. Grandmother recalled the stories of the past. 
+Sentence 
+Matani-tanos an dalan paduman sa bagong eskwelahan. 
+The path to the new school is fairly straight. Sentence 
+Malisipon an mga aki sa laog nin klase. The children in the class are attentive. Sentence Masanting an baro na binakal sa tindahan. The dress bought at the store is handsome. Sentence Mahipus an mga estudyante sa laog nin aklatan. The students inside the library are quiet. Sentence Mahamot an mga burak sa natad nin harong. The flowers in the house yard are fragrant. Sentence 
+Mabalos sa saimong pagiging pasensyoso sa amon. 
+Thank you for being patient with us. Sentence 
+Ika sana an sakong pig-aasam na makaduman. You are the only one I hope can go there. Sentence Kami an matabang sa pag-linig nin kalsada. We will help clean the street. Sentence Kita an maduman sa saod nganing magbakal. We will go to the market to buy. Sentence Kamo daw an mapuno nin tubig sa dulaan? Will you fill the container with water? Sentence 
+Sinda an mga paratanom na nagtatrabaho sa bukid. 
+They are the farmers working on the farm. Sentence 
+Dini sa satong lugar masagana an ani. Here in our place the harvest is abundant. Sentence Diyan sa saimong pwesto malipot an hangin. There at your spot the wind is cool. Sentence Duman sa harayo na bulod dakul an kahoy. There on the distant hill are many trees. Sentence Sako an bag’ong librong ini hali sa maestra. This new book from the teacher is mine. Sentence Saimo an magayon na lapis sa lamesa. The beautiful pencil on the table is yours. Sentence Saiya an sapatos na ginamit sa pagdalagan. The shoes used for running belong to him. Sentence Sami an harong na yaon sa gilid nin tinampo. The house by the road belongs to us. Sentence Sato an magayon na pamana nin magurang. The beautiful heritage of parents is ours. Sentence Saindo an bag’ong kagamitan sa kwarto. The new equipment in the room is yours. Sentence 
+Sinda an magkakautang sa taga-saod nin prutas. 
+They owe money to the fruit vendor. Sentence 
+Ano an gibuhon ta nganing maging malinig? What shall we do to make it clean? Sentence
+Siisay an maawit nin Bikol na kanta? Who will sing a Bikol song? Sentence Sain nakatago an mga lumang libro? Where are the old books stored? Sentence Nuarin kitang gabos magkakatiripon giraray? When will all of us gather again? Sentence 
+Ta’no ta kailangan mag-ingat sa kalsada? Why is it necessary to be careful on the road? 
+Sentence 
+Pano ta mababayadan an utang sa saod? How can we pay the debt at the market? Sentence Gurano an bayad sa pag-arkila nin sasakyan? How much is the fare to rent a vehicle? Sentence Pira an aki na nag-aadal sa eskwelahan? How many children study at school? Sentence Ini an librong ipinautang kan paratukdo. This is the book lent by the teacher. Sentence Iyan an harong kan sakong amigo Dini. That is the house of my friend here. Sentence Ito an mataas na bulod sa banwaan. Over there is the high hill in town. Sentence 
+Aga Morning Time Hapon Afternoon Time Banggi Night Time Udto Noon Time Araw-araw Every day Time Tubig Water Noun Kakanon Food Noun Harong House Noun Eskwelahan School Noun 
+Saod Market Noun Simbahan Church Noun Dagat Sea Noun Salog River Noun Bulod Mountain / Hill Noun Bukid Farm / Mountain Noun Kalsada Street / Road Noun Tinampo Road / Pathway Noun Pamilya Family Noun Magurang Parents Noun Ama Father Noun Ina Mother Noun Aki Child Noun Tugang Sibling Noun Katood Friend Noun Amigo Friend Noun
+Maestra Teacher (female) Noun Paratukdo Teacher Noun Estudyante Student Noun Paratanom Farmer Noun Parasira Fisherman Noun Mabuot Kind / Good-natured Adj 
+Mahigos Hardworking / Diligent Adj Magayon Beautiful Adj Masiram Delicious Adj Marhay Good / Fine Adj Dakula Big / Large Adj Sadit Small Adj Mainit Hot Adj Malipot Cold Adj Malinig Clean Adj Pusog Strong / Sturdy Adj Luyah Weak Adj Maogma Happy / Joyful Adj Mamundo Sad Adj Pagal Tired Adj Mag-adal To study Verb 
+Magtrabaho To work Verb Magluto To cook Verb Magdalagan To run Verb Maglakaw To walk Verb Magkanta To sing Verb Magsayaw To dance Verb Magbasa To read Verb Magsurat To write Verb Magkaon To eat Verb Mag-inom To drink Verb Maturog To sleep Verb Magpangkat To group / Assemble Verb Magtabang To help Verb Mag-ingat To take care Verb Marhay na aga Good morning Greeting 
+Marhay na aldaw Good day Greeting Marhay na hapon Good afternoon Greeting

@@ -1,0 +1,13 @@
+Single-reference test results may count valid alternatives as errors.
+Empty NMT hypotheses: 0
+Sample disagreements (source | reference | prediction)
+How much is the fee to borrow a bag in their store? | Pira an bayad sa pagsubli nin bag saiyang tindahan? | Gurano an bayad sa pag-arkila nin sasakyan paduman sa saod?
+Avoid danger while traveling. | Mag-iwas ka sa peligro habang nagbabyahe. | Mag-iwal an pagtaram.
+Where are you going this afternoon? | Sain ka maduman ngunyan na hapon? | Sain ka maduman ngunyan?
+Let's ride the jeepney heading to the plaza. | Magsakay kita sa dyip paduman sa plaza. | Magtabang kita sa paradahan nin dyip sa naga.
+Disembark now in front of the hospital. | Magbaba ka na duman sa tapat nin ospital. | Sadit sana an simbahan pag-arkila nin kwarto.
+Let us work properly so that we will have a happy life. | Magtrabaho kita nin tultol nganing magka-igwa nin maogmang buhay. | Mag-usipon kita nin husto kan satong leksyon.
+My parents' house in Naga is big. | Dakula an harong kan sakong mga magurang sa Naga. | Malinig an harong na yaon sa gilid nin harong.
+The road is dark due to the lack of lights. | Madiklom an agihan dahil sa kawaran nin ilaw. | Matani-iingat an kalsada paduman sa makusog na tanawon.
+My body is tired after a long journey. | Pagal an sakong hawak pagkatapos nin halabang paglakbay. | Mahigugmaon an magayon na ginamit sa madali.
+Learn a new song for our gathering. | Mag-aram ka nin bag'ong kanta para sa satong pagtipon. | Bumakal ka nin bagong para sa satong komunidad.

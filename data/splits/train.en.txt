@@ -1,0 +1,883 @@
+her hair is black
+father is working on the farm
+the students are studying at school
+mother cooked delicious food
+let us run in the yard
+the children inside the room are quiet
+the water from the mountain is cold
+my friend is a kind person
+they sang at the town fiesta
+thank you for all your help to us
+how are you ? i'm happy to see you again .
+my life is fine , thank you for asking .
+god bless you for your help to me .
+take care on your way back home .
+what is your name and where do you live ?
+my family is kind and hardworking .
+i want to drink hot coffee in the morning .
+the food cooked by my mother is delicious .
+let's run fast toward the school .
+the moon and stars are bright tonight .
+earrings and a necklace were prepared by her for her sibling .
+do you happen to know how to cook taro and fish ?
+the two dogs fought because of the meat .
+this friday , we will travel toward the mountain .
+the door is open now , come in and rest in the room .
+don't rush because the weather is fine until the afternoon .
+do not think badly of your friend .
+walking by the river yesterday was tiring .
+write a message for your parents .
+do not take the food of your sibling .
+the people at the market are happy because of the abundant harvest .
+let us obey our parents so that our lives will be proper .
+thank you everyone
+where are you going ?
+will the line take long ?
+i am studying bikol-naga in school .
+when will you go home ?
+the water in the river is clean this morning .
+good evening to you all .
+take care always on your journey .
+the food they prepared is delicious .
+i want to study bikol-naga at school .
+peace prevails in our community .
+who arrived that needs the door opened ?
+when will our guests from manila arrive ?
+why did the child cry inside the school ?
+how can we use this new equipment ?
+how much is the price of fish and meat at the market ?
+how many people are going to town today ?
+it is a long walk from home to the river .
+the church is just near our school .
+we live beside the hill in naga .
+let us avoid bad deeds and habits .
+write news for our newspaper .
+let's sing a joyful song at the festival .
+the women will dance on stage tonight .
+wash your hands thoroughly before eating well .
+wash clothes on saturday morning .
+sweep the yard so that the surroundings will be clean .
+study hard so that you pass the exam .
+help your sibling .
+pay your debt to our vendor .
+borrow a book from our library .
+my friend juan is a kind man .
+my father is an industrious farmer in the mountains .
+maria's child is an intelligent student .
+the room i am renting in town is small .
+the weather is hot when noon comes in april .
+the mountain water is cold during a pleasant morning .
+the goods in the new market are expensive .
+fruits and vegetables are cheap at bangkerohan .
+the run of my new vehicle is fast .
+the soil is soft after a heavy rain .
+the teacher's writing on the board is clear .
+the vegetable dish cooked by my grandmother in the kitchen is spicy .
+the mango from our tree is sweet .
+the santol fruit i bought at the market is sour .
+the table is full of food during the peñafrancia festival .
+my clothes are wet because of the rain yesterday .
+the family is happy when gathered together at home .
+the child is sad because of the loss of their dog .
+god bless you all for studying bikol-naga .
+mother is preparing a delicious breakfast in the kitchen .
+the fishermen are returning home from the sea back to the market .
+the people praise at the church every sunday .
+the farmers are harvesting plenty of rice grains on the mountain .
+our team won in the basketball game .
+father is saving money for the children's education .
+we traveled toward mayon last month .
+the student is waiting at the jeepney stop in naga .
+the people shouted when they saw the beautiful fireworks display .
+everyone became happy when many guests arrived .
+we believe in the capability of each one of us .
+grandmother remembered the stories of her youth in the past .
+the road heading to the new school is fairly straight .
+the dress bought by my older sister at the store is handsome .
+the students inside the library are quiet .
+the flowers planted in the house yard are fragrant .
+you are the only one i hope can confirm coming there .
+we are the ones who will help in cleaning the road in the morning .
+we are the ones going to the market to buy food .
+they are the farmers who are working on the mountain .
+there at your spot , the reply is cool and clear .
+this new book from the teacher belongs to me .
+the beautiful pencil on top of the table belongs to you .
+the shoes used in running yesterday belong to him / her .
+the house on the side of the road belongs to us .
+the beautiful heritage of our elders belongs to us all .
+they are the ones owing money to the fruit vendor .
+what shall we do so that the river will become clean ?
+where are the old books and papers stored ?
+when will all of us gather again at home ?
+why is it necessary to take care when walking on the street ?
+how can we pay our debt to the vendor ?
+how much is the fee to rent a vehicle heading to the mountain ?
+how many children are studying bikol-naga at school ?
+this is the book lent by my teacher .
+that is the house of my friend pedro .
+good day to you and your family .
+mother bought medicine at the pharmacy .
+let us plant flowers in the garden .
+i am tired , i will sleep on the bed now .
+let us converse about our plans in life .
+we are going to school to attend class .
+we are going to church when sunday arrives .
+buy a new umbrella at the store .
+there are few people at the plaza in the late afternoon .
+the students are studying inside the library .
+our family is happy when gathering together at home .
+the children study hard for their dreams .
+our uncle and aunt are kind and helpful .
+we trust in the righteousness and truth of our leader .
+i want to study bikol-naga every day .
+everyone is careful while walking on the street .
+coffee is delicious early in the morning .
+let us help in cleaning our house .
+do you know how to go to the market ?
+maria is thinking of a good plan for the family .
+what did the teacher say inside the class ?
+get the book that is inside the bag .
+choose delicious fruit at the market .
+the money is hidden inside the house .
+let us be careful in our actions and words .
+do not fight inside the school .
+good morning .
+good day .
+good noon .
+good afternoon .
+how are you ?
+i'm fine , thank you .
+thank you .
+thank you ; may god repay your kindness .
+please excuse me / i'm sorry .
+excuse me , may i pass ?
+no .
+goodbye for now .
+what is your name ?
+where are you from ?
+i'm from naga .
+where do you live ?
+i live here in naga .
+nice to meet you .
+what did you do today ?
+what will you do today ?
+where are you now ?
+i don't know .
+do you understand ?
+yes , i understand .
+i don't understand .
+may i ask a question , please ?
+what does this mean ?
+could you repeat that , please ?
+please speak more slowly .
+could you please help me ?
+yes , i'll help you .
+please wait a moment .
+i'm already at home .
+i'm going home .
+mom is in the kitchen .
+have you eaten ?
+i haven't eaten yet .
+let's eat now .
+the food is ready .
+please pass the water .
+i'm tired already .
+i'm going to sleep now .
+i'm going to school now .
+do we have class today ?
+what time is our class ?
+has the teacher arrived ?
+do we have an assignment ?
+have you finished your assignment ?
+what is our topic today ?
+do we have a quiz today ?
+your presentation is good .
+i'm going to the market .
+how much is this , please ?
+this is expensive .
+could you lower the price , please ?
+i'll buy this .
+do you still have this ?
+is there another color , please ?
+just one , please .
+i'll take two .
+i'm just resting .
+i'm not ready yet .
+i'm ready ; let's go .
+i'll arrive there shortly .
+do you have a moment , please ?
+okay , i'll listen .
+what did you say ?
+we are learning a new lesson inside the classroom .
+maria is writing a poem about peace .
+grandmother cooked delicious laing for lunch .
+juan is saving money for his studies .
+study hard so you can achieve your dreams .
+sweep the yard so the house becomes clean .
+wash clothes on sunday morning .
+listen to the good advice of your parents .
+let us help in running our community .
+take care traveling to a far place .
+who arrived at your house yesterday night ?
+where are we going next friday ?
+why are you rushing in your walk ?
+how much is the fare to travel to legazpi ?
+how many books do you need to read for class ?
+how are your studies at school right now ?
+good morning to you and your family .
+good afternoon to everyone attending the meeting .
+good evening to those of you who are at home .
+god bless you for your great help to us .
+we are happy to see you again in our place .
+take care on your way back home .
+thank you for your time and your visit .
+thanks to everyone who trusted in our project .
+god bless you all for valuing the bikol-naga language .
+good morning to all of you who are here .
+good evening to our guests from afar .
+god bless you for your great kindness and help .
+we are happy to see you again in our community .
+come back again to our house next year .
+thank you for your time and your study .
+good noon to you , my industrious friend .
+good morning to everyone attending class .
+good afternoon to your family at home .
+good evening to you who are resting now .
+god bless you for always being helpful .
+come back again for our next meeting .
+thank you for being patient with us .
+to gather knowledge
+no problem / you're welcome .
+serve some cooked rice for our guest .
+let us show our skill in studying bikol-naga .
+drink plenty of water when the weather is hot .
+let us help set the table for dinner .
+thank you for instilling hope in our community .
+use soap when washing your hands .
+get the towel after taking a bath .
+comb your hair before going out of the house .
+everything is good .
+just say so if you need anything .
+let us clean our pathway every early morning .
+the food prepared for the guests is separate .
+let us climb the mountain to see the beautiful view .
+the food is very delicious
+take care when walking
+where are you going now ?
+let us study well
+good afternoon
+good morning to you
+let's eat now
+where are you headed ?
+take good care
+welcome
+thank you very much
+breakfast
+speaks slowly
+good relationship
+always be careful when running .
+coffee and bread are very delicious in the morning .
+thank you for all your help .
+good morning to you .
+thank you for your kindness .
+we are studying bikol-naga now .
+the family's togetherness at home is joyful .
+let us discuss our dreams .
+a thoughtful friend is always helpful .
+the sky is dark
+let's talk a little bit
+good day to you friend
+thank you for the time
+what are you going to do ?
+we study bikol-naga every day .
+let's cook delicious food for the family .
+where are you going ?
+no problem / you're welcome
+always take care
+good morning to you
+we are happy to see you
+we are studying bikol-naga now
+always take care when walking .
+let's study well in school .
+our togetherness at home is joyful .
+let's study well for our dreams .
+welcome
+thank you for everything
+where is the store ?
+let us go home now .
+good situation / condition
+converse cheerfully
+good noon to you .
+let us take care on our journey .
+eating together with family is joyful .
+let us gather at the town square this afternoon .
+it is joyful to live in this community .
+thank you for being a wonderful helper .
+to care well for
+good world / peaceful life
+let us discuss the news properly .
+god bless you for your honest heart .
+good memory
+let us join together in cleaning the street .
+take good care of the family
+good day to all of you .
+let us discuss our lesson properly .
+human greed
+to care for the children
+good companionship at home
+good morning to you , my friend .
+love for family
+joyful gathering
+take good care of nature .
+speak properly to someone
+time is wasted
+take care of children at home .
+good afternoon to you , my friend .
+good day to you , my friend .
+thank you for your help .
+we are studying hard for our family .
+always take care on your journey .
+our togetherness in the community is joyful .
+god bless you for your honest heart .
+helpful community
+teaching the children
+fix up the house
+joyful fellowship at school
+a little food
+many books
+new equipment
+old house
+clean river water
+fragrant flower in the yard
+delicious breakfast
+hot coffee in the morning
+slippery road
+bright moon
+kind teacher
+let us gather at home .
+let us discuss the lesson .
+write a poem .
+mother is cooking a delicious dinner .
+father is working in the office .
+the people are harvesting in the mountain .
+we are saving money for school .
+be careful running in the yard .
+the children are happy inside the school .
+thank you for your great help .
+god bless you for your kindness to us .
+good morning to you , my friend .
+good afternoon to all of you here .
+how did you make the school project ?
+how much is the cost to buy a book ?
+how many students are inside the classroom ?
+who arrived at your house ?
+when will you return home from town ?
+run early
+wear clothes
+trust a friend
+teach a lesson
+converse cheerfully with family
+let us agree on the plan
+studying at school is important .
+stingy person
+my grandmother's house is clean .
+grandfather walks slowly .
+expensive watch
+believe in yourself .
+the family is happy when gathering together .
+good day to you , friend .
+good condition in the town
+the rice harvest on the mountain is abundant .
+the food prepared by mother is very delicious .
+sturdy house
+the night in the mountain is peaceful .
+joyful trust in a coworker
+father is working for the family .
+caring for children at home
+gathering knowledge in the library
+thinking properly before speaking
+organize items in the room
+thank you for attending to us .
+let us help our friend in hardship .
+stars in the sky
+lunch food
+scrub the floor
+clip the hair
+the child runs fast
+thank you for the invitation
+let us talk thoroughly
+fix the table
+take care of animals
+people will gather at the church .
+kind coworker
+persevering in study
+good morning to you , my fellow .
+take care on your journey .
+god bless you for your affection .
+cook a delicious broth
+sing a joyful song
+grandmother is patient at home .
+care for plants in the yard
+beauty of nature
+believe in your ability
+good evening to you all .
+joyful fellowship of friends
+harvesting plenty of fruits
+helpful family in town
+good condition at home
+trust the assembly
+organize the equipment
+be careful walking near the river
+good noon to you , teacher .
+joyful family gathering
+always speak the truth
+take good care of the soul
+breakfast is very delicious today .
+where are you going on saturday ?
+let us talk a little in the office
+my coworkers are kind .
+always take care on your trip .
+togetherness at home is joyful .
+organize books in the library
+discuss the lesson
+good afternoon to your family .
+cook a delicious dinner
+how much is the new dress ?
+take care traveling to the mountain
+good morning to you all .
+welcome to our town .
+clean the yard every morning
+converse well at school
+beauty of our culture
+god bless you for attending to us .
+coffee is very delicious early in the morning .
+where are the old items stored ?
+be careful walking on the road
+my close friends are helpful .
+clean up inside the bedroom
+let us discuss our dreams
+always care for nature
+good condition in the community
+study hard for the world
+thank you for your time and visit .
+kind teacher at school
+be careful running on the street
+god bless you all here .
+clean house every saturday
+mother is patient in the kitchen .
+converse thoroughly with family
+good morning to you , my friend .
+take good care of children
+the people in naga are helpful .
+always take care when you walk .
+god bless you for your appreciation .
+pedestrian pathway
+child of god
+studies daily
+take care of the river
+kind woman
+walks slowly
+why indeed
+it is already night
+fragrance of a flower
+inexpensive goods
+the street is wet
+entire family
+bought at the market
+star in the sky
+black hair
+stomach is full
+trip to naga
+do not be afraid
+do not fight
+no debt
+there are many people
+listen to me
+gathering of the public
+intimate / close friend
+sit here
+good noon
+two books
+school in naga
+diligent student
+gathering again
+vegetables at the market
+i want to study
+parent's advice / legacy
+wind from the mountain
+it is afternoon already
+near the church
+look at this
+you are my only friend
+take care on your journey
+drink water
+god love you
+study together
+fish from the sea
+yes indeed
+pleasantly good weather
+food on the table
+we will help you
+how are you my friend
+pencil and paper
+book in the library
+place of learning
+old house
+santol is sour
+god will repay
+elegant / handsome person
+kind family
+bag is heavy
+this is easy
+pathway is slippery
+the night is dark
+we will study well
+take good care
+entertain the child
+prepare breakfast
+manage the household
+nurture plants
+clip papers together
+save money
+work together on a project
+reside in naga
+let us talk properly
+what you said is impressive
+let us go home now
+everyone gets along
+the flower is beautiful
+read a book
+do homework
+serve cooked rice
+eat fruit
+bathe in the river
+walk on the street
+clean the yard
+cook laing
+just be patient
+ride a jeepney
+measure clothes
+write a poem
+let us help the family
+the goods are expensive
+the mango is sweet
+loving mother
+quiet inside the classroom
+the weather is hot
+wasteful with money
+playful child
+thoughtful friend
+the house is clean
+the moon is bright
+the song is sad
+our gathering is joyful
+good evening to you all
+good afternoon everyone
+good condition
+honest / upright person
+helpful family
+persevering in studies
+message from a friend
+grandmother is telling a story
+fruit is cheap at the market
+harvesting rice
+gathering knowledge
+careful when walking
+going back home
+the children sang
+mother cooked lunch
+father is working
+understood thoroughly
+when will you return home
+goodbye to you my friend
+studying in school
+taking care of family
+carefulness on the road
+gathering of knowledge
+good thinking / positive thoughts
+set aside the food
+teacher's explanation
+breakfast in the morning
+family dinner
+teacher at school
+how many books
+your family
+thank you for the help
+help for a friend
+i am from naga
+water from the mountain
+black gold
+we are studying bikol-naga very well .
+god bless you all .
+good morning
+good day
+good afternoon
+thank you
+take care
+how are you
+hot coffee
+cold water
+new book
+big house
+small room
+kind person
+diligent student
+delicious food
+when will you go home ?
+who arrived ?
+mother cooked food .
+father works on the farm .
+let us run in the yard .
+the family is happy at home .
+take care on your journey .
+the moon is bright at night .
+thank you for all your help .
+let us sing at the festival .
+my friend is kind .
+the house door is open now .
+she closed the window .
+peace in the heart
+helpful friend
+happy life
+joyful trust
+dream in life
+appreciation of culture
+converse properly
+gather knowledge
+take care traveling
+care for a child
+work properly
+honor parents
+help fellow humans
+good morning to you all
+good afternoon to the family
+good evening to the guests
+god bless you for the kindness
+pleased to meet you
+thank you for visiting here
+good day to all of you
+thank you very much for the help
+what shall we do now ?
+when will the guest arrive ?
+why are you rushing ?
+how can we pay for this ?
+how much is the price of fish ?
+how many children in class ?
+where is your friend from ?
+what time is the meeting ?
+we are studying bikol-naga at school .
+grandmother cooked delicious laing .
+father works at an office in town .
+let us run toward the house yard .
+the family is happy when gathering in the afternoon .
+the moon and stars are bright in the sky .
+thank you for all your love and help .
+let us sing a joyful song at the fiesta .
+the door leading inside the room is now open .
+write a poem about peace .
+drink hot coffee early in the morning .
+she closed the window because of heavy rain .
+god bless you all for your appreciation .
+the fishermen return home from the vast sea .
+the people trust the honest teacher .
+the people offer praise inside the church .
+the farmers harvest abundant rice .
+our team won the match in town .
+father is saving money for education .
+we traveled toward the high mountain .
+the student waits at the jeepney stop .
+the people cheered at the joyful fireworks .
+we believe in the capability of everyone .
+grandmother recalled the stories of the past .
+the path heading to the new school is fairly straight .
+the children inside the classroom are attentive .
+the dress bought at the store is handsome .
+the flowers in the house yard are fragrant .
+thank you for being patient with us .
+you are the only one i hope can go there .
+we will help clean the road .
+will you fill the container with water ?
+they are the farmers working on the farm .
+here in our place the harvest is abundant .
+there at your spot the wind is cool .
+this new book from the teacher is mine .
+the beautiful pencil on the table is yours .
+the shoes used for running belong to him .
+the house by the road belongs to us .
+the beautiful heritage of parents is ours .
+they owe money to the fruit vendor .
+what shall we do to make it clean ?
+who will sing a bikol song ?
+where are the old books stored ?
+when will all of us gather again ?
+why is it necessary to be careful on the road ?
+how much is the fare to rent a vehicle ?
+how many children study at school ?
+this is the book lent by the teacher .
+that is the house of my friend here .
+over there is the high hill in town .
+helpful coworker
+dream of the family
+converse properly
+take care when walking
+take good care of the child
+good condition in life
+kind and diligent friend
+clean inside the house
+good morning to you , my friend .
+good afternoon to all of you here .
+god bless you for your great help .
+welcome to our school .
+pleased to meet you this afternoon .
+take care on your way back home .
+thank you for your time and visiting here .
+good day to you , my friend .
+where is this new book hidden ?
+when will our guests from naga arrive ?
+how much is the price of fruit and vegetables at market ?
+how many students are inside the library ?
+where is your kind friend from ?
+what time is the family gathering at home ?
+we study hard in school every day .
+mother cooked delicious breakfast in the kitchen .
+father works on the farm for the family .
+let us run fast toward the yard .
+the children are happy when gathering at home .
+the stars and moon are bright tonight .
+thank you for all your help and love .
+let us sing a joyful song in town .
+the door of the new school in naga is open now .
+god bless you all for studying bikol .
+the fishermen are returning home from the sea .
+the people trust the honest leader .
+the people praise at church every sunday .
+we traveled toward the high mountain yesterday .
+the people cheered when seeing the fireworks .
+everyone became happy when the guests arrived .
+we believe in the capability of each one .
+grandmother recalled the stories of the past .
+the road heading to the school is fairly straight .
+the children observing the class are attentive .
+the dress bought by older sister at the market is fine .
+the flowers planted in the yard are fragrant .
+thank you for always being patient .
+you are the only one i hope can come now .
+we are the ones who will help clean the road .
+we are the ones going to the market to buy .
+they are the farmers working here .
+here in our place the vegetable harvest is abundant .
+there at your spot the wind is cool now .
+this new book from the teacher belongs to me .
+the beautiful pencil on top of the table is yours .
+the shoes used for running yesterday belong to him .
+the beautiful heritage of our parents belongs to us .
+what shall we do so that the river becomes clean ?
+who will sing a bikol song in town ?
+how much is the fee to rent a vehicle heading there ?
+heart's dream
+helpful native
+joyful gathering
+upright justice
+persevering in saving
+joyful nurturing
+beauty of life
+family's dream
+converse happily
+clean the surroundings
+be careful on the journey
+care for children
+honor the family
+help fellow human beings
+good evening to the guest
+god bless you for kindness
+what shall we do today ?
+who will come with us ?
+how many kids in class ?
+we are studying bikol-naga in school .
+father works in an office in town .
+let us run toward the yard of the house .
+my coworkers are kind and hardworking .
+the door leading into the room is open now .
+she closed the window due to heavy rain .
+the fishermen are returning from the vast sea .
+the people praise inside the church .
+our team won the game in town .
+the people shouted at the joyful fireworks .
+the path to the new school is fairly straight .
+the children in the class are attentive .
+we will help clean the street .
+arm around a friend
+very early morning walk
+echo in the mountain
+slow walk
+fragrance of flowers
+seashore in bicol
+mount isarog in naga
+land of the natives
+greeting to visitors
+heel of the foot
+blood of sacrifice
+festival attire
+wrinkles on face
+very high wall
+human body in the world
+tilted table
+beauty of the heavens
+pleasant flow of water
+fire inside the kitchen
+rust on old iron
+song of peace
+weakness of body from working
+noble community leader
+good morning to you , my sibling .
+god bless you for your great heart .
+welcome to the town of naga .
+pleased to partner with you today .
+take care on your travel on the road .
+good day to you , kind friend .
+thank you very much for your kindness .
+what shall we do for the festival ?
+who will sing in church today ?
+when will the teacher arrive for class ?
+why is it necessary to clean the yard ?
+how can we pay for the household items ?
+how many students are in the library now ?
+where is your hardworking coworker from ?
+what time is the community gathering at the plaza ?
+grandmother cooked delicious breakfast in the morning .
+father works on the farm for the family .
+let us run toward the riverbank .
+the children are happy while gathering knowledge .
+always take care walking on the slippery road .
+the moon and stars are bright at night .
+let us sing a joyful song inside the house .
+my native people are kind and industrious .
+the door of the library in town is open now .
+write a poem about the beauty of life .
+drink hot coffee before working .
+she closed the window of the house because of the wind .
+god bless you all for nurturing culture .
+the fishermen return home from the seashore in the afternoon .
+the driver takes care while traveling in the mountain .
+our team won the ball game at the plaza .
+father is saving money for the family's dream .
+we traveled toward the high mountain of isarog .
+the student waits at the jeepney stop on the street .
+the people cheered at the joyful fiesta in town .
+everyone became happy at the gathering of companions .
+grandmother recalled the stories of old times in naga .
+the path heading to the new school in town is fairly straight .
+thanks for the help
+always take care
+goodbye for now
+when will you return home ?
+how much is this ?
+mother cooked delicious food .
+father works in the office .
+the family is happy inside the house .
+be careful walking on the road .
+the moon is bright in the sky tonight .
+thank you for all your love .
+let us sing a beautiful song .
+my friend is kind and hardworking .

@@ -1,0 +1,32 @@
+raw_text,Bikol-Naga,English Translation,Category,confidence,reason,source_line
+BagBagNoun,Bag,Bag,Noun,0.980,identical sides,2
+DawParticle(wonder)Grammar,Daw,Particle (wonder),Grammar,0.980,length ratio exceeds 5:1,10
+ManiParticle(reportative)Grammar,Mani,Particle (reportative),Grammar,0.974,length ratio exceeds 5:1,10
+PaStill /YetGrammar,Pa,Still / Yet,Grammar,0.980,length ratio exceeds 5:1,10
+NaAlready/NowGrammar,Na,Already / Now,Grammar,0.980,length ratio exceeds 5:1,10
+TaBecause/ForGrammar,Ta,Because / For,Grammar,0.980,length ratio exceeds 5:1,10
+Papaya Papaya Noun,Papaya,Papaya,Noun,0.974,identical sides,20
+Rambutan Rambutan Noun,Rambutan,Rambutan,Noun,0.974,identical sides,20
+Papaya Papaya Noun,Papaya,Papaya,Noun,0.974,identical sides,31
+Rambutan Rambutan Noun,Rambutan,Rambutan,Noun,0.974,identical sides,31
+Naglakaw ang mga aki paduman sa gilid kan salog.The children walked toward the riverbank. Everyday,Naglakaw ang mga aki paduman sa gilid kan salog.,The children walked toward the riverbank.,Everyday,0.970,possible Tagalog: ang,379
+Nag-aani ang mga paratanom nin gulay sa bukid. Nag-iipon si Juan nin kwarta para sa saiyang The farmers are harvesting vegetables in the mountain.Everyday pag-adal.Juan is saving money for his studies. Everyday,Nag-aani ang mga paratanom nin gulay sa bukid.,The farmers are harvesting vegetables in the mountain.,Everyday,1.000,possible Tagalog: ang,381
+Nag-iingat ang drayber sa madalandag na tinampo.The driver is careful on the slippery road. Everyday,Nag-iingat ang drayber sa madalandag na tinampo.,The driver is careful on the slippery road.,Everyday,0.970,possible Tagalog: ang,386
+Nagtatrabaho ang ama sa opicina sa banwaan nin Naga.Father works in an office in the town of Naga. Everyday,Nagtatrabaho ang ama sa opicina sa banwaan nin Naga.,Father works in an office in the town of Naga.,Everyday,0.970,possible Tagalog: ang,388
+Nag-uuli ang mga estudyante kapag hapon na. Students go home when it is late afternoon. Everyday,Nag-uuli ang mga estudyante kapag hapon na.,Students go home when it is late afternoon.,Everyday,0.970,"possible Tagalog: ang, kapag",389
+Mabuot asin matinabangon ang sakong mga katrabaho.My coworkers are kind and helpful. Everyday,Mabuot asin matinabangon ang sakong mga katrabaho.,My coworkers are kind and helpful.,Everyday,0.970,possible Tagalog: ang,411
+Masiram ang kakanon na inihanda sa kapiestahan.The food prepared for the festival is delicious. Everyday,Masiram ang kakanon na inihanda sa kapiestahan.,The food prepared for the festival is delicious.,Everyday,0.970,possible Tagalog: ang,413
+Maliwanag ang mga ilaw sa palibot kan plaza. The lights around the plaza are bright. Everyday,Maliwanag ang mga ilaw sa palibot kan plaza.,The lights around the plaza are bright.,Everyday,0.970,possible Tagalog: ang,414
+Malipot ang hangin na nag-aabot hali sa bukid. The wind coming from the mountain is cold. Everyday,Malipot ang hangin na nag-aabot hali sa bukid.,The wind coming from the mountain is cold.,Everyday,0.970,possible Tagalog: ang,414
+Mainit ang panahon sa laog kan bulan nin Mayo.The weather is hot during the month of May. Everyday,Mainit ang panahon sa laog kan bulan nin Mayo.,The weather is hot during the month of May.,Everyday,0.970,possible Tagalog: ang,415
+Mataas ang pundasyon kan bagong gedli sa banwaan. Matanos ang dalan paduman sa bagong The foundation of the new building in town is high.Everyday eskwelahan.The road heading to the new school is straight. Everyday,Mataas ang pundasyon kan bagong gedli sa banwaan.,The foundation of the new building in town is high.,Everyday,1.000,possible Tagalog: ang,417
+Mataas ang pundasyon kan bagong gedli sa banwaan. Matanos ang dalan paduman sa bagong The foundation of the new building in town is high.Everyday eskwelahan.The road heading to the new school is straight. Everyday,Matanos ang dalan paduman sa bagong eskwelahan.,The road heading to the new school is straight.,Everyday,1.000,possible Tagalog: ang,417
+Malinig ang tubig na nag-aagos sa satong sapa.The water flowing in our creek is clean. Everyday,Malinig ang tubig na nag-aagos sa satong sapa.,The water flowing in our creek is clean.,Everyday,0.970,possible Tagalog: ang,422
+Mahamot ang mga burak na yaon sa bakuran. The flowers in the yard are fragrant. Everyday,Mahamot ang mga burak na yaon sa bakuran.,The flowers in the yard are fragrant.,Everyday,0.970,possible Tagalog: ang,423
+Pusog ang harong na ginibo kan sakong ama. The house built by my father is sturdy. Everyday,Pusog ang harong na ginibo kan sakong ama.,The house built by my father is sturdy.,Everyday,0.970,possible Tagalog: ang,423
+Nuarin maabot ang satong mga bisita hali sa malayo?When will our guests from afar arrive? Conversation,Nuarin maabot ang satong mga bisita hali sa malayo?,When will our guests from afar arrive?,Conversation,0.970,possible Tagalog: ang,428
+Pano mo ginibo ang magayon na proyekto na ini?How did you make this beautiful project? Conversation,Pano mo ginibo ang magayon na proyekto na ini?,How did you make this beautiful project?,Conversation,0.970,possible Tagalog: ang,432
+Aram mo daw kun sain ang daan paduman sa simbahan? Dios marhay na aga sa saimo asin sa saimong Do you happen to know where the road to the church is?Conversation pamilya.Good morning to you and your family. Greeting,Aram mo daw kun sain ang daan paduman sa simbahan?,Do you happen to know where the road to the church is?,Conversation,1.000,possible Tagalog: ang,440
+Salamat sa tulong Thank you for the help Greeting,Salamat sa tulong,Thank you for the help,Greeting,0.980,possible Tagalog: tulong,520
+Makarag an pagkain sa lamesa. The food on the table is wasted. Sentence,Makarag an pagkain sa lamesa.,The food on the table is wasted.,Sentence,0.970,possible Tagalog: pagkain,596
+Dios mabalos sa saimong tulong. God bless you for your help. Greeting,Dios mabalos sa saimong tulong.,God bless you for your help.,Greeting,0.970,possible Tagalog: tulong,610

@@ -1,0 +1,4 @@
+torch==2.15.0+cpu
+sentencepiece==0.2.3
+sacrebleu==2.6.0
+numpy==2.5.5

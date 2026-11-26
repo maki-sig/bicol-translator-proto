@@ -1,0 +1,15 @@
+Startup: 1767.5 ms
+Checkpoint: 11.41 MB
+Evaluation process peak working set: 265.8 MiB
+NMT beam 5: {'median_ms': 21.422999998321757, 'p95_ms': 37.3109000029217}
+Train-only dictionary queries: {'median_ms': 0.1880999989225529, 'p95_ms': 0.2720000011322554}
+Production dictionary exact hits: {'median_ms': 0.07019999975454994, 'p95_ms': 0.09610000051907264}
+Thread sweep (first 10 test pairs)
+1 threads, beam 1: {'median_ms': 36.49079999922833, 'p95_ms': 48.83989999871119}
+1 threads, beam 5: {'median_ms': 89.7243499985052, 'p95_ms': 101.17810000156169}
+4 threads, beam 1: {'median_ms': 31.47739999985788, 'p95_ms': 49.06020000271383}
+4 threads, beam 5: {'median_ms': 46.931700002460275, 'p95_ms': 124.82829999862588}
+6 threads, beam 1: {'median_ms': 22.134099999675527, 'p95_ms': 49.23179999968852}
+6 threads, beam 5: {'median_ms': 46.64599999887287, 'p95_ms': 107.75380000268342}
+8 threads, beam 1: {'median_ms': 34.39964999961376, 'p95_ms': 46.84859999906621}
+8 threads, beam 5: {'median_ms': 53.43754999921657, 'p95_ms': 83.67799999905401}
